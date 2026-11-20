@@ -1,4 +1,3 @@
-# bluestock-data-analyst-internship
 ## Week 2 Progress
 
 Completed:
