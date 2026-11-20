@@ -1,0 +1,1201 @@
+﻿Order ID,Order Date,Customer ID,Customer Name,Region,City,Category,Product Name,Quantity,Unit Price,Discount,Sales,Profit,Sales Channel,Payment Method,Month,Year
+ORD-00115,01-01-2025,CUST-004,Ananya Singh,South,Hyderabad,Accessories,Laptop Bag,1,1799,0.1,1619.1,1133.37,Online,Debit Card,1,2025
+ORD-00597,01-01-2025,CUST-005,Vihaan Kumar,East,Patna,Furniture,Desk Lamp,1,1499,0,1499,1049.3,Online,Credit Card,1,2025
+ORD-00701,01-01-2025,CUST-005,Vihaan Kumar,South,Hyderabad,Office Supplies,Notebook Pack,3,299,0.05,852.15,538.2,Store,Net Banking,1,2025
+ORD-00838,01-01-2025,CUST-017,Dev Malhotra,North,Jaipur,Accessories,Laptop Bag,5,1799,0.25,6746.25,4317.6,Store,Credit Card,1,2025
+ORD-00060,02-01-2025,CUST-020,Sara Thomas,East,Bhubaneswar,Furniture,Bookshelf,5,5499,0.25,20621.25,15397.2,Store,UPI,1,2025
+ORD-00246,02-01-2025,CUST-017,Dev Malhotra,Central,Nagpur,Furniture,Office Chair,5,7499,0,37495,29996,Store,UPI,1,2025
+ORD-00248,02-01-2025,CUST-006,Meera Nair,South,Hyderabad,Accessories,Phone Stand,3,399,0.1,1077.3,646.38,Store,Credit Card,1,2025
+ORD-00408,02-01-2025,CUST-016,Kiara Bose,Central,Bhopal,Office Supplies,File Folder,4,149,0.2,476.8,238.4,Online,Net Banking,1,2025
+ORD-00262,03-01-2025,CUST-020,Sara Thomas,North,Delhi,Office Supplies,Printer Paper,5,499,0.2,1996,1372.25,Online,Net Banking,1,2025
+ORD-00336,03-01-2025,CUST-020,Sara Thomas,Central,Nagpur,Electronics,USB-C Hub,5,1899,0.25,7121.25,4842.45,Online,Net Banking,1,2025
+ORD-00474,03-01-2025,CUST-007,Arjun Das,Central,Raipur,Accessories,Phone Stand,4,399,0.1,1436.4,861.84,Online,Credit Card,1,2025
+ORD-00692,03-01-2025,CUST-003,Ishaan Reddy,Central,Raipur,Accessories,Phone Stand,2,399,0.05,758.1,470.82,Online,Debit Card,1,2025
+ORD-00746,03-01-2025,CUST-008,Saanvi Gupta,South,Bengaluru,Furniture,Study Table,2,8999,0,17998,14938.34,Online,Cash,1,2025
+ORD-00835,03-01-2025,CUST-001,Aarav Sharma,Central,Raipur,Office Supplies,Printer Paper,6,499,0.1,2694.6,1946.1,Phone,Credit Card,1,2025
+ORD-00584,04-01-2025,CUST-007,Arjun Das,West,Mumbai,Electronics,USB-C Hub,1,1899,0,1899,1443.24,Store,Debit Card,1,2025
+ORD-01087,05-01-2025,CUST-018,Tara Kapoor,South,Chennai,Electronics,Bluetooth Speaker,1,2499,0,2499,1949.22,Online,UPI,1,2025
+ORD-00473,06-01-2025,CUST-007,Arjun Das,North,Lucknow,Furniture,Bookshelf,4,5499,0.2,17596.8,13417.56,Store,UPI,1,2025
+ORD-01037,06-01-2025,CUST-003,Ishaan Reddy,East,Guwahati,Accessories,Laptop Bag,6,1799,0.15,9174.9,6260.52,Online,Credit Card,1,2025
+ORD-00693,07-01-2025,CUST-009,Kabir Joshi,South,Chennai,Office Supplies,File Folder,5,149,0.1,670.5,372.5,Online,UPI,1,2025
+ORD-00730,07-01-2025,CUST-005,Vihaan Kumar,North,Jaipur,Office Supplies,Printer Paper,2,499,0.15,848.3,598.8,Online,Credit Card,1,2025
+ORD-00313,08-01-2025,CUST-003,Ishaan Reddy,Central,Nagpur,Office Supplies,Printer Paper,4,499,0.05,1896.2,1397.2,Online,Cash,1,2025
+ORD-01140,08-01-2025,CUST-001,Aarav Sharma,East,Patna,Office Supplies,File Folder,6,149,0.1,804.6,447,Online,Debit Card,1,2025
+ORD-00165,09-01-2025,CUST-011,Reyansh Shah,East,Bhubaneswar,Office Supplies,Pen Set,4,199,0.2,636.8,334.32,Store,Credit Card,1,2025
+ORD-00836,09-01-2025,CUST-013,Aditya Verma,Central,Raipur,Accessories,Laptop Bag,3,1799,0.1,4857.3,3400.11,Online,Cash,1,2025
+ORD-00901,09-01-2025,CUST-003,Ishaan Reddy,West,Pune,Accessories,Webcam,6,3299,0,19794,15637.26,Store,Net Banking,1,2025
+ORD-00308,10-01-2025,CUST-007,Arjun Das,West,Pune,Electronics,Bluetooth Speaker,6,2499,0.1,13494.6,10195.92,Online,Net Banking,1,2025
+ORD-00544,10-01-2025,CUST-001,Aarav Sharma,East,Guwahati,Electronics,Monitor,3,12499,0,37497,30747.54,Store,Cash,1,2025
+ORD-00311,12-01-2025,CUST-009,Kabir Joshi,East,Guwahati,Electronics,Bluetooth Speaker,5,2499,0.05,11870.25,9121.35,Store,Cash,1,2025
+ORD-00327,12-01-2025,CUST-017,Dev Malhotra,West,Pune,Electronics,Keyboard,3,1299,0,3897,2922.75,Online,Debit Card,1,2025
+ORD-00765,12-01-2025,CUST-012,Myra Rao,North,Chandigarh,Furniture,Study Table,4,8999,0.1,32396.4,26277.08,Online,UPI,1,2025
+ORD-01014,12-01-2025,CUST-001,Aarav Sharma,East,Bhubaneswar,Electronics,Bluetooth Speaker,6,2499,0.2,11995.2,8696.52,Online,Debit Card,1,2025
+ORD-00130,13-01-2025,CUST-001,Aarav Sharma,East,Bhubaneswar,Furniture,Desk Lamp,5,1499,0.1,6745.5,4497,Online,Debit Card,1,2025
+ORD-00221,13-01-2025,CUST-002,Diya Patel,North,Delhi,Office Supplies,File Folder,2,149,0,298,178.8,Phone,Net Banking,1,2025
+ORD-00280,14-01-2025,CUST-011,Reyansh Shah,South,Hyderabad,Accessories,Water Bottle,5,599,0.1,2695.5,1707.15,Store,Debit Card,1,2025
+ORD-00720,14-01-2025,CUST-003,Ishaan Reddy,South,Hyderabad,Office Supplies,Stapler,1,249,0,249,169.32,Store,UPI,1,2025
+ORD-00961,14-01-2025,CUST-009,Kabir Joshi,Central,Raipur,Electronics,USB-C Hub,2,1899,0,3798,2886.48,Online,Credit Card,1,2025
+ORD-00965,14-01-2025,CUST-010,Ira Menon,North,Delhi,Accessories,Laptop Bag,2,1799,0.1,3238.2,2266.74,Online,Cash,1,2025
+ORD-01106,14-01-2025,CUST-002,Diya Patel,West,Ahmedabad,Furniture,Office Chair,3,7499,0.05,21372.15,16872.75,Online,Credit Card,1,2025
+ORD-01127,14-01-2025,CUST-015,Rohan Kulkarni,West,Pune,Electronics,Keyboard,3,1299,0.2,3117.6,2143.35,Store,Debit Card,1,2025
+ORD-00170,15-01-2025,CUST-001,Aarav Sharma,Central,Bhopal,Electronics,Keyboard,3,1299,0.15,3312.45,2338.2,Online,Net Banking,1,2025
+ORD-00366,15-01-2025,CUST-008,Saanvi Gupta,South,Bengaluru,Electronics,Monitor,1,12499,0.2,9999.2,7749.38,Online,Cash,1,2025
+ORD-00591,15-01-2025,CUST-020,Sara Thomas,North,Lucknow,Office Supplies,Printer Paper,5,499,0.05,2370.25,1746.5,Store,Net Banking,1,2025
+ORD-00715,15-01-2025,CUST-009,Kabir Joshi,North,Jaipur,Furniture,Office Chair,3,7499,0.25,16872.75,12373.35,Phone,UPI,1,2025
+ORD-00744,15-01-2025,CUST-006,Meera Nair,Central,Bhopal,Office Supplies,Notebook Pack,5,299,0.15,1270.75,747.5,Store,Credit Card,1,2025
+ORD-00791,15-01-2025,CUST-005,Vihaan Kumar,Central,Bhopal,Electronics,Bluetooth Speaker,6,2499,0.2,11995.2,8696.52,Store,UPI,1,2025
+ORD-00299,16-01-2025,CUST-004,Ananya Singh,West,Mumbai,Electronics,USB-C Hub,6,1899,0.1,10254.6,7520.04,Online,UPI,1,2025
+ORD-00592,16-01-2025,CUST-013,Aditya Verma,West,Pune,Office Supplies,Notebook Pack,6,299,0.1,1614.6,986.7,Store,Cash,1,2025
+ORD-00622,16-01-2025,CUST-008,Saanvi Gupta,South,Hyderabad,Accessories,Phone Stand,5,399,0.1,1795.5,1077.3,Online,Cash,1,2025
+ORD-01008,16-01-2025,CUST-012,Myra Rao,Central,Indore,Electronics,Wireless Mouse,5,799,0.05,3795.25,2676.65,Online,Net Banking,1,2025
+ORD-00318,17-01-2025,CUST-011,Reyansh Shah,Central,Bhopal,Electronics,USB-C Hub,1,1899,0.1,1709.1,1253.34,Online,Net Banking,1,2025
+ORD-00433,17-01-2025,CUST-001,Aarav Sharma,West,Surat,Electronics,Wireless Mouse,2,799,0.15,1358.3,910.86,Online,Debit Card,1,2025
+ORD-00872,17-01-2025,CUST-003,Ishaan Reddy,North,Lucknow,Office Supplies,Notebook Pack,2,299,0.15,508.3,299,Store,Credit Card,1,2025
+ORD-00377,18-01-2025,CUST-002,Diya Patel,South,Chennai,Office Supplies,Printer Paper,3,499,0.1,1347.3,973.05,Store,Credit Card,1,2025
+ORD-00958,18-01-2025,CUST-012,Myra Rao,East,Guwahati,Electronics,Keyboard,1,1299,0.1,1169.1,844.35,Online,UPI,1,2025
+ORD-00267,19-01-2025,CUST-018,Unknown,Central,Nagpur,Accessories,Water Bottle,3,599,0.05,1707.15,1114.14,Store,Credit Card,1,2025
+ORD-00402,19-01-2025,CUST-014,Aadhya Iyer,West,Surat,Electronics,USB-C Hub,3,1899,0.2,4557.6,3190.32,Online,Net Banking,1,2025
+ORD-00586,19-01-2025,CUST-001,Aarav Sharma,South,Kochi,Electronics,Keyboard,1,1299,0.15,1104.15,779.4,Phone,Cash,1,2025
+ORD-00638,20-01-2025,CUST-001,Aarav Sharma,South,Chennai,Office Supplies,Stapler,3,249,0.1,672.3,433.26,Online,Credit Card,1,2025
+ORD-01022,20-01-2025,CUST-016,Kiara Bose,North,Chandigarh,Office Supplies,Pen Set,3,199,0,597,370.14,Online,Net Banking,1,2025
+ORD-00098,21-01-2025,CUST-001,Aarav Sharma,Central,Indore,Accessories,Laptop Bag,3,1799,0,5397,3939.81,Store,UPI,1,2025
+ORD-00374,21-01-2025,CUST-002,Diya Patel,Central,Indore,Office Supplies,Notebook Pack,5,299,0.1,1345.5,822.25,Store,Cash,1,2025
+ORD-00779,21-01-2025,CUST-011,Reyansh Shah,West,Mumbai,Office Supplies,Printer Paper,4,499,0,1996,1497,Online,Debit Card,1,2025
+ORD-01200,21-01-2025,CUST-015,Rohan Kulkarni,East,Kolkata,Office Supplies,Notebook Pack,2,299,0.2,478.4,269.1,Online,Credit Card,1,2025
+ORD-00215,22-01-2025,CUST-006,Meera Nair,West,Surat,Electronics,Monitor,1,12499,0,12499,10249.18,Online,UPI,1,2025
+ORD-00240,22-01-2025,CUST-016,Kiara Bose,South,Hyderabad,Electronics,Bluetooth Speaker,6,2499,0.1,13494.6,10195.92,Store,Cash,1,2025
+ORD-00628,22-01-2025,CUST-012,Myra Rao,East,Kolkata,Office Supplies,Printer Paper,1,499,0.1,449.1,324.35,Online,Credit Card,1,2025
+ORD-00728,22-01-2025,CUST-006,Meera Nair,South,Bengaluru,Accessories,Water Bottle,4,599,0.1,2156.4,1365.72,Phone,Credit Card,1,2025
+ORD-00302,23-01-2025,CUST-017,Dev Malhotra,East,Bhubaneswar,Electronics,Wireless Mouse,4,799,0.1,2876.4,1981.52,Store,Debit Card,1,2025
+ORD-00022,24-01-2025,CUST-016,Kiara Bose,Central,Nagpur,Furniture,Study Table,1,8999,0.1,8099.1,6569.27,Phone,Debit Card,1,2025
+ORD-00467,24-01-2025,CUST-008,Saanvi Gupta,West,Pune,Office Supplies,Pen Set,3,199,0,597,370.14,Phone,UPI,1,2025
+ORD-00726,24-01-2025,CUST-012,Myra Rao,West,Pune,Accessories,Water Bottle,2,599,0.05,1138.1,742.76,Online,Debit Card,1,2025
+ORD-00764,24-01-2025,CUST-004,Unknown,West,Mumbai,Electronics,USB-C Hub,3,1899,0,5697,4329.72,Online,Credit Card,1,2025
+ORD-01061,24-01-2025,CUST-020,Sara Thomas,South,Bengaluru,Furniture,Bookshelf,5,5499,0,27495,22270.95,Online,Net Banking,1,2025
+ORD-01171,24-01-2025,CUST-003,Ishaan Reddy,North,Jaipur,Office Supplies,File Folder,3,149,0.2,357.6,178.8,Store,UPI,1,2025
+ORD-01177,24-01-2025,CUST-010,Ira Menon,West,Pune,Electronics,USB-C Hub,3,1899,0.05,5412.15,4044.87,Store,Cash,1,2025
+ORD-00004,25-01-2025,CUST-008,Saanvi Gupta,West,Ahmedabad,Office Supplies,Stapler,6,249,0.2,1195.2,717.12,Online,Cash,1,2025
+ORD-00714,25-01-2025,CUST-007,Arjun Das,West,Surat,Electronics,Monitor,5,12499,0,62495,51245.9,Online,Credit Card,1,2025
+ORD-00936,25-01-2025,CUST-018,Tara Kapoor,South,Bengaluru,Electronics,Wireless Mouse,2,799,0,1598,1150.56,Online,Debit Card,1,2025
+ORD-00411,26-01-2025,CUST-013,Aditya Verma,East,Guwahati,Accessories,Webcam,5,3299,0.1,14845.5,11381.55,Store,Debit Card,1,2025
+ORD-00606,26-01-2025,CUST-010,Ira Menon,East,Bhubaneswar,Electronics,USB-C Hub,2,1899,0.05,3608.1,2696.58,Online,Cash,1,2025
+ORD-00609,26-01-2025,CUST-003,Ishaan Reddy,West,Ahmedabad,Office Supplies,File Folder,1,149,0.25,111.75,52.15,Phone,Cash,1,2025
+ORD-00645,26-01-2025,CUST-004,Ananya Singh,West,Pune,Electronics,Wireless Mouse,6,799,0,4794,3451.68,Store,Net Banking,1,2025
+ORD-00823,26-01-2025,CUST-008,Saanvi Gupta,West,Ahmedabad,Electronics,Bluetooth Speaker,5,2499,0.15,10620.75,7871.85,Store,Cash,1,2025
+ORD-00881,26-01-2025,CUST-007,Arjun Das,West,Surat,Electronics,USB-C Hub,5,1899,0.2,7596,5317.2,Store,Cash,1,2025
+ORD-00326,27-01-2025,CUST-001,Aarav Sharma,North,Jaipur,Office Supplies,Pen Set,6,199,0.05,1134.3,680.58,Online,UPI,1,2025
+ORD-00094,28-01-2025,CUST-018,Tara Kapoor,Central,Raipur,Office Supplies,Printer Paper,1,499,0.15,424.15,299.4,Store,Debit Card,1,2025
+ORD-00303,28-01-2025,CUST-015,Rohan Kulkarni,East,Guwahati,Office Supplies,Notebook Pack,5,299,0.2,1196,672.75,Online,Cash,1,2025
+ORD-00529,28-01-2025,CUST-015,Rohan Kulkarni,Central,Nagpur,Electronics,Monitor,1,12499,0.05,11874.05,9624.23,Online,Debit Card,1,2025
+ORD-00661,28-01-2025,CUST-004,Ananya Singh,North,Chandigarh,Electronics,Wireless Mouse,5,799,0.2,3196,2077.4,Online,Credit Card,1,2025
+ORD-01086,28-01-2025,CUST-003,Ishaan Reddy,South,Kochi,Furniture,Office Chair,3,7499,0.2,17997.6,13498.2,Store,UPI,1,2025
+ORD-01054,29-01-2025,CUST-005,Vihaan Kumar,West,Pune,Electronics,USB-C Hub,3,1899,0,5697,4329.72,Phone,Net Banking,1,2025
+ORD-00740,30-01-2025,CUST-015,Rohan Kulkarni,East,Bhubaneswar,Accessories,Webcam,3,3299,0.1,8907.3,6828.93,Store,Debit Card,1,2025
+ORD-00989,30-01-2025,CUST-006,Meera Nair,West,Mumbai,Office Supplies,Stapler,6,249,0,1494,1015.92,Online,UPI,1,2025
+ORD-01120,30-01-2025,CUST-016,Kiara Bose,South,Hyderabad,Office Supplies,Pen Set,3,199,0.15,507.45,280.59,Store,Cash,1,2025
+ORD-00477,31-01-2025,CUST-006,Meera Nair,North,Jaipur,Electronics,Bluetooth Speaker,2,2499,0.05,4748.1,3648.54,Online,Net Banking,1,2025
+ORD-00563,31-01-2025,CUST-018,Tara Kapoor,East,Kolkata,Furniture,Office Chair,4,7499,0.1,26996.4,20997.2,Store,Debit Card,1,2025
+ORD-00256,01-02-2025,CUST-001,Aarav Sharma,Central,Indore,Furniture,Study Table,1,8999,0.1,8099.1,6569.27,Online,Cash,2,2025
+ORD-00279,01-02-2025,CUST-009,Kabir Joshi,West,Mumbai,Furniture,Study Table,6,8999,0.1,48594.6,39415.62,Store,Cash,2,2025
+ORD-00570,01-02-2025,CUST-018,Tara Kapoor,North,Lucknow,Furniture,Bookshelf,2,5499,0.1,9898.2,7808.58,Online,Cash,2,2025
+ORD-00613,01-02-2025,CUST-008,Saanvi Gupta,West,Pune,Office Supplies,Printer Paper,4,499,0.1,1796.4,1297.4,Online,UPI,2,2025
+ORD-00734,01-02-2025,CUST-014,Aadhya Iyer,East,Guwahati,Electronics,Bluetooth Speaker,4,2499,0,9996,7796.88,Store,Cash,2,2025
+ORD-00054,02-02-2025,CUST-019,Neil Chawla,West,Mumbai,Office Supplies,File Folder,2,149,0.1,268.2,149,Store,UPI,2,2025
+ORD-01176,02-02-2025,CUST-008,Saanvi Gupta,Central,Bhopal,Office Supplies,Printer Paper,1,499,0.2,399.2,274.45,Store,Credit Card,2,2025
+ORD-00316,03-02-2025,CUST-007,Arjun Das,East,Kolkata,Electronics,USB-C Hub,6,1899,0,11394,8659.44,Store,Debit Card,2,2025
+ORD-00283,04-02-2025,CUST-003,Ishaan Reddy,East,Kolkata,Electronics,Wireless Mouse,4,799,0.1,2876.4,1981.52,Store,Debit Card,2,2025
+ORD-00422,04-02-2025,CUST-015,Rohan Kulkarni,North,Jaipur,Office Supplies,Pen Set,4,199,0,796,493.52,Online,Net Banking,2,2025
+ORD-01141,04-02-2025,CUST-015,Rohan Kulkarni,Central,Nagpur,Office Supplies,Stapler,1,249,0.15,211.65,131.97,Store,Debit Card,2,2025
+ORD-00931,05-02-2025,CUST-012,Myra Rao,East,Bhubaneswar,Furniture,Study Table,2,8999,0.1,16198.2,13138.54,Online,UPI,2,2025
+ORD-00193,06-02-2025,CUST-014,Aadhya Iyer,Central,Bhopal,Accessories,Webcam,5,3299,0,16495,13031.05,Store,Debit Card,2,2025
+ORD-00228,06-02-2025,CUST-020,Sara Thomas,East,Patna,Furniture,Study Table,3,8999,0.1,24297.3,19707.81,Online,Debit Card,2,2025
+ORD-00234,06-02-2025,CUST-003,Ishaan Reddy,Central,Indore,Electronics,Bluetooth Speaker,6,2499,0,14994,11695.32,Online,UPI,2,2025
+ORD-00994,06-02-2025,CUST-010,Ira Menon,West,Mumbai,Office Supplies,Stapler,5,249,0.1,1120.5,722.1,Online,Cash,2,2025
+ORD-01023,06-02-2025,CUST-002,Diya Patel,West,Mumbai,Office Supplies,Pen Set,1,199,0,199,123.38,Phone,UPI,2,2025
+ORD-00111,07-02-2025,CUST-007,Arjun Das,East,Guwahati,Office Supplies,Notebook Pack,3,299,0.25,672.75,358.8,Online,Net Banking,2,2025
+ORD-00194,07-02-2025,CUST-016,Kiara Bose,North,Delhi,Accessories,Webcam,5,3299,0.1,14845.5,11381.55,Online,Net Banking,2,2025
+ORD-00428,07-02-2025,CUST-011,Reyansh Shah,South,Chennai,Office Supplies,Printer Paper,2,499,0,998,748.5,Online,UPI,2,2025
+ORD-00511,07-02-2025,CUST-018,Tara Kapoor,East,Kolkata,Office Supplies,Notebook Pack,1,299,0.05,284.05,179.4,Online,Net Banking,2,2025
+ORD-00515,07-02-2025,CUST-004,Ananya Singh,West,Ahmedabad,Electronics,Monitor,5,12499,0.15,53120.75,41871.65,Store,UPI,2,2025
+ORD-01170,07-02-2025,CUST-020,Sara Thomas,East,Bhubaneswar,Office Supplies,Notebook Pack,6,299,0.1,1614.6,986.7,Store,Debit Card,2,2025
+ORD-00168,08-02-2025,CUST-016,Kiara Bose,West,Ahmedabad,Office Supplies,Pen Set,3,199,0.1,537.3,310.44,Store,Credit Card,2,2025
+ORD-00582,08-02-2025,CUST-016,Kiara Bose,West,Pune,Electronics,Monitor,6,12499,0,74994,61495.08,Phone,Net Banking,2,2025
+ORD-00841,08-02-2025,CUST-001,Aarav Sharma,West,Ahmedabad,Electronics,USB-C Hub,5,1899,0,9495,7216.2,Store,UPI,2,2025
+ORD-00445,09-02-2025,CUST-008,Saanvi Gupta,East,Kolkata,Accessories,Laptop Bag,5,1799,0,8995,6566.35,Phone,Debit Card,2,2025
+ORD-01059,09-02-2025,CUST-020,Sara Thomas,Central,Bhopal,Office Supplies,Pen Set,6,199,0.15,1014.9,561.18,Online,UPI,2,2025
+ORD-00691,10-02-2025,CUST-004,Ananya Singh,West,Pune,Office Supplies,Pen Set,5,199,0.1,895.5,517.4,Online,Net Banking,2,2025
+ORD-00849,10-02-2025,CUST-008,Saanvi Gupta,North,Lucknow,Furniture,Study Table,2,8999,0,17998,14938.34,Online,Debit Card,2,2025
+ORD-01185,10-02-2025,CUST-005,Vihaan Kumar,South,Hyderabad,Accessories,Water Bottle,2,599,0,1198,802.66,Online,Net Banking,2,2025
+ORD-00122,11-02-2025,CUST-016,Kiara Bose,Central,Nagpur,Furniture,Bookshelf,4,5499,0,21996,17816.76,Online,Debit Card,2,2025
+ORD-00210,11-02-2025,CUST-014,Aadhya Iyer,West,Mumbai,Electronics,USB-C Hub,3,1899,0.1,5127.3,3760.02,Online,UPI,2,2025
+ORD-00220,11-02-2025,CUST-008,Saanvi Gupta,South,Hyderabad,Furniture,Office Chair,1,7499,0,7499,5999.2,Online,Cash,2,2025
+ORD-01124,11-02-2025,CUST-014,Aadhya Iyer,West,Pune,Furniture,Desk Lamp,6,1499,0.1,8094.6,5396.4,Online,Debit Card,2,2025
+ORD-00079,12-02-2025,CUST-001,Aarav Sharma,East,Kolkata,Furniture,Desk Lamp,1,1499,0.2,1199.2,749.5,Online,UPI,2,2025
+ORD-00309,12-02-2025,CUST-004,Ananya Singh,Central,Raipur,Office Supplies,File Folder,3,149,0.1,402.3,223.5,Online,Credit Card,2,2025
+ORD-01132,12-02-2025,CUST-012,Myra Rao,North,Lucknow,Accessories,Phone Stand,3,399,0.05,1137.15,706.23,Online,Cash,2,2025
+ORD-00986,13-02-2025,CUST-004,Ananya Singh,North,Delhi,Office Supplies,Notebook Pack,5,299,0.25,1121.25,598,Store,Credit Card,2,2025
+ORD-00988,13-02-2025,CUST-005,Vihaan Kumar,North,Delhi,Furniture,Study Table,6,8999,0.15,45894.9,36715.92,Online,Credit Card,2,2025
+ORD-00695,14-02-2025,CUST-020,Sara Thomas,West,Mumbai,Accessories,Phone Stand,4,399,0.05,1516.2,941.64,Online,Net Banking,2,2025
+ORD-00745,14-02-2025,CUST-017,Dev Malhotra,Central,Bhopal,Electronics,Wireless Mouse,5,799,0.2,3196,2077.4,Online,Cash,2,2025
+ORD-00832,14-02-2025,CUST-003,Ishaan Reddy,South,Hyderabad,Furniture,Bookshelf,4,5499,0.15,18696.6,14517.36,Online,Credit Card,2,2025
+ORD-01031,14-02-2025,CUST-010,Ira Menon,North,Chandigarh,Furniture,Study Table,3,8999,0.1,24297.3,19707.81,Online,Credit Card,2,2025
+ORD-00124,15-02-2025,CUST-007,Arjun Das,West,Mumbai,Office Supplies,File Folder,6,149,0.1,804.6,447,Online,UPI,2,2025
+ORD-00373,15-02-2025,CUST-016,Kiara Bose,North,Delhi,Accessories,Laptop Bag,1,1799,0.15,1529.15,1043.42,Online,UPI,2,2025
+ORD-00663,15-02-2025,CUST-005,Vihaan Kumar,South,Hyderabad,Electronics,Keyboard,3,1299,0.05,3702.15,2727.9,Phone,UPI,2,2025
+ORD-00877,15-02-2025,CUST-004,Ananya Singh,North,Lucknow,Electronics,USB-C Hub,4,1899,0.2,6076.8,4253.76,Online,Credit Card,2,2025
+ORD-01058,15-02-2025,CUST-009,Kabir Joshi,West,Pune,Office Supplies,Pen Set,3,199,0,597,370.14,Online,Debit Card,2,2025
+ORD-01102,15-02-2025,CUST-004,Ananya Singh,Central,Indore,Accessories,Water Bottle,1,599,0.1,539.1,341.43,Store,Debit Card,2,2025
+ORD-01164,15-02-2025,CUST-006,Meera Nair,Central,Bhopal,Accessories,Laptop Bag,1,1799,0.1,1619.1,1133.37,Store,Credit Card,2,2025
+ORD-00208,16-02-2025,CUST-008,Saanvi Gupta,West,Surat,Furniture,Desk Lamp,3,1499,0,4497,3147.9,Store,Cash,2,2025
+ORD-00244,16-02-2025,CUST-007,Arjun Das,Central,Raipur,Accessories,Laptop Bag,3,1799,0.05,5127.15,3669.96,Phone,Cash,2,2025
+ORD-00834,16-02-2025,CUST-001,Aarav Sharma,West,Mumbai,Furniture,Study Table,6,8999,0,53994,44815.02,Online,Credit Card,2,2025
+ORD-00843,16-02-2025,CUST-002,Diya Patel,West,Mumbai,Office Supplies,Pen Set,6,199,0.1,1074.6,620.88,Store,Cash,2,2025
+ORD-01125,16-02-2025,CUST-016,Kiara Bose,North,Jaipur,Office Supplies,Notebook Pack,2,299,0.05,568.1,358.8,Online,UPI,2,2025
+ORD-00233,17-02-2025,CUST-007,Arjun Das,East,Unknown,Office Supplies,Pen Set,3,199,0.1,537.3,310.44,Store,Credit Card,2,2025
+ORD-00304,17-02-2025,CUST-020,Sara Thomas,East,Patna,Furniture,Desk Lamp,5,1499,0.05,7120.25,4871.75,Online,UPI,2,2025
+ORD-00436,17-02-2025,CUST-015,Rohan Kulkarni,South,Hyderabad,Accessories,Phone Stand,2,399,0.1,718.2,430.92,Store,Debit Card,2,2025
+ORD-00776,17-02-2025,CUST-016,Kiara Bose,North,Delhi,Accessories,Webcam,2,3299,0,6598,5212.42,Online,Credit Card,2,2025
+ORD-00870,17-02-2025,CUST-018,Tara Kapoor,East,Kolkata,Electronics,Monitor,3,12499,0.1,33747.3,26997.84,Online,Credit Card,2,2025
+ORD-01035,17-02-2025,CUST-002,Diya Patel,North,Jaipur,Furniture,Study Table,2,8999,0.05,17098.1,14038.44,Online,Credit Card,2,2025
+ORD-01156,17-02-2025,CUST-012,Myra Rao,Central,Indore,Office Supplies,Notebook Pack,4,299,0.1,1076.4,657.8,Store,UPI,2,2025
+ORD-00614,18-02-2025,CUST-005,Vihaan Kumar,South,Chennai,Electronics,Bluetooth Speaker,3,2499,0.25,5622.75,3973.41,Phone,Net Banking,2,2025
+ORD-00938,18-02-2025,CUST-013,Aditya Verma,North,Chandigarh,Electronics,Wireless Mouse,4,799,0.25,2397,1502.12,Online,Credit Card,2,2025
+ORD-00969,18-02-2025,CUST-013,Aditya Verma,Central,Raipur,Accessories,Webcam,1,3299,0.2,2639.2,1946.41,Store,Cash,2,2025
+ORD-00047,19-02-2025,CUST-015,Rohan Kulkarni,West,Ahmedabad,Office Supplies,Stapler,5,249,0.1,1120.5,722.1,Store,Net Banking,2,2025
+ORD-00105,19-02-2025,CUST-007,Arjun Das,East,Bhubaneswar,Furniture,Desk Lamp,1,1499,0,1499,1049.3,Online,Debit Card,2,2025
+ORD-00252,19-02-2025,CUST-014,Aadhya Iyer,Central,Nagpur,Office Supplies,Stapler,6,249,0.1,1344.6,866.52,Phone,Debit Card,2,2025
+ORD-00255,19-02-2025,CUST-006,Meera Nair,West,Surat,Electronics,Keyboard,1,1299,0.1,1169.1,844.35,Online,Debit Card,2,2025
+ORD-00626,19-02-2025,CUST-003,Ishaan Reddy,North,Chandigarh,Office Supplies,Pen Set,5,199,0.05,945.25,567.15,Phone,Cash,2,2025
+ORD-00053,20-02-2025,CUST-015,Rohan Kulkarni,East,Patna,Accessories,Laptop Bag,6,1799,0.2,8635.2,5720.82,Store,Debit Card,2,2025
+ORD-00056,20-02-2025,CUST-012,Myra Rao,West,Surat,Furniture,Office Chair,6,7499,0,44994,35995.2,Online,UPI,2,2025
+ORD-00211,20-02-2025,CUST-009,Kabir Joshi,Central,Bhopal,Electronics,Bluetooth Speaker,4,2499,0.05,9496.2,7297.08,Online,Debit Card,2,2025
+ORD-00392,20-02-2025,CUST-005,Vihaan Kumar,East,Kolkata,Furniture,Desk Lamp,4,1499,0.05,5696.2,3897.4,Online,Net Banking,2,2025
+ORD-00587,20-02-2025,CUST-017,Dev Malhotra,South,Hyderabad,Office Supplies,Stapler,6,249,0,1494,1015.92,Online,Credit Card,2,2025
+ORD-00605,20-02-2025,CUST-002,Diya Patel,South,Kochi,Accessories,Phone Stand,1,399,0.1,359.1,215.46,Store,Credit Card,2,2025
+ORD-00939,20-02-2025,CUST-008,Saanvi Gupta,North,Chandigarh,Office Supplies,Printer Paper,4,499,0,1996,1497,Store,Credit Card,2,2025
+ORD-00972,20-02-2025,CUST-004,Ananya Singh,Central,Bhopal,Accessories,Webcam,5,3299,0.1,14845.5,11381.55,Store,Debit Card,2,2025
+ORD-00247,21-02-2025,CUST-016,Kiara Bose,Central,Nagpur,Accessories,Water Bottle,2,599,0.2,958.4,563.06,Online,Net Banking,2,2025
+ORD-00596,21-02-2025,CUST-010,Ira Menon,South,Bengaluru,Office Supplies,Stapler,3,249,0,747,507.96,Online,UPI,2,2025
+ORD-01128,21-02-2025,CUST-009,Kabir Joshi,South,Hyderabad,Accessories,Water Bottle,2,599,0.1,1078.2,682.86,Store,Credit Card,2,2025
+ORD-00522,22-02-2025,CUST-009,Kabir Joshi,East,Bhubaneswar,Accessories,Phone Stand,2,399,0,798,510.72,Phone,Cash,2,2025
+ORD-00594,22-02-2025,CUST-017,Dev Malhotra,West,Pune,Electronics,Keyboard,3,1299,0.15,3312.45,2338.2,Online,UPI,2,2025
+ORD-00456,23-02-2025,CUST-019,Neil Chawla,North,Lucknow,Electronics,USB-C Hub,5,1899,0.25,7121.25,4842.45,Store,UPI,2,2025
+ORD-00558,23-02-2025,CUST-010,Ira Menon,West,Pune,Electronics,USB-C Hub,6,1899,0.15,9684.9,6950.34,Store,Debit Card,2,2025
+ORD-00588,23-02-2025,CUST-006,Meera Nair,South,Hyderabad,Furniture,Office Chair,5,7499,0.2,29996,22497,Store,Cash,2,2025
+ORD-01100,23-02-2025,CUST-015,Rohan Kulkarni,North,Jaipur,Accessories,Phone Stand,3,399,0.15,1017.45,586.53,Store,Cash,2,2025
+ORD-00028,25-02-2025,CUST-020,Sara Thomas,North,Lucknow,Furniture,Desk Lamp,6,1499,0.15,7644.9,4946.7,Store,Net Banking,2,2025
+ORD-00155,25-02-2025,CUST-009,Kabir Joshi,South,Hyderabad,Electronics,Bluetooth Speaker,5,2499,0.05,11870.25,9121.35,Phone,Cash,2,2025
+ORD-00335,25-02-2025,CUST-001,Aarav Sharma,East,Bhubaneswar,Furniture,Study Table,5,8999,0.1,40495.5,32846.35,Online,Debit Card,2,2025
+ORD-00471,25-02-2025,CUST-004,Ananya Singh,Central,Bhopal,Office Supplies,Printer Paper,6,499,0.05,2844.3,2095.8,Store,Net Banking,2,2025
+ORD-00480,25-02-2025,CUST-013,Aditya Verma,West,Surat,Furniture,Study Table,1,8999,0.15,7649.15,6119.32,Online,Credit Card,2,2025
+ORD-00684,25-02-2025,CUST-007,Arjun Das,South,Hyderabad,Electronics,Keyboard,6,1299,0.2,6235.2,4286.7,Online,UPI,2,2025
+ORD-00005,26-02-2025,CUST-011,Reyansh Shah,South,Hyderabad,Electronics,Bluetooth Speaker,5,2499,0.15,10620.75,7871.85,Phone,Debit Card,2,2025
+ORD-00081,26-02-2025,CUST-015,Rohan Kulkarni,West,Ahmedabad,Furniture,Desk Lamp,2,1499,0,2998,2098.6,Online,Debit Card,2,2025
+ORD-00275,26-02-2025,CUST-009,Kabir Joshi,East,Kolkata,Electronics,USB-C Hub,5,1899,0.2,7596,5317.2,Online,Net Banking,2,2025
+ORD-00545,26-02-2025,CUST-017,Dev Malhotra,West,Pune,Office Supplies,Pen Set,2,199,0.2,318.4,167.16,Online,Debit Card,2,2025
+ORD-01033,26-02-2025,CUST-004,Ananya Singh,East,Patna,Electronics,USB-C Hub,4,1899,0.05,7216.2,5393.16,Store,UPI,2,2025
+ORD-00578,27-02-2025,CUST-010,Ira Menon,North,Jaipur,Furniture,Desk Lamp,5,1499,0.1,6745.5,4497,Online,Credit Card,2,2025
+ORD-00611,27-02-2025,CUST-014,Aadhya Iyer,South,Chennai,Furniture,Office Chair,2,7499,0,14998,11998.4,Phone,Debit Card,2,2025
+ORD-00918,27-02-2025,CUST-010,Ira Menon,North,Delhi,Electronics,Monitor,2,12499,0.15,21248.3,16748.66,Store,Credit Card,2,2025
+ORD-01099,27-02-2025,CUST-017,Dev Malhotra,East,Bhubaneswar,Office Supplies,Pen Set,4,199,0.15,676.6,374.12,Store,Debit Card,2,2025
+ORD-01121,27-02-2025,CUST-015,Rohan Kulkarni,North,Delhi,Electronics,USB-C Hub,5,1899,0.2,7596,5317.2,Phone,Credit Card,2,2025
+ORD-00532,28-02-2025,CUST-001,Aarav Sharma,East,Bhubaneswar,Electronics,Wireless Mouse,6,799,0.15,4074.9,2732.58,Phone,Net Banking,2,2025
+ORD-01009,28-02-2025,CUST-017,Dev Malhotra,North,Jaipur,Electronics,Monitor,1,12499,0.2,9999.2,7749.38,Online,Debit Card,2,2025
+ORD-00679,01-03-2025,CUST-016,Kiara Bose,East,Bhubaneswar,Accessories,Water Bottle,3,599,0,1797,1203.99,Store,Credit Card,3,2025
+ORD-00718,01-03-2025,CUST-010,Ira Menon,West,Mumbai,Accessories,Water Bottle,1,599,0.1,539.1,341.43,Store,Debit Card,3,2025
+ORD-00828,01-03-2025,CUST-015,Rohan Kulkarni,West,Mumbai,Electronics,USB-C Hub,2,1899,0.2,3038.4,2126.88,Store,Credit Card,3,2025
+ORD-01104,01-03-2025,CUST-011,Reyansh Shah,North,Lucknow,Furniture,Study Table,5,8999,0.1,40495.5,32846.35,Online,Credit Card,3,2025
+ORD-00579,02-03-2025,CUST-005,Vihaan Kumar,South,Unknown,Accessories,Water Bottle,1,599,0.05,569.05,371.38,Online,Credit Card,3,2025
+ORD-01018,02-03-2025,CUST-011,Reyansh Shah,West,Ahmedabad,Electronics,Bluetooth Speaker,1,2499,0.25,1874.25,1324.47,Online,UPI,3,2025
+ORD-00330,03-03-2025,CUST-018,Tara Kapoor,West,Ahmedabad,Accessories,Water Bottle,3,599,0.15,1527.45,934.44,Online,Net Banking,3,2025
+ORD-00725,03-03-2025,CUST-009,Kabir Joshi,Central,Indore,Furniture,Office Chair,1,7499,0.15,6374.15,4874.35,Online,Credit Card,3,2025
+ORD-00189,04-03-2025,CUST-016,Kiara Bose,East,Patna,Office Supplies,File Folder,6,149,0.1,804.6,447,Online,Net Banking,3,2025
+ORD-00567,04-03-2025,CUST-001,Aarav Sharma,Central,Indore,Office Supplies,Notebook Pack,6,299,0.1,1614.6,986.7,Online,Cash,3,2025
+ORD-00801,04-03-2025,CUST-017,Dev Malhotra,Central,Indore,Electronics,Keyboard,2,1299,0,2598,1948.5,Online,Net Banking,3,2025
+ORD-01159,04-03-2025,CUST-019,Neil Chawla,West,Mumbai,Furniture,Desk Lamp,5,1499,0,7495,5246.5,Online,Cash,3,2025
+ORD-00226,05-03-2025,CUST-014,Aadhya Iyer,North,Lucknow,Furniture,Office Chair,5,7499,0.1,33745.5,26246.5,Store,Credit Card,3,2025
+ORD-00357,05-03-2025,CUST-006,Meera Nair,West,Surat,Electronics,Keyboard,1,1299,0.1,1169.1,844.35,Phone,Net Banking,3,2025
+ORD-00504,05-03-2025,CUST-012,Myra Rao,North,Chandigarh,Accessories,Water Bottle,4,599,0.15,2036.6,1245.92,Store,Cash,3,2025
+ORD-00604,05-03-2025,CUST-018,Tara Kapoor,East,Kolkata,Electronics,Monitor,3,12499,0.2,29997.6,23248.14,Store,Credit Card,3,2025
+ORD-00651,06-03-2025,CUST-018,Tara Kapoor,East,Guwahati,Office Supplies,File Folder,6,149,0.05,849.3,491.7,Phone,Cash,3,2025
+ORD-00840,06-03-2025,CUST-011,Reyansh Shah,North,Jaipur,Accessories,Phone Stand,2,399,0.1,718.2,430.92,Online,UPI,3,2025
+ORD-00855,06-03-2025,CUST-013,Aditya Verma,Central,Nagpur,Furniture,Office Chair,2,7499,0.2,11998.4,8998.8,Online,Debit Card,3,2025
+ORD-00624,07-03-2025,CUST-014,Aadhya Iyer,West,Ahmedabad,Accessories,Laptop Bag,4,1799,0.1,6476.4,4533.48,Store,Net Banking,3,2025
+ORD-00677,07-03-2025,CUST-013,Aditya Verma,North,Lucknow,Furniture,Study Table,3,8999,0,26997,22407.51,Store,Cash,3,2025
+ORD-00867,07-03-2025,CUST-015,Rohan Kulkarni,West,Pune,Furniture,Study Table,6,8999,0,53994,44815.02,Online,Debit Card,3,2025
+ORD-00238,08-03-2025,CUST-008,Saanvi Gupta,Central,Indore,Electronics,Keyboard,2,1299,0.1,2338.2,1688.7,Online,Credit Card,3,2025
+ORD-00935,08-03-2025,CUST-001,Aarav Sharma,North,Lucknow,Electronics,Wireless Mouse,1,799,0.1,719.1,495.38,Store,Cash,3,2025
+ORD-00945,08-03-2025,CUST-018,Tara Kapoor,South,Chennai,Electronics,Monitor,1,12499,0,12499,10249.18,Online,Cash,3,2025
+ORD-00146,09-03-2025,CUST-009,Kabir Joshi,North,Delhi,Furniture,Office Chair,2,7499,0.15,12748.3,9748.7,Store,Net Banking,3,2025
+ORD-00184,09-03-2025,CUST-008,Saanvi Gupta,West,Surat,Furniture,Desk Lamp,6,1499,0.25,6745.5,4047.3,Online,Net Banking,3,2025
+ORD-00406,09-03-2025,CUST-011,Reyansh Shah,Central,Nagpur,Office Supplies,Stapler,3,249,0.1,672.3,433.26,Store,Credit Card,3,2025
+ORD-00607,09-03-2025,CUST-019,Neil Chawla,West,Mumbai,Electronics,Wireless Mouse,5,799,0.1,3595.5,2476.9,Online,Credit Card,3,2025
+ORD-00955,09-03-2025,CUST-010,Ira Menon,East,Kolkata,Office Supplies,Printer Paper,2,499,0.15,848.3,598.8,Online,UPI,3,2025
+ORD-00020,10-03-2025,CUST-010,Ira Menon,East,Guwahati,Electronics,Wireless Mouse,2,799,0,1598,1150.56,Store,UPI,3,2025
+ORD-00104,10-03-2025,CUST-012,Myra Rao,East,Guwahati,Electronics,Wireless Mouse,6,799,0.15,4074.9,2732.58,Online,Debit Card,3,2025
+ORD-00227,10-03-2025,CUST-016,Kiara Bose,Central,Bhopal,Accessories,Laptop Bag,5,1799,0.1,8095.5,5666.85,Online,UPI,3,2025
+ORD-00251,10-03-2025,CUST-005,Vihaan Kumar,South,Bengaluru,Furniture,Bookshelf,2,5499,0.1,9898.2,7808.58,Online,Cash,3,2025
+ORD-00272,10-03-2025,CUST-002,Diya Patel,North,Delhi,Electronics,Wireless Mouse,1,799,0,799,575.28,Online,Net Banking,3,2025
+ORD-00291,10-03-2025,CUST-009,Kabir Joshi,East,Patna,Electronics,Keyboard,4,1299,0.1,4676.4,3377.4,Online,UPI,3,2025
+ORD-00346,10-03-2025,CUST-008,Saanvi Gupta,South,Chennai,Electronics,USB-C Hub,2,1899,0.05,3608.1,2696.58,Online,Cash,3,2025
+ORD-01143,10-03-2025,CUST-010,Ira Menon,West,Surat,Office Supplies,Printer Paper,5,499,0,2495,1871.25,Store,Net Banking,3,2025
+ORD-00559,11-03-2025,CUST-003,Ishaan Reddy,South,Bengaluru,Office Supplies,Stapler,2,249,0.25,373.5,214.14,Store,Cash,3,2025
+ORD-01078,11-03-2025,CUST-012,Myra Rao,West,Ahmedabad,Accessories,Phone Stand,4,399,0.2,1276.8,702.24,Store,Debit Card,3,2025
+ORD-00197,12-03-2025,CUST-005,Vihaan Kumar,East,Kolkata,Furniture,Office Chair,6,7499,0.2,35995.2,26996.4,Store,Debit Card,3,2025
+ORD-00254,12-03-2025,CUST-006,Meera Nair,North,Chandigarh,Furniture,Office Chair,5,7499,0.2,29996,22497,Online,Net Banking,3,2025
+ORD-00384,12-03-2025,CUST-009,Kabir Joshi,West,Surat,Accessories,Laptop Bag,1,1799,0.2,1439.2,953.47,Online,Net Banking,3,2025
+ORD-00797,12-03-2025,CUST-005,Vihaan Kumar,West,Mumbai,Electronics,Wireless Mouse,4,799,0.1,2876.4,1981.52,Online,Debit Card,3,2025
+ORD-00805,12-03-2025,CUST-008,Saanvi Gupta,Central,Bhopal,Electronics,Wireless Mouse,1,799,0.2,639.2,415.48,Phone,Credit Card,3,2025
+ORD-00502,13-03-2025,CUST-012,Myra Rao,North,Delhi,Furniture,Study Table,1,8999,0,8999,7469.17,Online,Cash,3,2025
+ORD-00065,14-03-2025,CUST-017,Dev Malhotra,East,Patna,Office Supplies,Notebook Pack,1,299,0.15,254.15,149.5,Online,UPI,3,2025
+ORD-00138,14-03-2025,CUST-005,Vihaan Kumar,South,Hyderabad,Accessories,Phone Stand,1,399,0.15,339.15,195.51,Online,Net Banking,3,2025
+ORD-00851,14-03-2025,CUST-003,Ishaan Reddy,Central,Raipur,Furniture,Desk Lamp,1,1499,0.2,1199.2,749.5,Online,Debit Card,3,2025
+ORD-00899,14-03-2025,CUST-002,Diya Patel,Central,Indore,Furniture,Bookshelf,2,5499,0.05,10448.1,8358.48,Online,Cash,3,2025
+ORD-01046,14-03-2025,CUST-013,Aditya Verma,West,Surat,Office Supplies,Notebook Pack,4,299,0.15,1016.6,598,Store,UPI,3,2025
+ORD-00084,15-03-2025,CUST-012,Myra Rao,Central,Nagpur,Accessories,Webcam,6,3299,0.25,14845.5,10688.76,Online,UPI,3,2025
+ORD-00716,15-03-2025,CUST-010,Ira Menon,South,Chennai,Furniture,Desk Lamp,6,1499,0.2,7195.2,4497,Online,UPI,3,2025
+ORD-00768,15-03-2025,CUST-004,Ananya Singh,South,Chennai,Office Supplies,Printer Paper,6,499,0,2994,2245.5,Store,UPI,3,2025
+ORD-01197,15-03-2025,CUST-009,Kabir Joshi,South,Kochi,Furniture,Bookshelf,3,5499,0,16497,13362.57,Store,UPI,3,2025
+ORD-00860,17-03-2025,CUST-020,Sara Thomas,West,Ahmedabad,Office Supplies,Printer Paper,4,499,0.05,1896.2,1397.2,Store,Debit Card,3,2025
+ORD-00083,18-03-2025,CUST-014,Aadhya Iyer,Central,Nagpur,Electronics,USB-C Hub,5,1899,0,9495,7216.2,Online,Debit Card,3,2025
+ORD-00360,18-03-2025,CUST-014,Aadhya Iyer,North,Chandigarh,Furniture,Office Chair,6,7499,0.05,42744.3,33745.5,Online,Debit Card,3,2025
+ORD-01118,18-03-2025,CUST-011,Reyansh Shah,Central,Bhopal,Accessories,Webcam,1,3299,0.1,2969.1,2276.31,Online,UPI,3,2025
+ORD-01142,18-03-2025,CUST-010,Ira Menon,South,Hyderabad,Accessories,Phone Stand,1,399,0,399,255.36,Online,UPI,3,2025
+ORD-00351,20-03-2025,CUST-015,Rohan Kulkarni,North,Lucknow,Office Supplies,Notebook Pack,1,299,0.1,269.1,164.45,Online,UPI,3,2025
+ORD-00492,20-03-2025,CUST-014,Aadhya Iyer,North,Jaipur,Office Supplies,Printer Paper,4,499,0.05,1896.2,1397.2,Online,Debit Card,3,2025
+ORD-00070,21-03-2025,CUST-001,Aarav Sharma,North,Jaipur,Office Supplies,Notebook Pack,6,299,0.15,1524.9,897,Online,UPI,3,2025
+ORD-00429,21-03-2025,CUST-007,Arjun Das,North,Chandigarh,Furniture,Bookshelf,5,5499,0.15,23370.75,18146.7,Online,Debit Card,3,2025
+ORD-00443,21-03-2025,CUST-018,Tara Kapoor,East,Bhubaneswar,Electronics,Keyboard,1,1299,0.1,1169.1,844.35,Online,Debit Card,3,2025
+ORD-00786,21-03-2025,CUST-017,Dev Malhotra,North,Lucknow,Office Supplies,Stapler,3,249,0,747,507.96,Online,Credit Card,3,2025
+ORD-00370,22-03-2025,CUST-012,Myra Rao,North,Jaipur,Office Supplies,Stapler,5,249,0.15,1058.25,659.85,Store,Net Banking,3,2025
+ORD-00555,22-03-2025,CUST-020,Sara Thomas,South,Kochi,Furniture,Office Chair,3,7499,0,22497,17997.6,Online,Credit Card,3,2025
+ORD-01192,22-03-2025,CUST-019,Neil Chawla,East,Kolkata,Accessories,Phone Stand,5,399,0.1,1795.5,1077.3,Store,Debit Card,3,2025
+ORD-00142,23-03-2025,CUST-007,Arjun Das,North,Lucknow,Electronics,Monitor,4,12499,0,49996,40996.72,Store,Net Banking,3,2025
+ORD-00442,23-03-2025,CUST-019,Neil Chawla,East,Patna,Office Supplies,Pen Set,1,199,0.1,179.1,103.48,Online,Debit Card,3,2025
+ORD-00767,23-03-2025,CUST-016,Kiara Bose,South,Chennai,Accessories,Webcam,4,3299,0,13196,10424.84,Online,UPI,3,2025
+ORD-00889,23-03-2025,CUST-007,Arjun Das,Central,Bhopal,Office Supplies,Pen Set,3,199,0.15,507.45,280.59,Online,Credit Card,3,2025
+ORD-01029,23-03-2025,CUST-011,Reyansh Shah,East,Bhubaneswar,Accessories,Phone Stand,2,399,0.2,638.4,351.12,Store,Credit Card,3,2025
+ORD-01066,23-03-2025,CUST-007,Arjun Das,East,Guwahati,Furniture,Bookshelf,2,5499,0.05,10448.1,8358.48,Online,Net Banking,3,2025
+ORD-01145,23-03-2025,CUST-002,Diya Patel,Central,Raipur,Furniture,Office Chair,3,7499,0.2,17997.6,13498.2,Store,Net Banking,3,2025
+ORD-00003,24-03-2025,CUST-010,Ira Menon,East,Guwahati,Furniture,Desk Lamp,1,1499,0,1499,1049.3,Store,Credit Card,3,2025
+ORD-00243,24-03-2025,CUST-015,Rohan Kulkarni,West,Surat,Electronics,Monitor,2,12499,0.2,19998.4,15498.76,Phone,Cash,3,2025
+ORD-00753,24-03-2025,CUST-007,Arjun Das,Central,Indore,Accessories,Water Bottle,6,599,0.1,3234.6,2048.58,Online,Cash,3,2025
+ORD-00503,25-03-2025,CUST-002,Diya Patel,North,Delhi,Furniture,Study Table,3,8999,0.15,22947.45,18357.96,Phone,Credit Card,3,2025
+ORD-00777,25-03-2025,CUST-012,Myra Rao,East,Patna,Accessories,Laptop Bag,5,1799,0,8995,6566.35,Phone,Net Banking,3,2025
+ORD-01138,25-03-2025,CUST-005,Vihaan Kumar,South,Kochi,Electronics,Wireless Mouse,5,799,0.2,3196,2077.4,Online,Net Banking,3,2025
+ORD-00664,26-03-2025,CUST-016,Kiara Bose,West,Pune,Office Supplies,File Folder,2,149,0.2,238.4,119.2,Store,UPI,3,2025
+ORD-00973,26-03-2025,CUST-020,Sara Thomas,Central,Indore,Office Supplies,Printer Paper,2,499,0.2,798.4,548.9,Online,Cash,3,2025
+ORD-00494,27-03-2025,CUST-001,Aarav Sharma,Central,Raipur,Furniture,Office Chair,1,7499,0,7499,5999.2,Online,UPI,3,2025
+ORD-00686,27-03-2025,CUST-011,Reyansh Shah,West,Ahmedabad,Office Supplies,Pen Set,3,199,0,597,370.14,Online,Debit Card,3,2025
+ORD-00367,28-03-2025,CUST-002,Diya Patel,East,Kolkata,Accessories,Phone Stand,3,399,0,1197,766.08,Online,Credit Card,3,2025
+ORD-00394,28-03-2025,CUST-001,Aarav Sharma,South,Kochi,Office Supplies,File Folder,2,149,0.1,268.2,149,Store,UPI,3,2025
+ORD-00763,28-03-2025,CUST-019,Neil Chawla,Central,Raipur,Electronics,Monitor,3,12499,0,37497,30747.54,Online,Cash,3,2025
+ORD-00822,28-03-2025,CUST-017,Dev Malhotra,West,Ahmedabad,Office Supplies,Pen Set,2,199,0.1,378.1,226.86,Store,UPI,3,2025
+ORD-00829,28-03-2025,CUST-006,Meera Nair,Central,Raipur,Electronics,USB-C Hub,1,1899,0,1899,1443.24,Online,Debit Card,3,2025
+ORD-00940,28-03-2025,CUST-020,Sara Thomas,Central,Bhopal,Furniture,Desk Lamp,6,1499,0,8994,6295.8,Store,Credit Card,3,2025
+ORD-00008,29-03-2025,CUST-006,Meera Nair,Central,Raipur,Furniture,Desk Lamp,5,1499,0,7495,5246.5,Online,UPI,3,2025
+ORD-00962,29-03-2025,CUST-013,Aditya Verma,Central,Bhopal,Accessories,Water Bottle,3,599,0.2,1437.6,844.59,Online,Credit Card,3,2025
+ORD-01199,29-03-2025,CUST-020,Sara Thomas,Central,Nagpur,Office Supplies,File Folder,3,149,0.1,402.3,223.5,Online,Net Banking,3,2025
+ORD-00087,30-03-2025,CUST-006,Meera Nair,West,Surat,Electronics,Bluetooth Speaker,6,2499,0.1,13494.6,10195.92,Store,Debit Card,3,2025
+ORD-00132,30-03-2025,CUST-019,Neil Chawla,North,Lucknow,Accessories,Webcam,2,3299,0.1,5938.2,4552.62,Store,Cash,3,2025
+ORD-00798,31-03-2025,CUST-001,Aarav Sharma,West,Mumbai,Furniture,Bookshelf,5,5499,0,27495,22270.95,Online,Net Banking,3,2025
+ORD-00147,01-04-2025,CUST-015,Rohan Kulkarni,West,Mumbai,Office Supplies,Pen Set,2,199,0,398,246.76,Phone,UPI,4,2025
+ORD-00236,01-04-2025,CUST-006,Meera Nair,East,Guwahati,Electronics,Keyboard,2,1299,0,2598,1948.5,Store,Debit Card,4,2025
+ORD-00261,01-04-2025,CUST-016,Kiara Bose,Central,Nagpur,Accessories,Webcam,5,3299,0.15,14020.75,10556.8,Online,Cash,4,2025
+ORD-00821,01-04-2025,CUST-006,Meera Nair,East,Kolkata,Office Supplies,Stapler,3,249,0.05,709.65,470.61,Store,Credit Card,4,2025
+ORD-01007,01-04-2025,CUST-004,Ananya Singh,Central,Raipur,Accessories,Phone Stand,1,399,0.1,359.1,215.46,Online,UPI,4,2025
+ORD-00048,02-04-2025,CUST-013,Aditya Verma,East,Bhubaneswar,Furniture,Bookshelf,2,5499,0,10998,8908.38,Online,Debit Card,4,2025
+ORD-00577,02-04-2025,CUST-005,Vihaan Kumar,North,Lucknow,Office Supplies,Notebook Pack,6,299,0.05,1704.3,1076.4,Online,Net Banking,4,2025
+ORD-00876,02-04-2025,CUST-018,Tara Kapoor,North,Delhi,Office Supplies,Notebook Pack,4,299,0,1196,777.4,Store,Debit Card,4,2025
+ORD-00143,03-04-2025,CUST-002,Diya Patel,East,Kolkata,Electronics,Bluetooth Speaker,3,2499,0.2,5997.6,4348.26,Store,Debit Card,4,2025
+ORD-00343,03-04-2025,CUST-018,Tara Kapoor,South,Hyderabad,Accessories,Laptop Bag,3,1799,0,5397,3939.81,Online,UPI,4,2025
+ORD-00599,03-04-2025,CUST-009,Kabir Joshi,North,Delhi,Accessories,Webcam,4,3299,0.15,11216.6,8445.44,Online,Cash,4,2025
+ORD-01090,03-04-2025,CUST-017,Dev Malhotra,North,Lucknow,Accessories,Webcam,6,3299,0.15,16824.9,12668.16,Store,Credit Card,4,2025
+ORD-01108,03-04-2025,CUST-018,Tara Kapoor,Central,Bhopal,Electronics,Bluetooth Speaker,5,2499,0.15,10620.75,7871.85,Online,Credit Card,4,2025
+ORD-00181,04-04-2025,CUST-012,Myra Rao,East,Patna,Office Supplies,Pen Set,2,199,0.1,358.2,206.96,Store,Cash,4,2025
+ORD-00551,04-04-2025,CUST-009,Kabir Joshi,East,Guwahati,Accessories,Water Bottle,5,599,0,2995,2006.65,Store,Cash,4,2025
+ORD-00338,05-04-2025,CUST-015,Rohan Kulkarni,North,Delhi,Office Supplies,Pen Set,1,199,0.1,179.1,103.48,Online,Net Banking,4,2025
+ORD-00623,05-04-2025,CUST-011,Reyansh Shah,West,Mumbai,Furniture,Desk Lamp,4,1499,0.05,5696.2,3897.4,Online,UPI,4,2025
+ORD-00792,05-04-2025,CUST-019,Neil Chawla,East,Kolkata,Furniture,Bookshelf,2,5499,0.2,8798.4,6708.78,Online,Net Banking,4,2025
+ORD-00856,05-04-2025,CUST-003,Ishaan Reddy,South,Hyderabad,Office Supplies,Pen Set,6,199,0.05,1134.3,680.58,Online,UPI,4,2025
+ORD-00458,06-04-2025,CUST-003,Ishaan Reddy,East,Bhubaneswar,Office Supplies,Pen Set,6,199,0.1,1074.6,620.88,Store,Net Banking,4,2025
+ORD-00941,06-04-2025,CUST-010,Ira Menon,West,Surat,Furniture,Office Chair,2,7499,0.1,13498.2,10498.6,Store,Debit Card,4,2025
+ORD-00932,07-04-2025,CUST-005,Vihaan Kumar,East,Patna,Accessories,Webcam,1,3299,0,3299,2606.21,Store,UPI,4,2025
+ORD-00023,08-04-2025,CUST-017,Dev Malhotra,North,Jaipur,Furniture,Bookshelf,6,5499,0.1,29694.6,23425.74,Online,Credit Card,4,2025
+ORD-00180,08-04-2025,CUST-018,Tara Kapoor,North,Jaipur,Electronics,Wireless Mouse,5,799,0.1,3595.5,2476.9,Online,Net Banking,4,2025
+ORD-00833,08-04-2025,CUST-018,Unknown,West,Surat,Accessories,Laptop Bag,1,1799,0.05,1709.05,1223.32,Online,Cash,4,2025
+ORD-00948,08-04-2025,CUST-001,Aarav Sharma,North,Delhi,Furniture,Bookshelf,1,5499,0.2,4399.2,3354.39,Store,Cash,4,2025
+ORD-00967,08-04-2025,CUST-014,Aadhya Iyer,East,Bhubaneswar,Office Supplies,Notebook Pack,5,299,0,1495,971.75,Store,UPI,4,2025
+ORD-00995,08-04-2025,CUST-015,Rohan Kulkarni,North,Chandigarh,Office Supplies,Stapler,1,249,0.2,199.2,119.52,Online,Net Banking,4,2025
+ORD-01019,08-04-2025,CUST-001,Aarav Sharma,North,Lucknow,Electronics,Monitor,4,12499,0.05,47496.2,38496.92,Online,UPI,4,2025
+ORD-01042,08-04-2025,CUST-017,Dev Malhotra,Central,Bhopal,Furniture,Study Table,3,8999,0.05,25647.15,21057.66,Online,Debit Card,4,2025
+ORD-00069,09-04-2025,CUST-001,Aarav Sharma,Central,Nagpur,Electronics,USB-C Hub,1,1899,0.25,1424.25,968.49,Store,Debit Card,4,2025
+ORD-00205,09-04-2025,CUST-002,Diya Patel,Central,Bhopal,Office Supplies,Pen Set,5,199,0.15,845.75,467.65,Online,Credit Card,4,2025
+ORD-00501,09-04-2025,CUST-009,Kabir Joshi,North,Jaipur,Office Supplies,File Folder,6,149,0,894,536.4,Store,UPI,4,2025
+ORD-00968,09-04-2025,CUST-020,Sara Thomas,East,Guwahati,Furniture,Office Chair,3,7499,0.2,17997.6,13498.2,Phone,Cash,4,2025
+ORD-01052,09-04-2025,CUST-020,Sara Thomas,West,Unknown,Electronics,USB-C Hub,3,1899,0,5697,4329.72,Store,UPI,4,2025
+ORD-01107,09-04-2025,CUST-010,Ira Menon,East,Guwahati,Office Supplies,Stapler,5,249,0.1,1120.5,722.1,Store,Credit Card,4,2025
+ORD-00239,10-04-2025,CUST-004,Ananya Singh,Central,Bhopal,Furniture,Desk Lamp,3,1499,0.1,4047.3,2698.2,Online,Net Banking,4,2025
+ORD-00713,10-04-2025,CUST-008,Saanvi Gupta,East,Bhubaneswar,Electronics,Wireless Mouse,1,799,0.05,759.05,535.33,Online,Cash,4,2025
+ORD-00719,10-04-2025,CUST-014,Aadhya Iyer,Central,Bhopal,Accessories,Water Bottle,5,599,0.05,2845.25,1856.9,Online,Net Banking,4,2025
+ORD-01091,10-04-2025,CUST-005,Vihaan Kumar,West,Mumbai,Office Supplies,Stapler,1,249,0.05,236.55,156.87,Online,Cash,4,2025
+ORD-01151,11-04-2025,CUST-009,Kabir Joshi,East,Unknown,Furniture,Bookshelf,3,5499,0.2,13197.6,10063.17,Online,Credit Card,4,2025
+ORD-01172,11-04-2025,CUST-009,Kabir Joshi,West,Pune,Office Supplies,Pen Set,3,199,0.2,477.6,250.74,Store,Credit Card,4,2025
+ORD-01065,13-04-2025,CUST-002,Diya Patel,Central,Nagpur,Office Supplies,Pen Set,5,199,0.15,845.75,467.65,Store,Debit Card,4,2025
+ORD-01195,13-04-2025,CUST-014,Aadhya Iyer,West,Ahmedabad,Electronics,Monitor,3,12499,0,37497,30747.54,Store,UPI,4,2025
+ORD-00109,14-04-2025,CUST-001,Aarav Sharma,North,Chandigarh,Accessories,Laptop Bag,1,1799,0.15,1529.15,1043.42,Store,Cash,4,2025
+ORD-00148,14-04-2025,CUST-011,Reyansh Shah,Central,Indore,Office Supplies,Pen Set,3,199,0.1,537.3,310.44,Online,Debit Card,4,2025
+ORD-00536,14-04-2025,CUST-012,Myra Rao,Central,Bhopal,Accessories,Water Bottle,3,599,0.15,1527.45,934.44,Store,Net Banking,4,2025
+ORD-00673,14-04-2025,CUST-001,Aarav Sharma,East,Kolkata,Furniture,Office Chair,6,7499,0.1,40494.6,31495.8,Online,Net Banking,4,2025
+ORD-00378,15-04-2025,CUST-013,Aditya Verma,West,Surat,Office Supplies,Notebook Pack,5,299,0.1,1345.5,822.25,Store,Debit Card,4,2025
+ORD-00682,15-04-2025,CUST-005,Vihaan Kumar,North,Lucknow,Electronics,Wireless Mouse,1,799,0.05,759.05,535.33,Store,Net Banking,4,2025
+ORD-00759,15-04-2025,CUST-008,Saanvi Gupta,West,Surat,Office Supplies,Printer Paper,4,499,0.1,1796.4,1297.4,Store,Credit Card,4,2025
+ORD-00818,15-04-2025,CUST-007,Arjun Das,East,Kolkata,Electronics,Monitor,4,12499,0.05,47496.2,38496.92,Online,Credit Card,4,2025
+ORD-00850,15-04-2025,CUST-009,Kabir Joshi,North,Jaipur,Office Supplies,Stapler,2,249,0.1,448.2,288.84,Online,Cash,4,2025
+ORD-00172,16-04-2025,CUST-019,Neil Chawla,East,Patna,Office Supplies,File Folder,6,149,0,894,536.4,Store,UPI,4,2025
+ORD-00185,16-04-2025,CUST-019,Neil Chawla,West,Ahmedabad,Office Supplies,Pen Set,2,199,0.1,358.2,206.96,Store,Credit Card,4,2025
+ORD-00196,16-04-2025,CUST-010,Ira Menon,Central,Raipur,Furniture,Bookshelf,6,5499,0.05,31344.3,25075.44,Store,Credit Card,4,2025
+ORD-00405,16-04-2025,CUST-002,Diya Patel,West,Mumbai,Furniture,Bookshelf,5,5499,0,27495,22270.95,Online,Net Banking,4,2025
+ORD-00364,17-04-2025,CUST-002,Diya Patel,North,Delhi,Accessories,Webcam,3,3299,0.2,7917.6,5839.23,Store,Cash,4,2025
+ORD-00174,18-04-2025,CUST-011,Reyansh Shah,East,Kolkata,Office Supplies,Pen Set,5,199,0.15,845.75,467.65,Phone,Net Banking,4,2025
+ORD-00807,18-04-2025,CUST-020,Sara Thomas,West,Pune,Electronics,Bluetooth Speaker,1,2499,0.05,2374.05,1824.27,Online,Net Banking,4,2025
+ORD-00993,18-04-2025,CUST-003,Ishaan Reddy,North,Jaipur,Office Supplies,Stapler,1,249,0.1,224.1,144.42,Online,Credit Card,4,2025
+ORD-00245,19-04-2025,CUST-013,Aditya Verma,East,Kolkata,Office Supplies,Pen Set,2,199,0,398,246.76,Online,Cash,4,2025
+ORD-00324,19-04-2025,CUST-003,Ishaan Reddy,South,Bengaluru,Office Supplies,Pen Set,5,199,0.2,796,417.9,Store,Cash,4,2025
+ORD-00371,19-04-2025,CUST-015,Rohan Kulkarni,South,Chennai,Office Supplies,Pen Set,6,199,0.2,955.2,501.48,Store,Net Banking,4,2025
+ORD-00500,19-04-2025,CUST-012,Myra Rao,South,Hyderabad,Electronics,Monitor,3,12499,0.2,29997.6,23248.14,Online,Net Banking,4,2025
+ORD-00362,20-04-2025,CUST-002,Diya Patel,Central,Nagpur,Accessories,Laptop Bag,1,1799,0,1799,1313.27,Online,Net Banking,4,2025
+ORD-00662,20-04-2025,CUST-011,Reyansh Shah,East,Bhubaneswar,Office Supplies,File Folder,5,149,0.1,670.5,372.5,Phone,Cash,4,2025
+ORD-00011,21-04-2025,CUST-016,Kiara Bose,East,Kolkata,Office Supplies,Printer Paper,4,499,0.1,1796.4,1297.4,Online,Credit Card,4,2025
+ORD-00156,21-04-2025,CUST-010,Ira Menon,South,Bengaluru,Office Supplies,Stapler,4,249,0.1,896.4,577.68,Phone,Debit Card,4,2025
+ORD-00468,21-04-2025,CUST-001,Aarav Sharma,West,Surat,Office Supplies,File Folder,2,149,0.1,268.2,149,Phone,Credit Card,4,2025
+ORD-01113,21-04-2025,CUST-020,Sara Thomas,Central,Bhopal,Accessories,Laptop Bag,1,1799,0,1799,1313.27,Online,Cash,4,2025
+ORD-00603,22-04-2025,CUST-004,Ananya Singh,South,Hyderabad,Furniture,Study Table,3,8999,0.1,24297.3,19707.81,Store,Cash,4,2025
+ORD-00260,23-04-2025,CUST-005,Vihaan Kumar,South,Hyderabad,Electronics,Monitor,4,12499,0.1,44996.4,35997.12,Online,Debit Card,4,2025
+ORD-00352,23-04-2025,CUST-015,Rohan Kulkarni,North,Jaipur,Furniture,Bookshelf,2,5499,0,10998,8908.38,Store,Net Banking,4,2025
+ORD-00412,23-04-2025,CUST-010,Ira Menon,East,Kolkata,Furniture,Study Table,4,8999,0.1,32396.4,26277.08,Store,Debit Card,4,2025
+ORD-00461,23-04-2025,CUST-003,Ishaan Reddy,West,Ahmedabad,Accessories,Webcam,6,3299,0.1,17814.6,13657.86,Online,Net Banking,4,2025
+ORD-00650,23-04-2025,CUST-004,Ananya Singh,Central,Indore,Office Supplies,Printer Paper,1,499,0.05,474.05,349.3,Online,UPI,4,2025
+ORD-00041,24-04-2025,CUST-007,Arjun Das,South,Bengaluru,Accessories,Laptop Bag,6,1799,0.2,8635.2,5720.82,Online,UPI,4,2025
+ORD-00270,24-04-2025,CUST-013,Aditya Verma,East,Patna,Furniture,Office Chair,2,7499,0.2,11998.4,8998.8,Online,Net Banking,4,2025
+ORD-00654,24-04-2025,CUST-018,Tara Kapoor,West,Ahmedabad,Electronics,Bluetooth Speaker,1,2499,0,2499,1949.22,Online,Net Banking,4,2025
+ORD-00882,24-04-2025,CUST-019,Neil Chawla,West,Ahmedabad,Furniture,Study Table,2,8999,0.05,17098.1,14038.44,Store,Net Banking,4,2025
+ORD-00912,24-04-2025,CUST-007,Arjun Das,North,Chandigarh,Office Supplies,File Folder,4,149,0,596,357.6,Store,Net Banking,4,2025
+ORD-00944,24-04-2025,CUST-013,Aditya Verma,North,Jaipur,Electronics,Keyboard,5,1299,0.05,6170.25,4546.5,Online,Credit Card,4,2025
+ORD-00113,25-04-2025,CUST-016,Kiara Bose,Central,Bhopal,Furniture,Study Table,1,8999,0,8999,7469.17,Online,Cash,4,2025
+ORD-00444,25-04-2025,CUST-002,Diya Patel,North,Jaipur,Electronics,Wireless Mouse,4,799,0.05,3036.2,2141.32,Online,Debit Card,4,2025
+ORD-00632,25-04-2025,CUST-007,Arjun Das,West,Surat,Office Supplies,Printer Paper,6,499,0,2994,2245.5,Store,Cash,4,2025
+ORD-00671,25-04-2025,CUST-011,Reyansh Shah,South,Chennai,Accessories,Phone Stand,5,399,0.15,1695.75,977.55,Online,Cash,4,2025
+ORD-00991,25-04-2025,CUST-018,Tara Kapoor,West,Surat,Furniture,Study Table,6,8999,0.1,48594.6,39415.62,Online,Cash,4,2025
+ORD-01147,25-04-2025,CUST-013,Aditya Verma,South,Chennai,Electronics,Bluetooth Speaker,2,2499,0.1,4498.2,3398.64,Phone,Credit Card,4,2025
+ORD-00062,26-04-2025,CUST-010,Ira Menon,Central,Nagpur,Electronics,Monitor,3,12499,0.05,35622.15,28872.69,Store,Net Banking,4,2025
+ORD-00075,26-04-2025,CUST-013,Aditya Verma,Central,Bhopal,Office Supplies,Pen Set,6,199,0.1,1074.6,620.88,Online,UPI,4,2025
+ORD-00441,26-04-2025,CUST-005,Vihaan Kumar,Central,Bhopal,Office Supplies,Printer Paper,4,499,0.1,1796.4,1297.4,Online,Net Banking,4,2025
+ORD-01097,26-04-2025,CUST-018,Tara Kapoor,South,Chennai,Accessories,Water Bottle,5,599,0.2,2396,1407.65,Online,Net Banking,4,2025
+ORD-00118,27-04-2025,CUST-001,Aarav Sharma,West,Mumbai,Electronics,USB-C Hub,1,1899,0.2,1519.2,1063.44,Online,UPI,4,2025
+ORD-00457,27-04-2025,CUST-007,Arjun Das,North,Jaipur,Office Supplies,Pen Set,6,199,0.1,1074.6,620.88,Online,Credit Card,4,2025
+ORD-00472,27-04-2025,CUST-018,Tara Kapoor,East,Patna,Electronics,Wireless Mouse,3,799,0.1,2157.3,1486.14,Online,Debit Card,4,2025
+ORD-00737,27-04-2025,CUST-004,Ananya Singh,South,Hyderabad,Accessories,Webcam,5,3299,0,16495,13031.05,Store,Debit Card,4,2025
+ORD-00943,27-04-2025,CUST-005,Vihaan Kumar,North,Delhi,Electronics,Keyboard,4,1299,0,5196,3897,Online,UPI,4,2025
+ORD-01173,27-04-2025,CUST-011,Reyansh Shah,North,Chandigarh,Accessories,Phone Stand,2,399,0,798,510.72,Online,Net Banking,4,2025
+ORD-00375,28-04-2025,CUST-010,Ira Menon,Central,Nagpur,Office Supplies,Stapler,6,249,0.25,1120.5,642.42,Store,UPI,4,2025
+ORD-00499,28-04-2025,CUST-015,Rohan Kulkarni,South,Kochi,Furniture,Study Table,4,8999,0.1,32396.4,26277.08,Phone,Cash,4,2025
+ORD-00633,28-04-2025,CUST-007,Arjun Das,East,Patna,Furniture,Desk Lamp,4,1499,0.15,5096.6,3297.8,Online,Credit Card,4,2025
+ORD-01027,28-04-2025,CUST-005,Vihaan Kumar,Central,Nagpur,Furniture,Desk Lamp,4,1499,0.1,5396.4,3597.6,Store,UPI,4,2025
+ORD-00178,29-04-2025,CUST-002,Diya Patel,North,Jaipur,Accessories,Webcam,1,3299,0.1,2969.1,2276.31,Online,UPI,4,2025
+ORD-00314,29-04-2025,CUST-019,Neil Chawla,North,Delhi,Office Supplies,File Folder,1,149,0.1,134.1,74.5,Online,Cash,4,2025
+ORD-00505,29-04-2025,CUST-003,Ishaan Reddy,North,Delhi,Office Supplies,Printer Paper,6,499,0.15,2544.9,1796.4,Online,UPI,4,2025
+ORD-00615,29-04-2025,CUST-017,Dev Malhotra,East,Kolkata,Electronics,Bluetooth Speaker,1,2499,0,2499,1949.22,Online,Net Banking,4,2025
+ORD-00831,29-04-2025,CUST-006,Meera Nair,West,Ahmedabad,Furniture,Study Table,3,8999,0,26997,22407.51,Store,Credit Card,4,2025
+ORD-00886,29-04-2025,CUST-002,Diya Patel,West,Ahmedabad,Office Supplies,Notebook Pack,4,299,0,1196,777.4,Online,Debit Card,4,2025
+ORD-00166,30-04-2025,CUST-018,Tara Kapoor,East,Guwahati,Accessories,Webcam,2,3299,0.1,5938.2,4552.62,Store,Debit Card,4,2025
+ORD-00278,30-04-2025,CUST-003,Ishaan Reddy,West,Ahmedabad,Office Supplies,File Folder,5,149,0.15,633.25,335.25,Online,Cash,4,2025
+ORD-00328,30-04-2025,CUST-007,Arjun Das,South,Bengaluru,Furniture,Study Table,1,8999,0,8999,7469.17,Store,Credit Card,4,2025
+ORD-00465,30-04-2025,CUST-012,Myra Rao,West,Mumbai,Electronics,Monitor,3,12499,0.05,35622.15,28872.69,Store,Debit Card,4,2025
+ORD-00819,30-04-2025,CUST-016,Kiara Bose,North,Delhi,Furniture,Desk Lamp,3,1499,0.1,4047.3,2698.2,Store,Credit Card,4,2025
+ORD-00117,01-05-2025,CUST-015,Rohan Kulkarni,Central,Raipur,Electronics,USB-C Hub,2,1899,0,3798,2886.48,Online,Net Banking,5,2025
+ORD-00481,01-05-2025,CUST-017,Dev Malhotra,West,Pune,Furniture,Office Chair,5,7499,0,37495,29996,Online,Credit Card,5,2025
+ORD-00810,01-05-2025,CUST-014,Aadhya Iyer,East,Patna,Electronics,Monitor,4,12499,0,49996,40996.72,Online,Net Banking,5,2025
+ORD-00038,02-05-2025,CUST-005,Vihaan Kumar,Central,Raipur,Office Supplies,Printer Paper,4,499,0.1,1796.4,1297.4,Store,Net Banking,5,2025
+ORD-00340,02-05-2025,CUST-012,Myra Rao,North,Jaipur,Furniture,Office Chair,5,7499,0.1,33745.5,26246.5,Online,UPI,5,2025
+ORD-00903,02-05-2025,CUST-012,Myra Rao,West,Surat,Office Supplies,Stapler,3,249,0.15,634.95,395.91,Online,Credit Card,5,2025
+ORD-01056,02-05-2025,CUST-003,Ishaan Reddy,South,Chennai,Electronics,Keyboard,2,1299,0.2,2078.4,1428.9,Online,UPI,5,2025
+ORD-00282,03-05-2025,CUST-019,Neil Chawla,East,Patna,Furniture,Bookshelf,3,5499,0.1,14847.3,11712.87,Online,Net Banking,5,2025
+ORD-00312,03-05-2025,CUST-005,Vihaan Kumar,North,Lucknow,Electronics,Bluetooth Speaker,3,2499,0.05,7122.15,5472.81,Online,Net Banking,5,2025
+ORD-00368,03-05-2025,CUST-001,Aarav Sharma,West,Surat,Accessories,Water Bottle,5,599,0,2995,2006.65,Store,Debit Card,5,2025
+ORD-00898,03-05-2025,CUST-007,Arjun Das,West,Unknown,Electronics,Monitor,4,12499,0.1,44996.4,35997.12,Store,UPI,5,2025
+ORD-00091,04-05-2025,CUST-001,Aarav Sharma,West,Mumbai,Electronics,USB-C Hub,2,1899,0,3798,2886.48,Phone,Cash,5,2025
+ORD-01081,04-05-2025,CUST-017,Dev Malhotra,East,Bhubaneswar,Accessories,Webcam,6,3299,0,19794,15637.26,Online,Credit Card,5,2025
+ORD-01093,04-05-2025,CUST-017,Dev Malhotra,North,Jaipur,Electronics,Keyboard,5,1299,0.1,5845.5,4221.75,Online,Cash,5,2025
+ORD-00325,05-05-2025,CUST-010,Ira Menon,East,Kolkata,Accessories,Phone Stand,4,399,0.1,1436.4,861.84,Online,Cash,5,2025
+ORD-00527,05-05-2025,CUST-010,Ira Menon,North,Chandigarh,Accessories,Webcam,2,3299,0.1,5938.2,4552.62,Online,Credit Card,5,2025
+ORD-01032,05-05-2025,CUST-003,Ishaan Reddy,West,Pune,Accessories,Laptop Bag,3,1799,0.1,4857.3,3400.11,Online,UPI,5,2025
+ORD-00323,06-05-2025,CUST-009,Kabir Joshi,South,Bengaluru,Accessories,Laptop Bag,5,1799,0.1,8095.5,5666.85,Online,Net Banking,5,2025
+ORD-00342,06-05-2025,CUST-019,Neil Chawla,North,Chandigarh,Accessories,Phone Stand,2,399,0.05,758.1,470.82,Online,Debit Card,5,2025
+ORD-00595,06-05-2025,CUST-001,Aarav Sharma,Central,Raipur,Office Supplies,Notebook Pack,2,299,0.05,568.1,358.8,Store,UPI,5,2025
+ORD-00123,07-05-2025,CUST-015,Rohan Kulkarni,Central,Bhopal,Electronics,Wireless Mouse,3,799,0,2397,1725.84,Store,Net Banking,5,2025
+ORD-00858,07-05-2025,CUST-011,Reyansh Shah,North,Delhi,Electronics,USB-C Hub,6,1899,0.05,10824.3,8089.74,Phone,UPI,5,2025
+ORD-01088,08-05-2025,CUST-019,Neil Chawla,Central,Bhopal,Office Supplies,Printer Paper,3,499,0.15,1272.45,898.2,Online,Cash,5,2025
+ORD-00297,09-05-2025,CUST-003,Ishaan Reddy,West,Ahmedabad,Electronics,Keyboard,3,1299,0,3897,2922.75,Online,Debit Card,5,2025
+ORD-00348,09-05-2025,CUST-016,Kiara Bose,East,Patna,Accessories,Webcam,1,3299,0.1,2969.1,2276.31,Phone,Cash,5,2025
+ORD-00404,09-05-2025,CUST-020,Sara Thomas,Central,Raipur,Accessories,Webcam,2,3299,0.2,5278.4,3892.82,Online,Debit Card,5,2025
+ORD-00431,09-05-2025,CUST-018,Tara Kapoor,North,Chandigarh,Office Supplies,Printer Paper,4,499,0.15,1696.6,1197.6,Phone,UPI,5,2025
+ORD-00634,10-05-2025,CUST-012,Myra Rao,West,Ahmedabad,Electronics,Monitor,6,12499,0.05,71244.3,57745.38,Phone,Debit Card,5,2025
+ORD-00846,10-05-2025,CUST-018,Tara Kapoor,South,Chennai,Furniture,Study Table,2,8999,0.25,13498.5,10438.84,Online,Credit Card,5,2025
+ORD-00556,11-05-2025,CUST-005,Vihaan Kumar,South,Hyderabad,Electronics,Keyboard,4,1299,0.05,4936.2,3637.2,Store,Cash,5,2025
+ORD-01004,11-05-2025,CUST-009,Kabir Joshi,South,Bengaluru,Accessories,Laptop Bag,1,1799,0,1799,1313.27,Phone,Credit Card,5,2025
+ORD-01012,11-05-2025,CUST-013,Aditya Verma,East,Kolkata,Office Supplies,Pen Set,3,199,0.1,537.3,310.44,Store,Debit Card,5,2025
+ORD-01119,11-05-2025,CUST-014,Aadhya Iyer,South,Kochi,Accessories,Phone Stand,2,399,0.2,638.4,351.12,Online,Net Banking,5,2025
+ORD-00286,12-05-2025,CUST-017,Dev Malhotra,East,Guwahati,Office Supplies,Printer Paper,6,499,0,2994,2245.5,Online,Credit Card,5,2025
+ORD-00951,12-05-2025,CUST-012,Myra Rao,South,Chennai,Office Supplies,File Folder,6,149,0.1,804.6,447,Online,Net Banking,5,2025
+ORD-00218,13-05-2025,CUST-017,Dev Malhotra,Central,Raipur,Accessories,Phone Stand,6,399,0,2394,1532.16,Online,Cash,5,2025
+ORD-00825,13-05-2025,CUST-014,Aadhya Iyer,West,Surat,Furniture,Bookshelf,2,5499,0.1,9898.2,7808.58,Online,Net Banking,5,2025
+ORD-01040,13-05-2025,CUST-002,Diya Patel,Central,Indore,Furniture,Desk Lamp,5,1499,0.2,5996,3747.5,Online,Debit Card,5,2025
+ORD-00016,14-05-2025,CUST-020,Sara Thomas,North,Jaipur,Electronics,Keyboard,6,1299,0.15,6624.9,4676.4,Phone,Credit Card,5,2025
+ORD-00049,14-05-2025,CUST-011,Reyansh Shah,West,Pune,Furniture,Office Chair,5,7499,0.05,35620.25,28121.25,Store,Credit Card,5,2025
+ORD-00365,14-05-2025,CUST-002,Diya Patel,West,Ahmedabad,Furniture,Study Table,3,8999,0.1,24297.3,19707.81,Online,Cash,5,2025
+ORD-00498,14-05-2025,CUST-011,Reyansh Shah,East,Kolkata,Electronics,Wireless Mouse,1,799,0,799,575.28,Phone,UPI,5,2025
+ORD-00557,14-05-2025,CUST-009,Kabir Joshi,Central,Bhopal,Office Supplies,Stapler,3,249,0.05,709.65,470.61,Phone,Debit Card,5,2025
+ORD-00699,14-05-2025,CUST-003,Ishaan Reddy,East,Kolkata,Electronics,Monitor,6,12499,0,74994,61495.08,Phone,Cash,5,2025
+ORD-00345,15-05-2025,CUST-019,Neil Chawla,East,Guwahati,Furniture,Office Chair,6,7499,0.05,42744.3,33745.5,Online,Debit Card,5,2025
+ORD-00702,15-05-2025,CUST-001,Aarav Sharma,West,Surat,Office Supplies,Pen Set,5,199,0.25,746.25,368.15,Online,Credit Card,5,2025
+ORD-00135,18-05-2025,CUST-020,Sara Thomas,East,Guwahati,Accessories,Laptop Bag,5,1799,0.2,7196,4767.35,Online,Cash,5,2025
+ORD-00391,18-05-2025,CUST-003,Ishaan Reddy,Central,Bhopal,Office Supplies,Printer Paper,2,499,0.1,898.2,648.7,Online,UPI,5,2025
+ORD-00396,18-05-2025,CUST-020,Sara Thomas,North,Chandigarh,Office Supplies,Notebook Pack,1,299,0.1,269.1,164.45,Store,Cash,5,2025
+ORD-00439,18-05-2025,CUST-015,Rohan Kulkarni,East,Bhubaneswar,Office Supplies,Notebook Pack,4,299,0.1,1076.4,657.8,Store,Debit Card,5,2025
+ORD-00923,18-05-2025,CUST-002,Diya Patel,East,Guwahati,Office Supplies,File Folder,5,149,0.2,596,298,Store,Credit Card,5,2025
+ORD-00288,19-05-2025,CUST-005,Vihaan Kumar,Central,Bhopal,Accessories,Water Bottle,4,599,0.2,1916.8,1126.12,Online,Credit Card,5,2025
+ORD-00376,19-05-2025,CUST-016,Kiara Bose,West,Mumbai,Furniture,Bookshelf,6,5499,0,32994,26725.14,Online,Credit Card,5,2025
+ORD-00565,19-05-2025,CUST-020,Sara Thomas,South,Hyderabad,Electronics,Keyboard,1,1299,0.05,1234.05,909.3,Store,Cash,5,2025
+ORD-00906,19-05-2025,CUST-010,Ira Menon,West,Pune,Accessories,Water Bottle,1,599,0.05,569.05,371.38,Store,UPI,5,2025
+ORD-01152,19-05-2025,CUST-016,Kiara Bose,Central,Indore,Office Supplies,Notebook Pack,2,299,0.15,508.3,299,Online,Credit Card,5,2025
+ORD-00015,20-05-2025,CUST-004,Ananya Singh,East,Bhubaneswar,Furniture,Bookshelf,2,5499,0.1,9898.2,7808.58,Online,Net Banking,5,2025
+ORD-00294,20-05-2025,CUST-009,Kabir Joshi,West,Ahmedabad,Furniture,Bookshelf,1,5499,0.2,4399.2,3354.39,Online,Net Banking,5,2025
+ORD-00383,20-05-2025,CUST-018,Tara Kapoor,South,Kochi,Accessories,Water Bottle,6,599,0.2,2875.2,1689.18,Online,Net Banking,5,2025
+ORD-01069,20-05-2025,CUST-020,Sara Thomas,East,Patna,Office Supplies,Printer Paper,5,499,0.15,2120.75,1497,Store,Net Banking,5,2025
+ORD-00136,21-05-2025,CUST-012,Myra Rao,South,Hyderabad,Office Supplies,Printer Paper,3,499,0.1,1347.3,973.05,Online,Net Banking,5,2025
+ORD-00635,21-05-2025,CUST-009,Kabir Joshi,East,Patna,Accessories,Webcam,3,3299,0,9897,7818.63,Online,Net Banking,5,2025
+ORD-01043,21-05-2025,CUST-011,Reyansh Shah,Central,Indore,Furniture,Desk Lamp,5,1499,0.1,6745.5,4497,Online,Debit Card,5,2025
+ORD-00171,23-05-2025,CUST-003,Ishaan Reddy,West,Surat,Electronics,USB-C Hub,3,1899,0,5697,4329.72,Online,UPI,5,2025
+ORD-00476,23-05-2025,CUST-019,Neil Chawla,East,Kolkata,Office Supplies,Stapler,6,249,0.2,1195.2,717.12,Phone,Net Banking,5,2025
+ORD-00534,23-05-2025,CUST-013,Aditya Verma,West,Surat,Office Supplies,Notebook Pack,2,299,0.05,568.1,358.8,Online,Net Banking,5,2025
+ORD-01129,23-05-2025,CUST-012,Myra Rao,East,Patna,Office Supplies,Pen Set,6,199,0.1,1074.6,620.88,Online,UPI,5,2025
+ORD-00043,24-05-2025,CUST-017,Dev Malhotra,East,Bhubaneswar,Office Supplies,Printer Paper,5,499,0.1,2245.5,1621.75,Store,Cash,5,2025
+ORD-00137,24-05-2025,CUST-008,Saanvi Gupta,North,Delhi,Furniture,Office Chair,5,7499,0,37495,29996,Store,UPI,5,2025
+ORD-00966,24-05-2025,CUST-001,Aarav Sharma,East,Guwahati,Electronics,Wireless Mouse,5,799,0,3995,2876.4,Store,Cash,5,2025
+ORD-00978,24-05-2025,CUST-016,Kiara Bose,West,Surat,Accessories,Laptop Bag,3,1799,0.05,5127.15,3669.96,Online,Debit Card,5,2025
+ORD-00625,25-05-2025,CUST-003,Ishaan Reddy,North,Lucknow,Accessories,Water Bottle,3,599,0.25,1347.75,754.74,Store,Cash,5,2025
+ORD-00844,25-05-2025,CUST-001,Aarav Sharma,Central,Bhopal,Electronics,Wireless Mouse,3,799,0.05,2277.15,1605.99,Phone,Net Banking,5,2025
+ORD-00950,25-05-2025,CUST-020,Sara Thomas,South,Kochi,Office Supplies,Stapler,3,249,0.05,709.65,470.61,Online,Debit Card,5,2025
+ORD-00552,26-05-2025,CUST-015,Rohan Kulkarni,West,Surat,Furniture,Bookshelf,6,5499,0.2,26395.2,20126.34,Online,Credit Card,5,2025
+ORD-00151,27-05-2025,CUST-020,Sara Thomas,Central,Nagpur,Furniture,Bookshelf,4,5499,0,21996,17816.76,Phone,UPI,5,2025
+ORD-00160,27-05-2025,CUST-013,Aditya Verma,Central,Indore,Furniture,Office Chair,3,7499,0.1,20247.3,15747.9,Online,Debit Card,5,2025
+ORD-00399,27-05-2025,CUST-002,Diya Patel,South,Kochi,Furniture,Office Chair,6,7499,0.2,35995.2,26996.4,Store,Net Banking,5,2025
+ORD-00743,27-05-2025,CUST-006,Meera Nair,South,Bengaluru,Furniture,Bookshelf,6,5499,0.1,29694.6,23425.74,Store,Cash,5,2025
+ORD-00073,28-05-2025,CUST-014,Aadhya Iyer,North,Jaipur,Furniture,Office Chair,6,7499,0,44994,35995.2,Online,Net Banking,5,2025
+ORD-00159,28-05-2025,CUST-008,Saanvi Gupta,West,Ahmedabad,Office Supplies,Pen Set,6,199,0.15,1014.9,561.18,Online,Cash,5,2025
+ORD-01084,28-05-2025,CUST-004,Ananya Singh,Central,Bhopal,Office Supplies,Notebook Pack,1,299,0,299,194.35,Phone,Net Banking,5,2025
+ORD-00448,29-05-2025,CUST-002,Diya Patel,West,Ahmedabad,Accessories,Phone Stand,6,399,0.1,2154.6,1292.76,Online,Cash,5,2025
+ORD-01034,29-05-2025,CUST-015,Rohan Kulkarni,West,Pune,Accessories,Phone Stand,6,399,0.1,2154.6,1292.76,Online,Debit Card,5,2025
+ORD-01055,29-05-2025,CUST-010,Ira Menon,Central,Bhopal,Office Supplies,Pen Set,2,199,0.05,378.1,226.86,Online,UPI,5,2025
+ORD-00535,30-05-2025,CUST-010,Ira Menon,East,Guwahati,Office Supplies,Printer Paper,3,499,0.1,1347.3,973.05,Store,Debit Card,5,2025
+ORD-00640,30-05-2025,CUST-001,Aarav Sharma,East,Guwahati,Office Supplies,Notebook Pack,6,299,0,1794,1166.1,Online,Debit Card,5,2025
+ORD-00766,30-05-2025,CUST-012,Myra Rao,South,Hyderabad,Accessories,Webcam,3,3299,0.1,8907.3,6828.93,Store,Credit Card,5,2025
+ORD-00285,31-05-2025,CUST-007,Arjun Das,North,Lucknow,Office Supplies,Pen Set,2,199,0,398,246.76,Phone,Net Banking,5,2025
+ORD-00783,31-05-2025,CUST-002,Diya Patel,South,Kochi,Accessories,Laptop Bag,4,1799,0.1,6476.4,4533.48,Phone,Net Banking,5,2025
+ORD-00812,31-05-2025,CUST-018,Tara Kapoor,Central,Raipur,Accessories,Webcam,3,3299,0.15,8412.45,6334.08,Store,Debit Card,5,2025
+ORD-00845,31-05-2025,CUST-013,Aditya Verma,West,Ahmedabad,Electronics,Monitor,4,12499,0.05,47496.2,38496.92,Store,Net Banking,5,2025
+ORD-00852,31-05-2025,CUST-007,Arjun Das,Central,Indore,Furniture,Desk Lamp,6,1499,0.15,7644.9,4946.7,Store,Credit Card,5,2025
+ORD-00212,01-06-2025,CUST-017,Dev Malhotra,Central,Nagpur,Furniture,Office Chair,6,7499,0,44994,35995.2,Store,Cash,6,2025
+ORD-00274,01-06-2025,CUST-015,Rohan Kulkarni,West,Mumbai,Office Supplies,File Folder,3,149,0.05,424.65,245.85,Online,Debit Card,6,2025
+ORD-00466,01-06-2025,CUST-007,Arjun Das,East,Patna,Office Supplies,Notebook Pack,1,299,0.05,284.05,179.4,Store,Net Banking,6,2025
+ORD-00585,01-06-2025,CUST-013,Aditya Verma,East,Bhubaneswar,Office Supplies,Stapler,1,249,0,249,169.32,Online,UPI,6,2025
+ORD-00639,01-06-2025,CUST-002,Diya Patel,North,Delhi,Furniture,Bookshelf,6,5499,0.1,29694.6,23425.74,Online,Debit Card,6,2025
+ORD-00687,01-06-2025,CUST-014,Aadhya Iyer,West,Pune,Furniture,Desk Lamp,3,1499,0.25,3372.75,2023.65,Online,Net Banking,6,2025
+ORD-00795,01-06-2025,CUST-018,Tara Kapoor,East,Guwahati,Electronics,Monitor,4,12499,0.15,42496.6,33497.32,Online,Credit Card,6,2025
+ORD-00893,01-06-2025,CUST-018,Tara Kapoor,East,Guwahati,Furniture,Bookshelf,5,5499,0.15,23370.75,18146.7,Store,Cash,6,2025
+ORD-00072,02-06-2025,CUST-007,Arjun Das,North,Jaipur,Accessories,Phone Stand,4,399,0.15,1356.6,782.04,Phone,Cash,6,2025
+ORD-01103,02-06-2025,CUST-002,Diya Patel,East,Guwahati,Accessories,Webcam,3,3299,0,9897,7818.63,Online,Debit Card,6,2025
+ORD-00387,03-06-2025,CUST-014,Aadhya Iyer,West,Mumbai,Furniture,Bookshelf,6,5499,0,32994,26725.14,Online,Credit Card,6,2025
+ORD-00082,04-06-2025,CUST-016,Kiara Bose,Central,Bhopal,Accessories,Water Bottle,2,599,0.15,1018.3,622.96,Online,Cash,6,2025
+ORD-00191,04-06-2025,CUST-003,Ishaan Reddy,Central,Bhopal,Electronics,Wireless Mouse,4,799,0,3196,2301.12,Store,UPI,6,2025
+ORD-00590,04-06-2025,CUST-010,Ira Menon,Central,Nagpur,Office Supplies,Stapler,4,249,0.1,896.4,577.68,Online,Debit Card,6,2025
+ORD-00593,04-06-2025,CUST-011,Reyansh Shah,East,Bhubaneswar,Electronics,Keyboard,4,1299,0.05,4936.2,3637.2,Online,Debit Card,6,2025
+ORD-00657,04-06-2025,CUST-007,Arjun Das,Central,Raipur,Furniture,Bookshelf,3,5499,0.15,14022.45,10888.02,Store,Debit Card,6,2025
+ORD-00039,05-06-2025,CUST-019,Neil Chawla,South,Hyderabad,Furniture,Study Table,1,8999,0.2,7199.2,5669.37,Online,Debit Card,6,2025
+ORD-00826,05-06-2025,CUST-018,Tara Kapoor,North,Jaipur,Accessories,Water Bottle,6,599,0.1,3234.6,2048.58,Store,Cash,6,2025
+ORD-00774,06-06-2025,CUST-009,Kabir Joshi,West,Ahmedabad,Office Supplies,Stapler,2,249,0.1,448.2,288.84,Online,UPI,6,2025
+ORD-00077,07-06-2025,CUST-004,Ananya Singh,South,Hyderabad,Office Supplies,Stapler,4,249,0.05,946.2,627.48,Online,Net Banking,6,2025
+ORD-00213,07-06-2025,CUST-003,Ishaan Reddy,Central,Bhopal,Furniture,Bookshelf,3,5499,0.1,14847.3,11712.87,Phone,Debit Card,6,2025
+ORD-00543,07-06-2025,CUST-020,Sara Thomas,East,Kolkata,Furniture,Study Table,5,8999,0,44995,37345.85,Store,Net Banking,6,2025
+ORD-00562,07-06-2025,CUST-005,Vihaan Kumar,South,Kochi,Furniture,Study Table,6,8999,0.05,51294.3,42115.32,Online,Credit Card,6,2025
+ORD-00710,07-06-2025,CUST-018,Tara Kapoor,North,Chandigarh,Accessories,Laptop Bag,2,1799,0.15,3058.3,2086.84,Online,Debit Card,6,2025
+ORD-00034,08-06-2025,CUST-003,Ishaan Reddy,West,Mumbai,Office Supplies,File Folder,1,149,0.2,119.2,59.6,Online,Credit Card,6,2025
+ORD-00620,08-06-2025,CUST-019,Neil Chawla,Central,Nagpur,Office Supplies,Pen Set,4,199,0.15,676.6,374.12,Phone,Debit Card,6,2025
+ORD-00959,08-06-2025,CUST-010,Unknown,North,Lucknow,Furniture,Study Table,3,8999,0.1,24297.3,19707.81,Store,Net Banking,6,2025
+ORD-00300,09-06-2025,CUST-019,Neil Chawla,North,Chandigarh,Accessories,Phone Stand,2,399,0.2,638.4,351.12,Phone,UPI,6,2025
+ORD-00830,09-06-2025,CUST-012,Myra Rao,East,Kolkata,Accessories,Laptop Bag,3,1799,0.25,4047.75,2590.56,Online,Debit Card,6,2025
+ORD-00519,10-06-2025,CUST-008,Saanvi Gupta,South,Kochi,Electronics,USB-C Hub,1,1899,0,1899,1443.24,Store,UPI,6,2025
+ORD-00524,10-06-2025,CUST-017,Dev Malhotra,West,Mumbai,Electronics,Bluetooth Speaker,4,2499,0.2,7996.8,5797.68,Store,Net Banking,6,2025
+ORD-01191,10-06-2025,CUST-001,Aarav Sharma,East,Kolkata,Office Supplies,Pen Set,2,199,0.1,358.2,206.96,Online,Cash,6,2025
+ORD-01196,10-06-2025,CUST-014,Aadhya Iyer,South,Kochi,Accessories,Webcam,1,3299,0,3299,2606.21,Phone,UPI,6,2025
+ORD-00100,11-06-2025,CUST-018,Tara Kapoor,South,Chennai,Office Supplies,Pen Set,1,199,0.1,179.1,103.48,Online,Cash,6,2025
+ORD-01155,11-06-2025,CUST-008,Saanvi Gupta,East,Guwahati,Electronics,USB-C Hub,6,1899,0.15,9684.9,6950.34,Phone,Cash,6,2025
+ORD-00344,12-06-2025,CUST-014,Aadhya Iyer,West,Surat,Furniture,Bookshelf,1,5499,0.2,4399.2,3354.39,Store,Cash,6,2025
+ORD-00839,12-06-2025,CUST-014,Aadhya Iyer,East,Kolkata,Office Supplies,Pen Set,1,199,0.1,179.1,103.48,Store,Net Banking,6,2025
+ORD-00102,13-06-2025,CUST-012,Myra Rao,Central,Nagpur,Electronics,USB-C Hub,3,1899,0.05,5412.15,4044.87,Online,Net Banking,6,2025
+ORD-00333,13-06-2025,CUST-014,Aadhya Iyer,Central,Indore,Electronics,Bluetooth Speaker,3,2499,0.05,7122.15,5472.81,Online,UPI,6,2025
+ORD-00735,13-06-2025,CUST-001,Aarav Sharma,South,Bengaluru,Electronics,Keyboard,6,1299,0,7794,5845.5,Online,Debit Card,6,2025
+ORD-00803,13-06-2025,CUST-012,Myra Rao,West,Pune,Furniture,Desk Lamp,2,1499,0,2998,2098.6,Online,UPI,6,2025
+ORD-00908,13-06-2025,CUST-017,Dev Malhotra,West,Mumbai,Electronics,Wireless Mouse,4,799,0,3196,2301.12,Online,Net Banking,6,2025
+ORD-01117,13-06-2025,CUST-007,Arjun Das,West,Surat,Electronics,Bluetooth Speaker,3,2499,0.15,6372.45,4723.11,Online,Cash,6,2025
+ORD-00017,14-06-2025,CUST-016,Kiara Bose,South,Chennai,Office Supplies,Stapler,5,249,0,1245,846.6,Phone,UPI,6,2025
+ORD-00533,14-06-2025,CUST-006,Meera Nair,North,Lucknow,Office Supplies,Notebook Pack,3,299,0,897,583.05,Online,Cash,6,2025
+ORD-00121,15-06-2025,CUST-012,Myra Rao,South,Hyderabad,Accessories,Water Bottle,6,599,0.25,2695.5,1509.48,Online,Cash,6,2025
+ORD-00158,15-06-2025,CUST-020,Sara Thomas,Central,Bhopal,Office Supplies,Pen Set,4,199,0.15,676.6,374.12,Phone,Credit Card,6,2025
+ORD-00204,15-06-2025,CUST-010,Ira Menon,Central,Raipur,Furniture,Office Chair,1,7499,0.15,6374.15,4874.35,Store,Credit Card,6,2025
+ORD-00409,15-06-2025,CUST-002,Diya Patel,South,Kochi,Office Supplies,File Folder,6,149,0.05,849.3,491.7,Store,Debit Card,6,2025
+ORD-00781,15-06-2025,CUST-005,Vihaan Kumar,South,Hyderabad,Furniture,Study Table,6,8999,0.25,40495.5,31316.52,Online,Credit Card,6,2025
+ORD-00401,16-06-2025,CUST-011,Reyansh Shah,East,Patna,Office Supplies,Printer Paper,5,499,0,2495,1871.25,Online,Debit Card,6,2025
+ORD-00449,16-06-2025,CUST-003,Ishaan Reddy,East,Kolkata,Office Supplies,Printer Paper,2,499,0,998,748.5,Store,Net Banking,6,2025
+ORD-00071,17-06-2025,CUST-012,Myra Rao,West,Surat,Accessories,Laptop Bag,4,1799,0.1,6476.4,4533.48,Store,Debit Card,6,2025
+ORD-00322,17-06-2025,CUST-015,Rohan Kulkarni,South,Bengaluru,Furniture,Study Table,3,8999,0.05,25647.15,21057.66,Store,Net Banking,6,2025
+ORD-00440,19-06-2025,CUST-019,Neil Chawla,South,Bengaluru,Office Supplies,Pen Set,4,199,0.1,716.4,413.92,Online,Cash,6,2025
+ORD-00909,19-06-2025,CUST-017,Dev Malhotra,West,Surat,Office Supplies,Notebook Pack,2,299,0.1,538.2,328.9,Store,Debit Card,6,2025
+ORD-00942,19-06-2025,CUST-018,Tara Kapoor,South,Hyderabad,Electronics,Bluetooth Speaker,1,2499,0,2499,1949.22,Store,Credit Card,6,2025
+ORD-00037,20-06-2025,CUST-009,Kabir Joshi,North,Lucknow,Accessories,Webcam,4,3299,0,13196,10424.84,Online,Credit Card,6,2025
+ORD-00484,20-06-2025,CUST-004,Ananya Singh,South,Chennai,Furniture,Bookshelf,6,5499,0,32994,26725.14,Store,Net Banking,6,2025
+ORD-00242,21-06-2025,CUST-010,Ira Menon,North,Jaipur,Electronics,Bluetooth Speaker,3,2499,0.1,6747.3,5097.96,Store,Debit Card,6,2025
+ORD-00975,21-06-2025,CUST-010,Ira Menon,North,Chandigarh,Furniture,Desk Lamp,6,1499,0.05,8544.3,5846.1,Online,Debit Card,6,2025
+ORD-01003,21-06-2025,CUST-001,Aarav Sharma,South,Hyderabad,Electronics,USB-C Hub,4,1899,0.15,6456.6,4633.56,Online,Credit Card,6,2025
+ORD-00675,22-06-2025,CUST-005,Vihaan Kumar,West,Surat,Electronics,Keyboard,1,1299,0.2,1039.2,714.45,Online,Debit Card,6,2025
+ORD-00979,22-06-2025,CUST-017,Dev Malhotra,East,Bhubaneswar,Furniture,Desk Lamp,4,1499,0.1,5396.4,3597.6,Online,Debit Card,6,2025
+ORD-01010,22-06-2025,CUST-010,Ira Menon,Central,Nagpur,Electronics,Wireless Mouse,3,799,0,2397,1725.84,Online,Net Banking,6,2025
+ORD-00190,23-06-2025,CUST-005,Vihaan Kumar,Central,Indore,Electronics,Keyboard,4,1299,0,5196,3897,Online,Cash,6,2025
+ORD-00266,23-06-2025,CUST-010,Ira Menon,West,Surat,Office Supplies,Stapler,1,249,0.05,236.55,156.87,Online,Net Banking,6,2025
+ORD-00093,24-06-2025,CUST-018,Tara Kapoor,West,Surat,Office Supplies,File Folder,6,149,0.2,715.2,357.6,Store,Credit Card,6,2025
+ORD-00306,24-06-2025,CUST-013,Aditya Verma,Central,Bhopal,Electronics,Bluetooth Speaker,6,2499,0.05,14244.3,10945.62,Phone,Cash,6,2025
+ORD-00564,24-06-2025,CUST-019,Neil Chawla,North,Jaipur,Electronics,Monitor,6,12499,0.15,63744.9,50245.98,Online,Credit Card,6,2025
+ORD-01131,24-06-2025,CUST-015,Rohan Kulkarni,West,Pune,Furniture,Bookshelf,4,5499,0,21996,17816.76,Online,Cash,6,2025
+ORD-01133,24-06-2025,CUST-012,Myra Rao,North,Lucknow,Office Supplies,Pen Set,5,199,0.2,796,417.9,Store,Debit Card,6,2025
+ORD-00486,26-06-2025,CUST-004,Ananya Singh,South,Kochi,Electronics,Keyboard,2,1299,0,2598,1948.5,Phone,UPI,6,2025
+ORD-00355,27-06-2025,CUST-005,Vihaan Kumar,South,Chennai,Furniture,Desk Lamp,6,1499,0.05,8544.3,5846.1,Online,Debit Card,6,2025
+ORD-00464,28-06-2025,CUST-018,Tara Kapoor,West,Ahmedabad,Electronics,Keyboard,5,1299,0.15,5520.75,3897,Store,Credit Card,6,2025
+ORD-00470,28-06-2025,CUST-018,Tara Kapoor,Central,Bhopal,Electronics,Keyboard,1,1299,0.1,1169.1,844.35,Store,Cash,6,2025
+ORD-00705,28-06-2025,CUST-017,Dev Malhotra,South,Bengaluru,Electronics,Monitor,4,12499,0.15,42496.6,33497.32,Store,Net Banking,6,2025
+ORD-00868,28-06-2025,CUST-015,Rohan Kulkarni,West,Mumbai,Electronics,Wireless Mouse,1,799,0.1,719.1,495.38,Store,Credit Card,6,2025
+ORD-00937,29-06-2025,CUST-011,Reyansh Shah,Central,Bhopal,Accessories,Laptop Bag,1,1799,0.05,1709.05,1223.32,Store,Cash,6,2025
+ORD-00403,30-06-2025,CUST-003,Ishaan Reddy,South,Bengaluru,Electronics,USB-C Hub,2,1899,0.2,3038.4,2126.88,Store,Net Banking,6,2025
+ORD-00617,30-06-2025,CUST-002,Diya Patel,South,Bengaluru,Electronics,Bluetooth Speaker,5,2499,0,12495,9746.1,Store,Credit Card,6,2025
+ORD-00689,30-06-2025,CUST-019,Neil Chawla,North,Chandigarh,Electronics,USB-C Hub,1,1899,0.1,1709.1,1253.34,Online,Cash,6,2025
+ORD-00359,01-07-2025,CUST-009,Kabir Joshi,North,Chandigarh,Office Supplies,Notebook Pack,5,299,0.05,1420.25,897,Store,Credit Card,7,2025
+ORD-00400,01-07-2025,CUST-019,Neil Chawla,North,Lucknow,Electronics,USB-C Hub,1,1899,0.1,1709.1,1253.34,Phone,Net Banking,7,2025
+ORD-00460,01-07-2025,CUST-005,Vihaan Kumar,West,Surat,Electronics,USB-C Hub,1,1899,0.1,1709.1,1253.34,Store,UPI,7,2025
+ORD-00707,01-07-2025,CUST-018,Tara Kapoor,North,Chandigarh,Electronics,Monitor,6,12499,0,74994,61495.08,Online,UPI,7,2025
+ORD-01130,01-07-2025,CUST-011,Reyansh Shah,North,Delhi,Accessories,Laptop Bag,2,1799,0.2,2878.4,1906.94,Online,UPI,7,2025
+ORD-00637,03-07-2025,CUST-003,Ishaan Reddy,North,Lucknow,Electronics,Bluetooth Speaker,1,2499,0.15,2124.15,1574.37,Store,Cash,7,2025
+ORD-00733,03-07-2025,CUST-007,Arjun Das,East,Guwahati,Accessories,Laptop Bag,6,1799,0.2,8635.2,5720.82,Online,UPI,7,2025
+ORD-00862,03-07-2025,CUST-012,Myra Rao,Central,Indore,Furniture,Office Chair,3,7499,0.1,20247.3,15747.9,Store,UPI,7,2025
+ORD-01011,03-07-2025,CUST-016,Kiara Bose,Central,Nagpur,Office Supplies,Stapler,4,249,0.2,796.8,478.08,Store,UPI,7,2025
+ORD-01049,03-07-2025,CUST-015,Rohan Kulkarni,North,Delhi,Electronics,Keyboard,3,1299,0.1,3507.3,2533.05,Online,UPI,7,2025
+ORD-00319,04-07-2025,CUST-018,Tara Kapoor,Central,Raipur,Electronics,Monitor,5,12499,0.1,56245.5,44996.4,Online,Debit Card,7,2025
+ORD-00329,04-07-2025,CUST-001,Aarav Sharma,East,Guwahati,Accessories,Webcam,5,3299,0.05,15670.25,12206.3,Store,UPI,7,2025
+ORD-00525,04-07-2025,CUST-018,Tara Kapoor,East,Kolkata,Electronics,Bluetooth Speaker,5,2499,0.15,10620.75,7871.85,Online,Debit Card,7,2025
+ORD-00712,04-07-2025,CUST-018,Tara Kapoor,Central,Indore,Office Supplies,File Folder,1,149,0.1,134.1,74.5,Online,Net Banking,7,2025
+ORD-00847,04-07-2025,CUST-013,Aditya Verma,East,Kolkata,Electronics,Keyboard,4,1299,0.1,4676.4,3377.4,Store,Debit Card,7,2025
+ORD-00896,04-07-2025,CUST-009,Kabir Joshi,South,Chennai,Furniture,Study Table,5,8999,0.2,35996,28346.85,Online,Cash,7,2025
+ORD-00096,05-07-2025,CUST-001,Aarav Sharma,South,Kochi,Electronics,Keyboard,5,1299,0.1,5845.5,4221.75,Online,Net Banking,7,2025
+ORD-00125,05-07-2025,CUST-016,Kiara Bose,West,Surat,Electronics,USB-C Hub,1,1899,0,1899,1443.24,Online,Debit Card,7,2025
+ORD-00741,05-07-2025,CUST-018,Tara Kapoor,North,Lucknow,Office Supplies,Printer Paper,3,499,0.1,1347.3,973.05,Online,Credit Card,7,2025
+ORD-01006,05-07-2025,CUST-009,Kabir Joshi,West,Surat,Electronics,Bluetooth Speaker,2,2499,0,4998,3898.44,Online,Debit Card,7,2025
+ORD-01080,05-07-2025,CUST-020,Sara Thomas,West,Ahmedabad,Electronics,Monitor,3,12499,0,37497,30747.54,Store,UPI,7,2025
+ORD-00548,06-07-2025,CUST-019,Neil Chawla,West,Ahmedabad,Furniture,Bookshelf,4,5499,0.1,19796.4,15617.16,Online,Cash,7,2025
+ORD-01085,06-07-2025,CUST-009,Kabir Joshi,North,Jaipur,Furniture,Study Table,3,8999,0.25,20247.75,15658.26,Online,Debit Card,7,2025
+ORD-01112,06-07-2025,CUST-003,Ishaan Reddy,North,Chandigarh,Office Supplies,Stapler,4,249,0,996,677.28,Online,UPI,7,2025
+ORD-01184,06-07-2025,CUST-009,Kabir Joshi,South,Chennai,Electronics,Wireless Mouse,3,799,0,2397,1725.84,Store,Credit Card,7,2025
+ORD-00027,07-07-2025,CUST-013,Aditya Verma,South,Chennai,Electronics,Monitor,6,12499,0.2,59995.2,46496.28,Online,Debit Card,7,2025
+ORD-00880,07-07-2025,CUST-004,Ananya Singh,West,Mumbai,Electronics,Bluetooth Speaker,5,2499,0.25,9371.25,6622.35,Online,UPI,7,2025
+ORD-01005,07-07-2025,CUST-001,Aarav Sharma,North,Delhi,Electronics,Keyboard,2,1299,0.05,2468.1,1818.6,Phone,Credit Card,7,2025
+ORD-00395,08-07-2025,CUST-005,Vihaan Kumar,West,Ahmedabad,Office Supplies,Stapler,5,249,0.05,1182.75,784.35,Online,Cash,7,2025
+ORD-01057,08-07-2025,CUST-006,Meera Nair,East,Kolkata,Furniture,Bookshelf,5,5499,0.1,24745.5,19521.45,Store,Debit Card,7,2025
+ORD-00770,09-07-2025,CUST-005,Vihaan Kumar,South,Hyderabad,Office Supplies,Pen Set,4,199,0.15,676.6,374.12,Online,UPI,7,2025
+ORD-00956,09-07-2025,CUST-017,Dev Malhotra,South,Chennai,Electronics,Wireless Mouse,1,799,0.15,679.15,455.43,Store,Credit Card,7,2025
+ORD-01182,09-07-2025,CUST-019,Neil Chawla,South,Hyderabad,Accessories,Laptop Bag,6,1799,0.25,8095.5,5181.12,Online,Cash,7,2025
+ORD-00139,10-07-2025,CUST-010,Ira Menon,East,Bhubaneswar,Electronics,Keyboard,1,1299,0.05,1234.05,909.3,Online,UPI,7,2025
+ORD-00298,10-07-2025,CUST-016,Kiara Bose,West,Mumbai,Office Supplies,Stapler,5,249,0.15,1058.25,659.85,Online,UPI,7,2025
+ORD-01062,10-07-2025,CUST-013,Aditya Verma,Central,Raipur,Electronics,Monitor,6,12499,0.05,71244.3,57745.38,Store,Debit Card,7,2025
+ORD-00045,11-07-2025,CUST-019,Neil Chawla,South,Bengaluru,Furniture,Office Chair,6,7499,0.2,35995.2,26996.4,Online,Debit Card,7,2025
+ORD-00192,11-07-2025,CUST-002,Diya Patel,South,Kochi,Furniture,Office Chair,3,7499,0.05,21372.15,16872.75,Online,Cash,7,2025
+ORD-00775,11-07-2025,CUST-016,Kiara Bose,Central,Nagpur,Electronics,Monitor,2,12499,0,24998,20498.36,Store,Cash,7,2025
+ORD-00259,12-07-2025,CUST-004,Ananya Singh,Central,Nagpur,Accessories,Water Bottle,6,599,0.2,2875.2,1689.18,Store,Cash,7,2025
+ORD-00281,12-07-2025,CUST-020,Sara Thomas,West,Ahmedabad,Furniture,Desk Lamp,4,1499,0.15,5096.6,3297.8,Online,Debit Card,7,2025
+ORD-00379,12-07-2025,CUST-017,Dev Malhotra,West,Surat,Electronics,Wireless Mouse,6,799,0.15,4074.9,2732.58,Online,Credit Card,7,2025
+ORD-00610,12-07-2025,CUST-007,Arjun Das,North,Lucknow,Furniture,Study Table,1,8999,0.15,7649.15,6119.32,Online,Credit Card,7,2025
+ORD-00794,12-07-2025,CUST-007,Arjun Das,North,Delhi,Electronics,Bluetooth Speaker,4,2499,0.1,8996.4,6797.28,Phone,Credit Card,7,2025
+ORD-00976,12-07-2025,CUST-015,Rohan Kulkarni,South,Bengaluru,Electronics,Bluetooth Speaker,6,2499,0.2,11995.2,8696.52,Online,Net Banking,7,2025
+ORD-01079,12-07-2025,CUST-012,Myra Rao,North,Delhi,Electronics,Wireless Mouse,4,799,0.25,2397,1502.12,Online,Credit Card,7,2025
+ORD-00116,13-07-2025,CUST-017,Dev Malhotra,East,Guwahati,Office Supplies,Printer Paper,2,499,0.05,948.1,698.6,Online,Credit Card,7,2025
+ORD-00186,13-07-2025,CUST-001,Aarav Sharma,Central,Indore,Office Supplies,Printer Paper,1,499,0.1,449.1,324.35,Online,Debit Card,7,2025
+ORD-00538,13-07-2025,CUST-018,Tara Kapoor,East,Guwahati,Electronics,Monitor,4,12499,0,49996,40996.72,Store,Net Banking,7,2025
+ORD-00655,13-07-2025,CUST-010,Ira Menon,South,Kochi,Electronics,Wireless Mouse,1,799,0,799,575.28,Online,Debit Card,7,2025
+ORD-00750,13-07-2025,CUST-009,Kabir Joshi,East,Kolkata,Office Supplies,Pen Set,2,199,0.15,338.3,187.06,Online,Debit Card,7,2025
+ORD-00824,13-07-2025,CUST-016,Unknown,South,Kochi,Accessories,Water Bottle,4,599,0.15,2036.6,1245.92,Phone,Net Banking,7,2025
+ORD-01095,13-07-2025,CUST-002,Diya Patel,East,Patna,Office Supplies,Printer Paper,5,499,0.2,1996,1372.25,Online,Debit Card,7,2025
+ORD-01114,13-07-2025,CUST-008,Saanvi Gupta,West,Pune,Office Supplies,File Folder,4,149,0.1,536.4,298,Store,Net Banking,7,2025
+ORD-01194,13-07-2025,CUST-003,Ishaan Reddy,East,Bhubaneswar,Accessories,Phone Stand,1,399,0.05,379.05,235.41,Online,Debit Card,7,2025
+ORD-00051,14-07-2025,CUST-012,Myra Rao,East,Guwahati,Accessories,Phone Stand,5,399,0.05,1895.25,1177.05,Store,UPI,7,2025
+ORD-00058,14-07-2025,CUST-008,Saanvi Gupta,West,Surat,Electronics,USB-C Hub,2,1899,0,3798,2886.48,Phone,UPI,7,2025
+ORD-00120,14-07-2025,CUST-018,Tara Kapoor,Central,Raipur,Electronics,Keyboard,4,1299,0,5196,3897,Store,Cash,7,2025
+ORD-00200,14-07-2025,CUST-008,Saanvi Gupta,South,Hyderabad,Furniture,Office Chair,1,7499,0,7499,5999.2,Online,Cash,7,2025
+ORD-00424,14-07-2025,CUST-015,Rohan Kulkarni,North,Chandigarh,Electronics,Wireless Mouse,6,799,0,4794,3451.68,Store,Net Banking,7,2025
+ORD-00957,14-07-2025,CUST-014,Aadhya Iyer,Central,Nagpur,Electronics,Keyboard,3,1299,0,3897,2922.75,Online,Debit Card,7,2025
+ORD-00454,16-07-2025,CUST-007,Arjun Das,South,Hyderabad,Furniture,Office Chair,5,7499,0.25,28121.25,20622.25,Online,Net Banking,7,2025
+ORD-00648,16-07-2025,CUST-002,Diya Patel,West,Surat,Electronics,USB-C Hub,3,1899,0,5697,4329.72,Online,Cash,7,2025
+ORD-00676,16-07-2025,CUST-012,Myra Rao,North,Jaipur,Office Supplies,Notebook Pack,2,299,0.15,508.3,299,Store,Debit Card,7,2025
+ORD-01174,16-07-2025,CUST-019,Neil Chawla,East,Bhubaneswar,Electronics,Wireless Mouse,6,799,0,4794,3451.68,Online,Net Banking,7,2025
+ORD-00042,17-07-2025,CUST-003,Ishaan Reddy,South,Bengaluru,Electronics,Bluetooth Speaker,1,2499,0,2499,1949.22,Online,UPI,7,2025
+ORD-00068,17-07-2025,CUST-011,Reyansh Shah,South,Bengaluru,Electronics,USB-C Hub,5,1899,0.1,8545.5,6266.7,Online,Net Banking,7,2025
+ORD-00310,17-07-2025,CUST-001,Aarav Sharma,North,Delhi,Office Supplies,Notebook Pack,2,299,0,598,388.7,Online,Debit Card,7,2025
+ORD-00488,17-07-2025,CUST-004,Ananya Singh,West,Pune,Electronics,Wireless Mouse,1,799,0.1,719.1,495.38,Store,Net Banking,7,2025
+ORD-00629,17-07-2025,CUST-010,Ira Menon,South,Kochi,Furniture,Bookshelf,6,5499,0.1,29694.6,23425.74,Store,UPI,7,2025
+ORD-00706,17-07-2025,CUST-014,Aadhya Iyer,Central,Indore,Accessories,Phone Stand,5,399,0.1,1795.5,1077.3,Store,Net Banking,7,2025
+ORD-00024,18-07-2025,CUST-018,Tara Kapoor,North,Jaipur,Accessories,Laptop Bag,1,1799,0.1,1619.1,1133.37,Store,UPI,7,2025
+ORD-00214,18-07-2025,CUST-015,Rohan Kulkarni,Central,Indore,Electronics,Keyboard,2,1299,0.2,2078.4,1428.9,Phone,UPI,7,2025
+ORD-00393,18-07-2025,CUST-012,Myra Rao,West,Pune,Electronics,Keyboard,2,1299,0.1,2338.2,1688.7,Phone,Credit Card,7,2025
+ORD-00727,18-07-2025,CUST-004,Ananya Singh,South,Chennai,Furniture,Office Chair,5,7499,0.1,33745.5,26246.5,Online,Cash,7,2025
+ORD-01136,18-07-2025,CUST-008,Saanvi Gupta,Central,Nagpur,Furniture,Study Table,3,8999,0.05,25647.15,21057.66,Online,Net Banking,7,2025
+ORD-00026,19-07-2025,CUST-012,Myra Rao,South,Chennai,Electronics,Wireless Mouse,3,799,0.2,1917.6,1246.44,Online,Net Banking,7,2025
+ORD-00268,19-07-2025,CUST-005,Vihaan Kumar,West,Surat,Accessories,Water Bottle,4,599,0.15,2036.6,1245.92,Online,Credit Card,7,2025
+ORD-00917,19-07-2025,CUST-017,Dev Malhotra,East,Kolkata,Office Supplies,Printer Paper,1,499,0.15,424.15,299.4,Online,Net Banking,7,2025
+ORD-00295,20-07-2025,CUST-007,Arjun Das,East,Kolkata,Accessories,Laptop Bag,5,1799,0,8995,6566.35,Store,UPI,7,2025
+ORD-00512,20-07-2025,CUST-017,Dev Malhotra,East,Patna,Office Supplies,Notebook Pack,4,299,0.2,956.8,538.2,Store,Debit Card,7,2025
+ORD-00618,20-07-2025,CUST-019,Neil Chawla,South,Chennai,Electronics,Wireless Mouse,1,799,0.1,719.1,495.38,Online,Debit Card,7,2025
+ORD-00711,20-07-2025,CUST-010,Ira Menon,East,Bhubaneswar,Electronics,Keyboard,4,1299,0.1,4676.4,3377.4,Online,Cash,7,2025
+ORD-00808,20-07-2025,CUST-005,Vihaan Kumar,West,Mumbai,Furniture,Study Table,1,8999,0.2,7199.2,5669.37,Online,Debit Card,7,2025
+ORD-01016,20-07-2025,CUST-008,Saanvi Gupta,South,Kochi,Electronics,Wireless Mouse,1,799,0,799,575.28,Online,Credit Card,7,2025
+ORD-01071,20-07-2025,CUST-020,Sara Thomas,North,Jaipur,Electronics,Bluetooth Speaker,1,2499,0.2,1999.2,1449.42,Online,Credit Card,7,2025
+ORD-01137,20-07-2025,CUST-009,Kabir Joshi,East,Kolkata,Office Supplies,Notebook Pack,5,299,0,1495,971.75,Online,Net Banking,7,2025
+ORD-00547,21-07-2025,CUST-013,Aditya Verma,South,Chennai,Accessories,Webcam,2,3299,0.1,5938.2,4552.62,Online,UPI,7,2025
+ORD-00736,21-07-2025,CUST-014,Aadhya Iyer,North,Lucknow,Electronics,USB-C Hub,2,1899,0.25,2848.5,1936.98,Store,Net Banking,7,2025
+ORD-00789,21-07-2025,CUST-016,Kiara Bose,North,Delhi,Office Supplies,Printer Paper,4,499,0.1,1796.4,1297.4,Online,Cash,7,2025
+ORD-01179,21-07-2025,CUST-009,Kabir Joshi,Central,Indore,Electronics,USB-C Hub,5,1899,0.25,7121.25,4842.45,Store,Cash,7,2025
+ORD-00421,22-07-2025,CUST-004,Ananya Singh,Central,Indore,Electronics,Wireless Mouse,1,799,0.05,759.05,535.33,Online,Cash,7,2025
+ORD-00450,22-07-2025,CUST-020,Sara Thomas,North,Delhi,Office Supplies,Stapler,1,249,0,249,169.32,Online,Cash,7,2025
+ORD-00643,22-07-2025,CUST-003,Ishaan Reddy,South,Hyderabad,Office Supplies,Pen Set,3,199,0.25,447.75,220.89,Store,Cash,7,2025
+ORD-00685,22-07-2025,CUST-006,Meera Nair,West,Mumbai,Furniture,Study Table,5,8999,0.2,35996,28346.85,Phone,Cash,7,2025
+ORD-00419,23-07-2025,CUST-009,Kabir Joshi,East,Guwahati,Electronics,Monitor,4,12499,0.2,39996.8,30997.52,Online,Cash,7,2025
+ORD-00863,23-07-2025,CUST-009,Kabir Joshi,East,Kolkata,Office Supplies,File Folder,1,149,0.1,134.1,74.5,Online,Credit Card,7,2025
+ORD-00985,23-07-2025,CUST-001,Aarav Sharma,East,Patna,Electronics,USB-C Hub,4,1899,0,7596,5772.96,Online,UPI,7,2025
+ORD-00517,24-07-2025,CUST-012,Myra Rao,South,Chennai,Furniture,Study Table,6,8999,0.15,45894.9,36715.92,Store,Net Banking,7,2025
+ORD-00349,25-07-2025,CUST-009,Kabir Joshi,Central,Bhopal,Electronics,Bluetooth Speaker,1,2499,0.15,2124.15,1574.37,Online,UPI,7,2025
+ORD-00514,25-07-2025,CUST-011,Reyansh Shah,South,Kochi,Furniture,Study Table,6,8999,0.05,51294.3,42115.32,Online,Debit Card,7,2025
+ORD-00092,26-07-2025,CUST-012,Myra Rao,East,Kolkata,Furniture,Office Chair,1,7499,0.05,7124.05,5624.25,Store,Cash,7,2025
+ORD-00199,27-07-2025,CUST-020,Sara Thomas,West,Pune,Furniture,Study Table,3,8999,0.15,22947.45,18357.96,Store,Credit Card,7,2025
+ORD-00223,27-07-2025,CUST-003,Ishaan Reddy,Central,Raipur,Electronics,Wireless Mouse,3,799,0.1,2157.3,1486.14,Store,Cash,7,2025
+ORD-00277,27-07-2025,CUST-020,Sara Thomas,West,Pune,Electronics,Monitor,2,12499,0.1,22498.2,17998.56,Store,Debit Card,7,2025
+ORD-00560,27-07-2025,CUST-002,Diya Patel,East,Bhubaneswar,Office Supplies,Pen Set,5,199,0,995,616.9,Online,Net Banking,7,2025
+ORD-00649,27-07-2025,CUST-012,Myra Rao,North,Delhi,Electronics,Bluetooth Speaker,1,2499,0.15,2124.15,1574.37,Online,UPI,7,2025
+ORD-00683,27-07-2025,CUST-001,Aarav Sharma,North,Lucknow,Office Supplies,Pen Set,5,199,0,995,616.9,Online,Credit Card,7,2025
+ORD-00910,27-07-2025,CUST-020,Sara Thomas,South,Hyderabad,Electronics,USB-C Hub,1,1899,0.1,1709.1,1253.34,Online,Credit Card,7,2025
+ORD-00914,27-07-2025,CUST-005,Vihaan Kumar,South,Kochi,Office Supplies,Notebook Pack,3,299,0.15,762.45,448.5,Store,Net Banking,7,2025
+ORD-00928,27-07-2025,CUST-003,Ishaan Reddy,Central,Indore,Electronics,USB-C Hub,6,1899,0,11394,8659.44,Online,Credit Card,7,2025
+ORD-00055,28-07-2025,CUST-001,Aarav Sharma,North,Jaipur,Office Supplies,Notebook Pack,3,299,0.1,807.3,493.35,Store,Net Banking,7,2025
+ORD-00758,28-07-2025,CUST-006,Meera Nair,South,Bengaluru,Electronics,USB-C Hub,6,1899,0.1,10254.6,7520.04,Online,Credit Card,7,2025
+ORD-00799,28-07-2025,CUST-007,Arjun Das,West,Ahmedabad,Accessories,Phone Stand,5,399,0.15,1695.75,977.55,Online,UPI,7,2025
+ORD-00126,29-07-2025,CUST-003,Ishaan Reddy,Central,Indore,Office Supplies,Pen Set,6,199,0.2,955.2,501.48,Store,Debit Card,7,2025
+ORD-01064,29-07-2025,CUST-013,Aditya Verma,South,Bengaluru,Office Supplies,Pen Set,4,199,0.15,676.6,374.12,Store,Cash,7,2025
+ORD-00290,30-07-2025,CUST-011,Reyansh Shah,East,Guwahati,Office Supplies,Notebook Pack,4,299,0.1,1076.4,657.8,Online,Cash,7,2025
+ORD-00904,30-07-2025,CUST-006,Meera Nair,North,Delhi,Office Supplies,Printer Paper,1,499,0,499,374.25,Online,UPI,7,2025
+ORD-01175,30-07-2025,CUST-013,Aditya Verma,East,Kolkata,Accessories,Phone Stand,3,399,0,1197,766.08,Online,Cash,7,2025
+ORD-00273,31-07-2025,CUST-015,Rohan Kulkarni,North,Lucknow,Accessories,Laptop Bag,1,1799,0.1,1619.1,1133.37,Store,Credit Card,7,2025
+ORD-00575,31-07-2025,CUST-014,Aadhya Iyer,South,Bengaluru,Office Supplies,File Folder,6,149,0.25,670.5,312.9,Online,Debit Card,7,2025
+ORD-00612,31-07-2025,CUST-004,Ananya Singh,North,Lucknow,Office Supplies,Stapler,1,249,0,249,169.32,Online,UPI,7,2025
+ORD-00656,31-07-2025,CUST-006,Meera Nair,East,Bhubaneswar,Accessories,Webcam,6,3299,0.2,15835.2,11678.46,Store,Credit Card,7,2025
+ORD-01001,31-07-2025,CUST-006,Meera Nair,West,Surat,Furniture,Desk Lamp,4,1499,0.15,5096.6,3297.8,Online,Net Banking,7,2025
+ORD-01044,31-07-2025,CUST-008,Saanvi Gupta,West,Ahmedabad,Furniture,Office Chair,4,7499,0,29996,23996.8,Online,Cash,7,2025
+ORD-00021,01-08-2025,CUST-020,Sara Thomas,West,Pune,Accessories,Laptop Bag,3,1799,0.1,4857.3,3400.11,Online,UPI,8,2025
+ORD-00293,01-08-2025,CUST-019,Neil Chawla,West,Mumbai,Electronics,Wireless Mouse,5,799,0.2,3196,2077.4,Online,Debit Card,8,2025
+ORD-00169,02-08-2025,CUST-010,Ira Menon,West,Pune,Electronics,Keyboard,3,1299,0,3897,2922.75,Store,Credit Card,8,2025
+ORD-00861,02-08-2025,CUST-006,Meera Nair,East,Kolkata,Office Supplies,Printer Paper,4,499,0.1,1796.4,1297.4,Store,Cash,8,2025
+ORD-00875,02-08-2025,CUST-015,Rohan Kulkarni,East,Bhubaneswar,Electronics,Keyboard,6,1299,0,7794,5845.5,Online,Cash,8,2025
+ORD-01126,02-08-2025,CUST-007,Arjun Das,East,Kolkata,Office Supplies,Pen Set,2,199,0.2,318.4,167.16,Online,Net Banking,8,2025
+ORD-00061,03-08-2025,CUST-010,Ira Menon,Central,Nagpur,Electronics,USB-C Hub,1,1899,0,1899,1443.24,Online,Cash,8,2025
+ORD-00110,03-08-2025,CUST-020,Sara Thomas,East,Guwahati,Furniture,Desk Lamp,5,1499,0.2,5996,3747.5,Store,Net Banking,8,2025
+ORD-00451,03-08-2025,CUST-009,Kabir Joshi,North,Jaipur,Office Supplies,Printer Paper,3,499,0.15,1272.45,898.2,Store,Debit Card,8,2025
+ORD-00907,03-08-2025,CUST-017,Dev Malhotra,Central,Nagpur,Accessories,Laptop Bag,2,1799,0.2,2878.4,1906.94,Online,Cash,8,2025
+ORD-00076,04-08-2025,CUST-012,Myra Rao,South,Hyderabad,Office Supplies,Pen Set,5,199,0.1,895.5,517.4,Online,Cash,8,2025
+ORD-00426,04-08-2025,CUST-002,Diya Patel,North,Delhi,Furniture,Office Chair,6,7499,0.1,40494.6,31495.8,Store,Cash,8,2025
+ORD-00495,04-08-2025,CUST-020,Sara Thomas,North,Delhi,Office Supplies,Stapler,5,249,0.15,1058.25,659.85,Online,Cash,8,2025
+ORD-00806,05-08-2025,CUST-015,Rohan Kulkarni,East,Bhubaneswar,Furniture,Desk Lamp,4,1499,0,5996,4197.2,Online,UPI,8,2025
+ORD-00990,05-08-2025,CUST-009,Kabir Joshi,East,Guwahati,Electronics,Monitor,3,12499,0,37497,30747.54,Store,Net Banking,8,2025
+ORD-00127,06-08-2025,CUST-009,Kabir Joshi,North,Jaipur,Electronics,Keyboard,1,1299,0.15,1104.15,779.4,Store,UPI,8,2025
+ORD-00369,06-08-2025,CUST-007,Arjun Das,Central,Raipur,Electronics,Keyboard,2,1299,0.05,2468.1,1818.6,Online,Debit Card,8,2025
+ORD-00678,06-08-2025,CUST-001,Aarav Sharma,West,Surat,Office Supplies,Printer Paper,2,499,0.1,898.2,648.7,Phone,Debit Card,8,2025
+ORD-00761,06-08-2025,CUST-005,Vihaan Kumar,South,Kochi,Electronics,Monitor,4,12499,0.1,44996.4,35997.12,Store,UPI,8,2025
+ORD-00769,06-08-2025,CUST-014,Aadhya Iyer,South,Bengaluru,Furniture,Bookshelf,2,5499,0,10998,8908.38,Online,Net Banking,8,2025
+ORD-00924,06-08-2025,CUST-003,Ishaan Reddy,Central,Nagpur,Furniture,Office Chair,4,7499,0,29996,23996.8,Online,UPI,8,2025
+ORD-00258,08-08-2025,CUST-016,Kiara Bose,South,Bengaluru,Office Supplies,Printer Paper,1,499,0.15,424.15,299.4,Store,Net Banking,8,2025
+ORD-00432,10-08-2025,CUST-012,Myra Rao,East,Guwahati,Electronics,Bluetooth Speaker,1,2499,0,2499,1949.22,Store,Credit Card,8,2025
+ORD-00568,10-08-2025,CUST-020,Sara Thomas,North,Chandigarh,Furniture,Study Table,4,8999,0.05,34196.2,28076.88,Store,UPI,8,2025
+ORD-00574,10-08-2025,CUST-020,Sara Thomas,Central,Bhopal,Office Supplies,File Folder,2,149,0.15,253.3,134.1,Phone,Cash,8,2025
+ORD-00814,10-08-2025,CUST-016,Kiara Bose,North,Chandigarh,Electronics,Wireless Mouse,4,799,0.05,3036.2,2141.32,Online,Cash,8,2025
+ORD-00865,10-08-2025,CUST-020,Sara Thomas,North,Delhi,Accessories,Water Bottle,6,599,0.1,3234.6,2048.58,Online,Debit Card,8,2025
+ORD-00954,10-08-2025,CUST-016,Kiara Bose,North,Lucknow,Furniture,Study Table,1,8999,0.1,8099.1,6569.27,Online,Net Banking,8,2025
+ORD-01109,10-08-2025,CUST-018,Tara Kapoor,Central,Indore,Accessories,Laptop Bag,6,1799,0.1,9714.6,6800.22,Online,Net Banking,8,2025
+ORD-00264,11-08-2025,CUST-008,Saanvi Gupta,South,Kochi,Office Supplies,Stapler,6,249,0.2,1195.2,717.12,Store,Credit Card,8,2025
+ORD-00520,12-08-2025,CUST-009,Kabir Joshi,North,Chandigarh,Furniture,Bookshelf,1,5499,0.2,4399.2,3354.39,Phone,Debit Card,8,2025
+ORD-00681,12-08-2025,CUST-011,Reyansh Shah,South,Bengaluru,Electronics,Keyboard,2,1299,0.1,2338.2,1688.7,Online,Debit Card,8,2025
+ORD-00748,12-08-2025,CUST-013,Aditya Verma,Central,Raipur,Furniture,Bookshelf,1,5499,0.05,5224.05,4179.24,Store,Debit Card,8,2025
+ORD-00787,12-08-2025,CUST-009,Kabir Joshi,West,Surat,Electronics,Monitor,5,12499,0.2,49996,38746.9,Online,UPI,8,2025
+ORD-00873,13-08-2025,CUST-020,Sara Thomas,South,Kochi,Accessories,Phone Stand,4,399,0.05,1516.2,941.64,Online,Credit Card,8,2025
+ORD-00879,13-08-2025,CUST-013,Aditya Verma,East,Patna,Electronics,Monitor,4,12499,0.1,44996.4,35997.12,Phone,Net Banking,8,2025
+ORD-01116,13-08-2025,CUST-013,Aditya Verma,North,Jaipur,Office Supplies,File Folder,4,149,0.1,536.4,298,Store,Net Banking,8,2025
+ORD-01160,13-08-2025,CUST-020,Sara Thomas,North,Delhi,Furniture,Bookshelf,4,5499,0.2,17596.8,13417.56,Online,UPI,8,2025
+ORD-01169,13-08-2025,CUST-005,Vihaan Kumar,Central,Raipur,Accessories,Webcam,6,3299,0.05,18804.3,14647.56,Store,Debit Card,8,2025
+ORD-00354,14-08-2025,CUST-015,Rohan Kulkarni,South,Kochi,Electronics,Wireless Mouse,1,799,0,799,575.28,Phone,Cash,8,2025
+ORD-00356,14-08-2025,CUST-018,Tara Kapoor,East,Bhubaneswar,Office Supplies,Stapler,6,249,0,1494,1015.92,Online,Credit Card,8,2025
+ORD-00390,14-08-2025,CUST-013,Aditya Verma,Central,Nagpur,Office Supplies,Printer Paper,4,499,0.15,1696.6,1197.6,Phone,UPI,8,2025
+ORD-00526,14-08-2025,CUST-006,Meera Nair,East,Kolkata,Electronics,Bluetooth Speaker,2,2499,0.1,4498.2,3398.64,Online,Cash,8,2025
+ORD-00731,14-08-2025,CUST-012,Myra Rao,South,Kochi,Furniture,Office Chair,3,7499,0,22497,17997.6,Online,Credit Card,8,2025
+ORD-00108,15-08-2025,CUST-012,Myra Rao,East,Patna,Office Supplies,Pen Set,4,199,0.05,756.2,453.72,Online,Credit Card,8,2025
+ORD-00119,15-08-2025,CUST-015,Rohan Kulkarni,Central,Bhopal,Electronics,Wireless Mouse,3,799,0.1,2157.3,1486.14,Store,Cash,8,2025
+ORD-00631,15-08-2025,CUST-003,Ishaan Reddy,South,Hyderabad,Office Supplies,Pen Set,3,199,0.2,477.6,250.74,Online,Debit Card,8,2025
+ORD-00064,16-08-2025,CUST-014,Aadhya Iyer,Central,Raipur,Office Supplies,Notebook Pack,1,299,0.2,239.2,134.55,Online,UPI,8,2025
+ORD-00153,16-08-2025,CUST-014,Aadhya Iyer,Central,Raipur,Office Supplies,Pen Set,1,199,0.15,169.15,93.53,Online,Credit Card,8,2025
+ORD-00869,16-08-2025,CUST-006,Meera Nair,West,Mumbai,Furniture,Desk Lamp,5,1499,0.1,6745.5,4497,Online,Net Banking,8,2025
+ORD-00960,16-08-2025,CUST-002,Diya Patel,South,Bengaluru,Furniture,Office Chair,3,7499,0.15,19122.45,14623.05,Store,Net Banking,8,2025
+ORD-00019,17-08-2025,CUST-007,Arjun Das,East,Guwahati,Furniture,Bookshelf,1,5499,0.1,4949.1,3904.29,Online,Cash,8,2025
+ORD-00182,17-08-2025,CUST-005,Vihaan Kumar,East,Patna,Furniture,Study Table,2,8999,0.15,15298.3,12238.64,Online,UPI,8,2025
+ORD-00980,17-08-2025,CUST-008,Saanvi Gupta,North,Jaipur,Accessories,Webcam,3,3299,0,9897,7818.63,Store,Debit Card,8,2025
+ORD-01083,17-08-2025,CUST-011,Reyansh Shah,East,Kolkata,Electronics,Wireless Mouse,2,799,0.15,1358.3,910.86,Store,Credit Card,8,2025
+ORD-00232,18-08-2025,CUST-009,Kabir Joshi,Central,Bhopal,Furniture,Bookshelf,5,5499,0.1,24745.5,19521.45,Online,Cash,8,2025
+ORD-01024,18-08-2025,CUST-020,Sara Thomas,South,Chennai,Office Supplies,Printer Paper,5,499,0.1,2245.5,1621.75,Online,Debit Card,8,2025
+ORD-00086,19-08-2025,CUST-001,Aarav Sharma,North,Delhi,Accessories,Webcam,2,3299,0.05,6268.1,4882.52,Store,Debit Card,8,2025
+ORD-00231,19-08-2025,CUST-016,Kiara Bose,East,Bhubaneswar,Accessories,Phone Stand,2,399,0.15,678.3,391.02,Store,Net Banking,8,2025
+ORD-00933,20-08-2025,CUST-015,Rohan Kulkarni,South,Chennai,Accessories,Webcam,6,3299,0,19794,15637.26,Online,Net Banking,8,2025
+ORD-00229,21-08-2025,CUST-015,Rohan Kulkarni,West,Mumbai,Electronics,Bluetooth Speaker,4,2499,0.25,7497,5297.88,Online,Debit Card,8,2025
+ORD-00573,21-08-2025,CUST-004,Ananya Singh,Central,Nagpur,Furniture,Desk Lamp,4,1499,0.2,4796.8,2998,Online,Cash,8,2025
+ORD-00636,21-08-2025,CUST-019,Neil Chawla,East,Kolkata,Office Supplies,Printer Paper,5,499,0.1,2245.5,1621.75,Online,Debit Card,8,2025
+ORD-00188,22-08-2025,CUST-012,Myra Rao,East,Bhubaneswar,Furniture,Study Table,5,8999,0,44995,37345.85,Online,UPI,8,2025
+ORD-00621,22-08-2025,CUST-016,Kiara Bose,South,Hyderabad,Furniture,Bookshelf,2,5499,0,10998,8908.38,Online,Cash,8,2025
+ORD-00642,22-08-2025,CUST-011,Reyansh Shah,North,Delhi,Furniture,Study Table,3,8999,0.25,20247.75,15658.26,Phone,Cash,8,2025
+ORD-00796,22-08-2025,CUST-007,Arjun Das,West,Ahmedabad,Electronics,Monitor,5,12499,0.1,56245.5,44996.4,Online,Net Banking,8,2025
+ORD-00888,23-08-2025,CUST-013,Aditya Verma,East,Patna,Furniture,Desk Lamp,3,1499,0.15,3822.45,2473.35,Store,Net Banking,8,2025
+ORD-00576,24-08-2025,CUST-009,Kabir Joshi,West,Mumbai,Office Supplies,Stapler,2,249,0,498,338.64,Online,Net Banking,8,2025
+ORD-00616,24-08-2025,CUST-004,Ananya Singh,East,Patna,Furniture,Office Chair,5,7499,0.05,35620.25,28121.25,Online,Net Banking,8,2025
+ORD-01068,24-08-2025,CUST-012,Myra Rao,West,Pune,Accessories,Webcam,1,3299,0.05,3134.05,2441.26,Online,Cash,8,2025
+ORD-00627,25-08-2025,CUST-009,Kabir Joshi,Central,Indore,Furniture,Office Chair,4,7499,0,29996,23996.8,Online,Net Banking,8,2025
+ORD-01028,25-08-2025,CUST-018,Tara Kapoor,North,Chandigarh,Furniture,Desk Lamp,1,1499,0.1,1349.1,899.4,Store,Cash,8,2025
+ORD-01161,25-08-2025,CUST-005,Vihaan Kumar,East,Patna,Furniture,Desk Lamp,2,1499,0.1,2698.2,1798.8,Online,Debit Card,8,2025
+ORD-00224,26-08-2025,CUST-013,Aditya Verma,South,Bengaluru,Accessories,Webcam,6,3299,0.2,15835.2,11678.46,Online,Credit Card,8,2025
+ORD-00437,26-08-2025,CUST-020,Sara Thomas,West,Pune,Office Supplies,Stapler,3,249,0.05,709.65,470.61,Online,UPI,8,2025
+ORD-00771,26-08-2025,CUST-014,Aadhya Iyer,West,Ahmedabad,Office Supplies,Printer Paper,6,499,0.1,2694.6,1946.1,Online,Cash,8,2025
+ORD-00010,27-08-2025,CUST-014,Aadhya Iyer,North,Delhi,Electronics,Bluetooth Speaker,3,2499,0.1,6747.3,5097.96,Store,Cash,8,2025
+ORD-00546,27-08-2025,CUST-007,Arjun Das,Central,Raipur,Electronics,Wireless Mouse,3,799,0.1,2157.3,1486.14,Online,Net Banking,8,2025
+ORD-00161,28-08-2025,CUST-003,Ishaan Reddy,Central,Nagpur,Office Supplies,Notebook Pack,5,299,0,1495,971.75,Online,Net Banking,8,2025
+ORD-00202,28-08-2025,CUST-002,Diya Patel,East,Kolkata,Office Supplies,File Folder,6,149,0.05,849.3,491.7,Store,Net Banking,8,2025
+ORD-00762,28-08-2025,CUST-014,Aadhya Iyer,East,Bhubaneswar,Office Supplies,File Folder,5,149,0,745,447,Online,Cash,8,2025
+ORD-01000,28-08-2025,CUST-001,Aarav Sharma,North,Delhi,Accessories,Laptop Bag,3,1799,0.1,4857.3,3400.11,Store,Credit Card,8,2025
+ORD-00265,29-08-2025,CUST-006,Meera Nair,South,Kochi,Office Supplies,Pen Set,6,199,0,1194,740.28,Online,Net Banking,8,2025
+ORD-00793,29-08-2025,CUST-002,Diya Patel,East,Kolkata,Electronics,Monitor,1,12499,0.1,11249.1,8999.28,Online,UPI,8,2025
+ORD-00964,29-08-2025,CUST-003,Ishaan Reddy,South,Hyderabad,Accessories,Water Bottle,1,599,0.15,509.15,311.48,Store,Debit Card,8,2025
+ORD-00339,30-08-2025,CUST-002,Diya Patel,East,Kolkata,Electronics,Bluetooth Speaker,3,2499,0.2,5997.6,4348.26,Store,Credit Card,8,2025
+ORD-00703,30-08-2025,CUST-012,Myra Rao,Central,Raipur,Electronics,Monitor,6,12499,0.1,74994,61495.08,Store,Net Banking,8,2025
+ORD-00749,30-08-2025,CUST-018,Tara Kapoor,South,Bengaluru,Office Supplies,Pen Set,6,199,0.05,1134.3,680.58,Online,Credit Card,8,2025
+ORD-00857,30-08-2025,CUST-013,Aditya Verma,Central,Bhopal,Electronics,Monitor,6,12499,0,74994,61495.08,Store,UPI,8,2025
+ORD-00013,31-08-2025,CUST-020,Sara Thomas,North,Jaipur,Office Supplies,Printer Paper,3,499,0.2,1197.6,823.35,Online,Credit Card,8,2025
+ORD-00173,31-08-2025,CUST-005,Vihaan Kumar,South,Bengaluru,Accessories,Water Bottle,3,599,0.2,1437.6,844.59,Online,UPI,8,2025
+ORD-01036,31-08-2025,CUST-012,Myra Rao,South,Kochi,Office Supplies,Notebook Pack,5,299,0.1,1345.5,822.25,Store,Net Banking,8,2025
+ORD-01047,31-08-2025,CUST-007,Arjun Das,Central,Indore,Furniture,Office Chair,2,7499,0.05,14248.1,11248.5,Store,Credit Card,8,2025
+ORD-00815,01-09-2025,CUST-008,Saanvi Gupta,West,Surat,Accessories,Water Bottle,6,599,0.1,3234.6,2048.58,Phone,Cash,9,2025
+ORD-01072,01-09-2025,CUST-008,Saanvi Gupta,North,Delhi,Office Supplies,Printer Paper,1,499,0.1,449.1,324.35,Online,Debit Card,9,2025
+ORD-00571,02-09-2025,CUST-005,Vihaan Kumar,North,Jaipur,Furniture,Office Chair,5,7499,0.15,31870.75,24371.75,Store,UPI,9,2025
+ORD-00723,02-09-2025,CUST-008,Saanvi Gupta,West,Pune,Furniture,Desk Lamp,3,1499,0.1,4047.3,2698.2,Online,Net Banking,9,2025
+ORD-00101,03-09-2025,CUST-013,Aditya Verma,West,Mumbai,Accessories,Water Bottle,2,599,0.2,958.4,563.06,Online,Cash,9,2025
+ORD-00140,03-09-2025,CUST-014,Aadhya Iyer,East,Kolkata,Accessories,Laptop Bag,3,1799,0,5397,3939.81,Online,Credit Card,9,2025
+ORD-00800,03-09-2025,CUST-020,Sara Thomas,West,Ahmedabad,Accessories,Laptop Bag,3,1799,0.05,5127.15,3669.96,Online,Cash,9,2025
+ORD-00842,03-09-2025,CUST-011,Reyansh Shah,West,Ahmedabad,Electronics,Monitor,1,12499,0.1,11249.1,8999.28,Phone,UPI,9,2025
+ORD-00163,04-09-2025,CUST-006,Meera Nair,West,Surat,Electronics,Wireless Mouse,6,799,0,4794,3451.68,Online,Debit Card,9,2025
+ORD-00307,04-09-2025,CUST-014,Aadhya Iyer,East,Bhubaneswar,Electronics,Wireless Mouse,6,799,0,4794,3451.68,Online,Cash,9,2025
+ORD-00425,04-09-2025,CUST-011,Reyansh Shah,Central,Nagpur,Office Supplies,File Folder,4,149,0.15,506.6,268.2,Phone,Cash,9,2025
+ORD-00537,04-09-2025,CUST-005,Vihaan Kumar,East,Guwahati,Office Supplies,Stapler,2,249,0,498,338.64,Online,Credit Card,9,2025
+ORD-01162,04-09-2025,CUST-003,Ishaan Reddy,East,Guwahati,Electronics,Keyboard,1,1299,0.2,1039.2,714.45,Online,Cash,9,2025
+ORD-00157,05-09-2025,CUST-002,Diya Patel,East,Patna,Electronics,Keyboard,6,1299,0,7794,5845.5,Online,Credit Card,9,2025
+ORD-00489,05-09-2025,CUST-010,Ira Menon,North,Delhi,Accessories,Phone Stand,3,399,0.2,957.6,526.68,Online,Cash,9,2025
+ORD-00497,05-09-2025,CUST-020,Sara Thomas,North,Delhi,Accessories,Laptop Bag,3,1799,0.1,4857.3,3400.11,Online,UPI,9,2025
+ORD-00920,05-09-2025,CUST-005,Vihaan Kumar,Central,Raipur,Accessories,Phone Stand,5,399,0.05,1895.25,1177.05,Store,UPI,9,2025
+ORD-00203,06-09-2025,CUST-019,Neil Chawla,Central,Nagpur,Electronics,Wireless Mouse,6,799,0,4794,3451.68,Store,UPI,9,2025
+ORD-00321,06-09-2025,CUST-015,Rohan Kulkarni,East,Kolkata,Electronics,Keyboard,3,1299,0.15,3312.45,2338.2,Online,Debit Card,9,2025
+ORD-00581,06-09-2025,CUST-009,Kabir Joshi,West,Surat,Accessories,Webcam,4,3299,0.15,11216.6,8445.44,Online,Debit Card,9,2025
+ORD-00751,06-09-2025,CUST-012,Myra Rao,South,Chennai,Electronics,Bluetooth Speaker,2,2499,0.05,4748.1,3648.54,Online,Net Banking,9,2025
+ORD-01048,06-09-2025,CUST-020,Sara Thomas,West,Surat,Office Supplies,Notebook Pack,3,299,0.15,762.45,448.5,Online,UPI,9,2025
+ORD-00131,07-09-2025,CUST-004,Ananya Singh,West,Mumbai,Furniture,Desk Lamp,3,1499,0.25,3372.75,2023.65,Online,Cash,9,2025
+ORD-00897,08-09-2025,CUST-010,Ira Menon,East,Kolkata,Electronics,Keyboard,5,1299,0.1,5845.5,4221.75,Store,Credit Card,9,2025
+ORD-00952,08-09-2025,CUST-014,Aadhya Iyer,East,Kolkata,Accessories,Phone Stand,2,399,0.15,678.3,391.02,Online,Cash,9,2025
+ORD-00410,09-09-2025,CUST-017,Dev Malhotra,North,Chandigarh,Electronics,Keyboard,3,1299,0.05,3702.15,2727.9,Online,Credit Card,9,2025
+ORD-00946,09-09-2025,CUST-013,Aditya Verma,North,Chandigarh,Office Supplies,Pen Set,4,199,0.15,676.6,374.12,Phone,Credit Card,9,2025
+ORD-00528,10-09-2025,CUST-018,Tara Kapoor,East,Guwahati,Electronics,Monitor,6,12499,0.2,59995.2,46496.28,Store,Debit Card,9,2025
+ORD-00602,10-09-2025,CUST-011,Reyansh Shah,Central,Bhopal,Accessories,Phone Stand,5,399,0.1,1795.5,1077.3,Store,Debit Card,9,2025
+ORD-01039,10-09-2025,CUST-003,Ishaan Reddy,North,Delhi,Furniture,Bookshelf,2,5499,0.05,10448.1,8358.48,Store,Debit Card,9,2025
+ORD-00033,11-09-2025,CUST-019,Neil Chawla,Central,Nagpur,Furniture,Office Chair,5,7499,0,37495,29996,Store,UPI,9,2025
+ORD-00014,12-09-2025,CUST-015,Rohan Kulkarni,North,Lucknow,Electronics,USB-C Hub,3,1899,0,5697,4329.72,Online,Debit Card,9,2025
+ORD-00397,12-09-2025,CUST-006,Meera Nair,South,Kochi,Office Supplies,Printer Paper,5,499,0,2495,1871.25,Phone,Credit Card,9,2025
+ORD-00659,13-09-2025,CUST-012,Myra Rao,Central,Bhopal,Electronics,Monitor,6,12499,0.05,71244.3,57745.38,Store,Cash,9,2025
+ORD-00709,13-09-2025,CUST-008,Saanvi Gupta,West,Pune,Office Supplies,File Folder,5,149,0.2,596,298,Online,Cash,9,2025
+ORD-00752,13-09-2025,CUST-007,Arjun Das,East,Patna,Office Supplies,Pen Set,6,199,0.2,955.2,501.48,Store,UPI,9,2025
+ORD-00658,14-09-2025,CUST-017,Dev Malhotra,Central,Raipur,Furniture,Office Chair,6,7499,0,44994,35995.2,Online,UPI,9,2025
+ORD-01053,14-09-2025,CUST-015,Rohan Kulkarni,South,Kochi,Accessories,Webcam,4,3299,0.15,11216.6,8445.44,Online,Credit Card,9,2025
+ORD-00009,15-09-2025,CUST-010,Ira Menon,West,Surat,Office Supplies,Stapler,2,249,0.1,448.2,288.84,Store,UPI,9,2025
+ORD-00478,15-09-2025,CUST-020,Sara Thomas,Central,Bhopal,Electronics,Wireless Mouse,5,799,0.1,3595.5,2476.9,Online,Cash,9,2025
+ORD-00601,15-09-2025,CUST-016,Kiara Bose,East,Guwahati,Accessories,Laptop Bag,2,1799,0.05,3418.1,2446.64,Store,UPI,9,2025
+ORD-00700,15-09-2025,CUST-006,Meera Nair,East,Kolkata,Furniture,Bookshelf,6,5499,0.05,31344.3,25075.44,Online,Cash,9,2025
+ORD-00900,15-09-2025,CUST-018,Tara Kapoor,East,Guwahati,Furniture,Office Chair,6,7499,0,44994,35995.2,Store,UPI,9,2025
+ORD-00430,16-09-2025,CUST-017,Dev Malhotra,Central,Bhopal,Furniture,Bookshelf,1,5499,0.15,4674.15,3629.34,Store,Net Banking,9,2025
+ORD-00652,16-09-2025,CUST-016,Kiara Bose,North,Jaipur,Office Supplies,Pen Set,1,199,0,199,123.38,Store,Credit Card,9,2025
+ORD-00854,16-09-2025,CUST-020,Sara Thomas,East,Kolkata,Electronics,Wireless Mouse,4,799,0.15,2716.6,1821.72,Online,Debit Card,9,2025
+ORD-00269,17-09-2025,CUST-009,Kabir Joshi,East,Guwahati,Accessories,Laptop Bag,1,1799,0.15,1529.15,1043.42,Online,UPI,9,2025
+ORD-01070,17-09-2025,CUST-012,Myra Rao,West,Surat,Accessories,Webcam,6,3299,0,19794,15637.26,Store,Cash,9,2025
+ORD-00905,18-09-2025,CUST-001,Aarav Sharma,East,Bhubaneswar,Electronics,USB-C Hub,6,1899,0.05,10824.3,8089.74,Online,Debit Card,9,2025
+ORD-00103,19-09-2025,CUST-009,Kabir Joshi,West,Surat,Furniture,Office Chair,3,7499,0.25,16872.75,12373.35,Online,Cash,9,2025
+ORD-00895,19-09-2025,CUST-011,Reyansh Shah,West,Ahmedabad,Office Supplies,Notebook Pack,3,299,0.15,762.45,448.5,Online,Debit Card,9,2025
+ORD-01111,19-09-2025,CUST-018,Tara Kapoor,Central,Indore,Office Supplies,Notebook Pack,6,299,0,1794,1166.1,Online,Debit Card,9,2025
+ORD-00507,20-09-2025,CUST-013,Aditya Verma,North,Chandigarh,Furniture,Study Table,5,8999,0.1,40495.5,32846.35,Online,UPI,9,2025
+ORD-00509,20-09-2025,CUST-002,Diya Patel,East,Kolkata,Accessories,Water Bottle,3,599,0,1797,1203.99,Online,Debit Card,9,2025
+ORD-00926,20-09-2025,CUST-003,Ishaan Reddy,North,Jaipur,Office Supplies,Printer Paper,1,499,0,499,374.25,Store,Net Banking,9,2025
+ORD-01026,20-09-2025,CUST-006,Meera Nair,North,Lucknow,Accessories,Webcam,5,3299,0.2,13196,9732.05,Online,Debit Card,9,2025
+ORD-00398,21-09-2025,CUST-002,Diya Patel,North,Chandigarh,Accessories,Water Bottle,2,599,0,1198,802.66,Online,Debit Card,9,2025
+ORD-00589,21-09-2025,CUST-011,Reyansh Shah,North,Chandigarh,Electronics,Bluetooth Speaker,3,2499,0.05,7122.15,5472.81,Online,Net Banking,9,2025
+ORD-00619,21-09-2025,CUST-007,Arjun Das,Central,Bhopal,Electronics,Bluetooth Speaker,6,2499,0,14994,11695.32,Online,Debit Card,9,2025
+ORD-00947,21-09-2025,CUST-006,Meera Nair,Central,Indore,Accessories,Phone Stand,2,399,0.05,758.1,470.82,Online,Credit Card,9,2025
+ORD-01067,21-09-2025,CUST-009,Kabir Joshi,North,Chandigarh,Electronics,Monitor,6,12499,0.15,63744.9,50245.98,Store,UPI,9,2025
+ORD-01154,21-09-2025,CUST-007,Arjun Das,Central,Indore,Office Supplies,File Folder,4,149,0.15,506.6,268.2,Online,UPI,9,2025
+ORD-00036,22-09-2025,CUST-003,Ishaan Reddy,East,Kolkata,Office Supplies,File Folder,1,149,0.1,134.1,74.5,Store,Net Banking,9,2025
+ORD-00088,22-09-2025,CUST-002,Diya Patel,West,Surat,Office Supplies,Stapler,3,249,0.1,672.3,433.26,Store,Credit Card,9,2025
+ORD-00129,22-09-2025,CUST-011,Unknown,East,Guwahati,Office Supplies,Pen Set,5,199,0.15,845.75,467.65,Phone,UPI,9,2025
+ORD-00381,22-09-2025,CUST-001,Aarav Sharma,West,Ahmedabad,Accessories,Water Bottle,3,599,0.05,1707.15,1114.14,Online,Cash,9,2025
+ORD-00697,22-09-2025,CUST-001,Aarav Sharma,East,Guwahati,Office Supplies,Stapler,6,249,0,1494,1015.92,Store,Cash,9,2025
+ORD-00025,23-09-2025,CUST-015,Rohan Kulkarni,North,Lucknow,Office Supplies,Pen Set,6,199,0,1194,740.28,Phone,Net Banking,9,2025
+ORD-00175,23-09-2025,CUST-014,Aadhya Iyer,North,Lucknow,Electronics,Bluetooth Speaker,1,2499,0.05,2374.05,1824.27,Online,UPI,9,2025
+ORD-00361,23-09-2025,CUST-011,Reyansh Shah,South,Chennai,Electronics,Wireless Mouse,6,799,0.15,4074.9,2732.58,Online,Net Banking,9,2025
+ORD-00059,24-09-2025,CUST-003,Ishaan Reddy,East,Guwahati,Furniture,Study Table,2,8999,0.2,14398.4,11338.74,Store,Cash,9,2025
+ORD-00080,24-09-2025,CUST-004,Ananya Singh,South,Kochi,Furniture,Study Table,2,8999,0.15,15298.3,12238.64,Store,UPI,9,2025
+ORD-00669,24-09-2025,CUST-011,Reyansh Shah,West,Surat,Electronics,Bluetooth Speaker,3,2499,0.15,6372.45,4723.11,Store,Cash,9,2025
+ORD-00674,24-09-2025,CUST-015,Rohan Kulkarni,East,Kolkata,Electronics,Bluetooth Speaker,2,2499,0.2,3998.4,2898.84,Online,UPI,9,2025
+ORD-00747,24-09-2025,CUST-008,Saanvi Gupta,West,Surat,Electronics,USB-C Hub,1,1899,0,1899,1443.24,Online,UPI,9,2025
+ORD-00305,25-09-2025,CUST-011,Reyansh Shah,West,Mumbai,Accessories,Water Bottle,1,599,0.2,479.2,281.53,Online,UPI,9,2025
+ORD-00446,25-09-2025,CUST-020,Sara Thomas,West,Pune,Office Supplies,Printer Paper,1,499,0.25,374.25,249.5,Store,Credit Card,9,2025
+ORD-00482,25-09-2025,CUST-014,Aadhya Iyer,East,Kolkata,Electronics,USB-C Hub,6,1899,0.1,10254.6,7520.04,Online,Net Banking,9,2025
+ORD-00696,25-09-2025,CUST-005,Vihaan Kumar,South,Kochi,Office Supplies,File Folder,1,149,0.1,134.1,74.5,Store,Cash,9,2025
+ORD-01144,25-09-2025,CUST-013,Aditya Verma,Central,Raipur,Accessories,Phone Stand,5,399,0,1995,1276.8,Online,UPI,9,2025
+ORD-01077,26-09-2025,CUST-018,Tara Kapoor,West,Pune,Accessories,Webcam,4,3299,0.2,10556.8,7785.64,Store,Credit Card,9,2025
+ORD-00112,27-09-2025,CUST-020,Sara Thomas,East,Kolkata,Electronics,Monitor,1,12499,0,12499,10249.18,Online,Credit Card,9,2025
+ORD-01146,27-09-2025,CUST-001,Aarav Sharma,West,Pune,Electronics,USB-C Hub,4,1899,0.1,6836.4,5013.36,Online,Credit Card,9,2025
+ORD-00133,28-09-2025,CUST-002,Diya Patel,West,Ahmedabad,Furniture,Study Table,4,8999,0.15,30596.6,24477.28,Store,Debit Card,9,2025
+ORD-00414,28-09-2025,CUST-005,Vihaan Kumar,South,Chennai,Office Supplies,Pen Set,5,199,0.05,945.25,567.15,Phone,Debit Card,9,2025
+ORD-00816,28-09-2025,CUST-002,Diya Patel,South,Kochi,Electronics,Monitor,4,12499,0.1,44996.4,35997.12,Online,Cash,9,2025
+ORD-01168,28-09-2025,CUST-020,Sara Thomas,South,Bengaluru,Electronics,USB-C Hub,4,1899,0.1,6836.4,5013.36,Phone,Credit Card,9,2025
+ORD-00540,29-09-2025,CUST-012,Myra Rao,West,Ahmedabad,Office Supplies,Notebook Pack,3,299,0.2,717.6,403.65,Online,Cash,9,2025
+ORD-00554,29-09-2025,CUST-018,Tara Kapoor,North,Delhi,Accessories,Phone Stand,6,399,0.25,1795.5,933.66,Online,Debit Card,9,2025
+ORD-00600,29-09-2025,CUST-013,Aditya Verma,East,Patna,Accessories,Webcam,2,3299,0.1,5938.2,4552.62,Online,UPI,9,2025
+ORD-00802,29-09-2025,CUST-002,Diya Patel,North,Lucknow,Accessories,Laptop Bag,1,1799,0.1,1619.1,1133.37,Phone,Credit Card,9,2025
+ORD-00164,30-09-2025,CUST-013,Aditya Verma,West,Mumbai,Accessories,Phone Stand,2,399,0.1,718.2,430.92,Phone,Credit Card,9,2025
+ORD-00358,30-09-2025,CUST-009,Kabir Joshi,North,Jaipur,Electronics,Wireless Mouse,1,799,0.05,759.05,535.33,Online,Net Banking,9,2025
+ORD-00630,30-09-2025,CUST-003,Ishaan Reddy,North,Jaipur,Electronics,Bluetooth Speaker,5,2499,0.2,9996,7247.1,Online,UPI,9,2025
+ORD-00974,30-09-2025,CUST-017,Dev Malhotra,East,Kolkata,Electronics,Monitor,4,12499,0.1,44996.4,35997.12,Online,Credit Card,9,2025
+ORD-00177,01-10-2025,CUST-005,Vihaan Kumar,Central,Raipur,Furniture,Study Table,5,8999,0.1,40495.5,32846.35,Store,Credit Card,10,2025
+ORD-00469,01-10-2025,CUST-008,Saanvi Gupta,West,Surat,Furniture,Desk Lamp,2,1499,0.1,2698.2,1798.8,Store,Cash,10,2025
+ORD-00757,01-10-2025,CUST-008,Saanvi Gupta,Central,Nagpur,Accessories,Water Bottle,1,599,0.2,479.2,281.53,Online,Net Banking,10,2025
+ORD-00162,02-10-2025,CUST-018,Tara Kapoor,North,Delhi,Office Supplies,File Folder,2,149,0.15,253.3,134.1,Online,UPI,10,2025
+ORD-00462,02-10-2025,CUST-020,Sara Thomas,West,Ahmedabad,Electronics,Monitor,1,12499,0.2,9999.2,7749.38,Online,Debit Card,10,2025
+ORD-00569,02-10-2025,CUST-005,Vihaan Kumar,West,Pune,Office Supplies,Notebook Pack,6,299,0.05,1704.3,1076.4,Online,Debit Card,10,2025
+ORD-00809,02-10-2025,CUST-009,Kabir Joshi,South,Kochi,Accessories,Water Bottle,4,599,0.1,2156.4,1365.72,Online,Net Banking,10,2025
+ORD-00859,02-10-2025,CUST-015,Rohan Kulkarni,East,Guwahati,Accessories,Phone Stand,3,399,0.05,1137.15,706.23,Online,Net Banking,10,2025
+ORD-01188,02-10-2025,CUST-017,Dev Malhotra,North,Jaipur,Office Supplies,Pen Set,5,199,0.1,895.5,517.4,Store,UPI,10,2025
+ORD-00085,03-10-2025,CUST-017,Dev Malhotra,Central,Indore,Electronics,Keyboard,1,1299,0.1,1169.1,844.35,Online,Credit Card,10,2025
+ORD-00154,03-10-2025,CUST-013,Aditya Verma,Central,Indore,Furniture,Study Table,1,8999,0.25,6749.25,5219.42,Online,Credit Card,10,2025
+ORD-00201,03-10-2025,CUST-016,Kiara Bose,Central,Indore,Office Supplies,Pen Set,4,199,0.2,636.8,334.32,Phone,UPI,10,2025
+ORD-00253,03-10-2025,CUST-002,Diya Patel,North,Delhi,Office Supplies,Pen Set,6,199,0.1,1074.6,620.88,Online,UPI,10,2025
+ORD-00772,03-10-2025,CUST-015,Rohan Kulkarni,East,Patna,Electronics,Monitor,2,12499,0.05,23748.1,19248.46,Online,Debit Card,10,2025
+ORD-00438,04-10-2025,CUST-009,Kabir Joshi,West,Pune,Furniture,Bookshelf,2,5499,0,10998,8908.38,Online,Debit Card,10,2025
+ORD-00531,04-10-2025,CUST-014,Aadhya Iyer,North,Jaipur,Office Supplies,Pen Set,2,199,0.2,318.4,167.16,Store,Net Banking,10,2025
+ORD-00739,04-10-2025,CUST-012,Myra Rao,East,Bhubaneswar,Accessories,Water Bottle,4,599,0,2396,1605.32,Online,Credit Card,10,2025
+ORD-00987,04-10-2025,CUST-008,Saanvi Gupta,North,Jaipur,Electronics,Keyboard,4,1299,0.2,4156.8,2857.8,Online,Net Banking,10,2025
+ORD-01045,04-10-2025,CUST-015,Rohan Kulkarni,North,Lucknow,Office Supplies,Printer Paper,2,499,0.05,948.1,698.6,Online,UPI,10,2025
+ORD-00235,05-10-2025,CUST-015,Rohan Kulkarni,South,Hyderabad,Accessories,Phone Stand,2,399,0,798,510.72,Online,Cash,10,2025
+ORD-00407,05-10-2025,CUST-017,Dev Malhotra,South,Hyderabad,Office Supplies,Notebook Pack,6,299,0.2,1435.2,807.3,Online,Net Banking,10,2025
+ORD-00483,05-10-2025,CUST-011,Reyansh Shah,West,Surat,Office Supplies,Notebook Pack,4,299,0,1196,777.4,Store,UPI,10,2025
+ORD-00490,05-10-2025,CUST-019,Neil Chawla,North,Lucknow,Furniture,Bookshelf,2,5499,0.1,9898.2,7808.58,Online,UPI,10,2025
+ORD-00493,05-10-2025,CUST-011,Reyansh Shah,East,Patna,Accessories,Laptop Bag,2,1799,0.2,2878.4,1906.94,Store,Debit Card,10,2025
+ORD-00530,05-10-2025,CUST-006,Meera Nair,North,Lucknow,Office Supplies,Pen Set,2,199,0,398,246.76,Store,Credit Card,10,2025
+ORD-00721,05-10-2025,CUST-007,Arjun Das,West,Ahmedabad,Electronics,Monitor,3,12499,0.25,28122.75,21373.29,Online,UPI,10,2025
+ORD-00176,06-10-2025,CUST-014,Aadhya Iyer,East,Guwahati,Electronics,Keyboard,3,1299,0.15,3312.45,2338.2,Store,Net Banking,10,2025
+ORD-00301,06-10-2025,CUST-018,Tara Kapoor,East,Patna,Electronics,Monitor,5,12499,0.1,49996,38746.9,Phone,UPI,10,2025
+ORD-00724,06-10-2025,CUST-009,Kabir Joshi,West,Pune,Accessories,Webcam,3,3299,0.1,9402.15,7323.78,Online,UPI,10,2025
+ORD-01038,06-10-2025,CUST-002,Diya Patel,East,Bhubaneswar,Furniture,Study Table,1,8999,0,8999,7469.17,Store,UPI,10,2025
+ORD-01096,06-10-2025,CUST-014,Aadhya Iyer,West,Pune,Electronics,Keyboard,3,1299,0,3897,2922.75,Store,Net Banking,10,2025
+ORD-00434,07-10-2025,CUST-006,Meera Nair,North,Delhi,Office Supplies,Printer Paper,4,499,0.1,1796.4,1297.4,Online,Net Banking,10,2025
+ORD-01075,07-10-2025,CUST-008,Saanvi Gupta,North,Jaipur,Electronics,Monitor,6,12499,0.1,67494.6,53995.68,Store,Net Banking,10,2025
+ORD-01139,08-10-2025,CUST-004,Ananya Singh,West,Ahmedabad,Accessories,Water Bottle,6,599,0.05,3414.3,2228.28,Online,Cash,10,2025
+ORD-00029,09-10-2025,CUST-001,Aarav Sharma,North,Chandigarh,Furniture,Bookshelf,3,5499,0.05,15672.15,12537.72,Online,Cash,10,2025
+ORD-00067,09-10-2025,CUST-003,Ishaan Reddy,West,Ahmedabad,Accessories,Webcam,6,3299,0.2,15835.2,11678.46,Online,Debit Card,10,2025
+ORD-00347,09-10-2025,CUST-020,Sara Thomas,South,Chennai,Office Supplies,Pen Set,1,199,0.1,179.1,103.48,Phone,Credit Card,10,2025
+ORD-00778,09-10-2025,CUST-012,Myra Rao,South,Hyderabad,Furniture,Study Table,1,8999,0.2,7199.2,5669.37,Online,Credit Card,10,2025
+ORD-00894,09-10-2025,CUST-015,Rohan Kulkarni,East,Bhubaneswar,Office Supplies,File Folder,5,149,0,745,447,Online,Cash,10,2025
+ORD-01186,09-10-2025,CUST-009,Kabir Joshi,East,Guwahati,Office Supplies,Notebook Pack,4,299,0,1196,777.4,Online,Debit Card,10,2025
+ORD-00057,10-10-2025,CUST-019,Neil Chawla,East,Guwahati,Furniture,Bookshelf,2,5499,0.05,10448.1,8358.48,Store,Net Banking,10,2025
+ORD-00179,10-10-2025,CUST-018,Tara Kapoor,South,Bengaluru,Furniture,Office Chair,1,7499,0.15,6374.15,4874.35,Store,Credit Card,10,2025
+ORD-00463,10-10-2025,CUST-008,Saanvi Gupta,South,Hyderabad,Electronics,USB-C Hub,4,1899,0,7596,5772.96,Online,Cash,10,2025
+ORD-00722,10-10-2025,CUST-018,Tara Kapoor,South,Hyderabad,Furniture,Study Table,5,8999,0.1,40495.5,32846.35,Store,Credit Card,10,2025
+ORD-01030,10-10-2025,CUST-010,Ira Menon,East,Patna,Furniture,Bookshelf,1,5499,0.2,4399.2,3354.39,Online,Net Banking,10,2025
+ORD-01073,10-10-2025,CUST-015,Rohan Kulkarni,East,Bhubaneswar,Office Supplies,Printer Paper,6,499,0,2994,2245.5,Phone,Credit Card,10,2025
+ORD-00911,11-10-2025,CUST-018,Tara Kapoor,East,Patna,Office Supplies,Printer Paper,5,499,0.05,2370.25,1746.5,Online,Cash,10,2025
+ORD-00760,12-10-2025,CUST-004,Ananya Singh,South,Kochi,Office Supplies,Stapler,3,249,0.15,634.95,395.91,Online,Cash,10,2025
+ORD-01187,12-10-2025,CUST-008,Saanvi Gupta,South,Chennai,Furniture,Bookshelf,5,5499,0,27495,22270.95,Online,Cash,10,2025
+ORD-00237,13-10-2025,CUST-005,Vihaan Kumar,North,Chandigarh,Furniture,Office Chair,4,7499,0.2,23996.8,17997.6,Online,Debit Card,10,2025
+ORD-00423,13-10-2025,CUST-010,Ira Menon,South,Unknown,Furniture,Desk Lamp,2,1499,0,2998,2098.6,Online,Net Banking,10,2025
+ORD-00475,13-10-2025,CUST-007,Arjun Das,South,Kochi,Office Supplies,Notebook Pack,5,299,0.05,1420.25,897,Online,Debit Card,10,2025
+ORD-00653,13-10-2025,CUST-013,Aditya Verma,East,Patna,Office Supplies,Printer Paper,6,499,0.1,2694.6,1946.1,Online,Debit Card,10,2025
+ORD-00925,13-10-2025,CUST-008,Saanvi Gupta,West,Surat,Accessories,Phone Stand,1,399,0.15,339.15,195.51,Store,Net Banking,10,2025
+ORD-00074,14-10-2025,CUST-009,Kabir Joshi,South,Kochi,Furniture,Bookshelf,4,5499,0.1,19796.4,15617.16,Online,Debit Card,10,2025
+ORD-00566,14-10-2025,CUST-016,Kiara Bose,South,Kochi,Furniture,Desk Lamp,6,1499,0.05,8544.3,5846.1,Online,Debit Card,10,2025
+ORD-00864,14-10-2025,CUST-015,Rohan Kulkarni,West,Pune,Electronics,Bluetooth Speaker,2,2499,0.15,4248.3,3148.74,Online,Cash,10,2025
+ORD-01025,15-10-2025,CUST-011,Reyansh Shah,North,Jaipur,Accessories,Phone Stand,2,399,0.05,758.1,470.82,Store,Credit Card,10,2025
+ORD-00997,16-10-2025,CUST-019,Neil Chawla,East,Bhubaneswar,Electronics,Wireless Mouse,2,799,0,1598,1150.56,Online,Cash,10,2025
+ORD-00097,17-10-2025,CUST-002,Diya Patel,South,Bengaluru,Furniture,Desk Lamp,4,1499,0.1,5396.4,3597.6,Store,Credit Card,10,2025
+ORD-00206,17-10-2025,CUST-020,Sara Thomas,East,Patna,Accessories,Laptop Bag,6,1799,0,10794,7879.62,Store,Debit Card,10,2025
+ORD-00216,17-10-2025,CUST-008,Saanvi Gupta,Central,Bhopal,Office Supplies,Stapler,3,249,0,747,507.96,Online,Net Banking,10,2025
+ORD-00934,17-10-2025,CUST-010,Ira Menon,South,Hyderabad,Accessories,Water Bottle,2,599,0.05,1138.1,742.76,Phone,UPI,10,2025
+ORD-00998,17-10-2025,CUST-018,Tara Kapoor,West,Ahmedabad,Furniture,Desk Lamp,5,1499,0.25,5621.25,3372.75,Online,Net Banking,10,2025
+ORD-00006,18-10-2025,CUST-010,Ira Menon,South,Hyderabad,Furniture,Office Chair,2,7499,0,14998,11998.4,Online,Debit Card,10,2025
+ORD-00363,18-10-2025,CUST-006,Meera Nair,East,Bhubaneswar,Furniture,Bookshelf,6,5499,0.1,29694.6,23425.74,Phone,Debit Card,10,2025
+ORD-00668,18-10-2025,CUST-001,Aarav Sharma,North,Lucknow,Electronics,Monitor,4,12499,0.2,39996.8,30997.52,Online,UPI,10,2025
+ORD-01089,18-10-2025,CUST-005,Vihaan Kumar,West,Pune,Office Supplies,Pen Set,3,199,0,597,370.14,Phone,Credit Card,10,2025
+ORD-00427,19-10-2025,CUST-006,Meera Nair,Central,Raipur,Electronics,Monitor,2,12499,0,24998,20498.36,Store,Cash,10,2025
+ORD-00756,19-10-2025,CUST-005,Vihaan Kumar,North,Delhi,Office Supplies,Printer Paper,1,499,0.1,449.1,324.35,Phone,Credit Card,10,2025
+ORD-00871,19-10-2025,CUST-016,Kiara Bose,Central,Bhopal,Accessories,Laptop Bag,1,1799,0.15,1529.15,1043.42,Online,Debit Card,10,2025
+ORD-00919,19-10-2025,CUST-013,Aditya Verma,North,Jaipur,Office Supplies,Pen Set,2,199,0,398,246.76,Online,Debit Card,10,2025
+ORD-00930,19-10-2025,CUST-010,Ira Menon,South,Kochi,Furniture,Study Table,1,8999,0.15,7649.15,6119.32,Online,Net Banking,10,2025
+ORD-00996,19-10-2025,CUST-018,Tara Kapoor,West,Surat,Accessories,Webcam,3,3299,0.1,8907.3,6828.93,Store,Net Banking,10,2025
+ORD-01180,19-10-2025,CUST-010,Ira Menon,Central,Indore,Electronics,USB-C Hub,5,1899,0.05,9020.25,6741.45,Online,Cash,10,2025
+ORD-00046,20-10-2025,CUST-017,Dev Malhotra,Central,Indore,Electronics,Monitor,6,12499,0.25,56245.5,42746.58,Store,Net Banking,10,2025
+ORD-00198,20-10-2025,CUST-009,Kabir Joshi,South,Kochi,Furniture,Study Table,4,8999,0.2,28796.8,22677.48,Online,Net Banking,10,2025
+ORD-00230,20-10-2025,CUST-002,Diya Patel,Central,Nagpur,Furniture,Bookshelf,5,5499,0.1,24745.5,19521.45,Online,Cash,10,2025
+ORD-00413,20-10-2025,CUST-014,Aadhya Iyer,West,Surat,Furniture,Bookshelf,4,5499,0,21996,17816.76,Store,Cash,10,2025
+ORD-00332,21-10-2025,CUST-016,Kiara Bose,North,Jaipur,Office Supplies,Stapler,4,249,0.2,796.8,478.08,Online,UPI,10,2025
+ORD-00553,21-10-2025,CUST-009,Kabir Joshi,West,Pune,Electronics,USB-C Hub,1,1899,0.2,1519.2,1063.44,Online,Credit Card,10,2025
+ORD-01015,21-10-2025,CUST-007,Arjun Das,West,Surat,Furniture,Bookshelf,6,5499,0.05,31344.3,25075.44,Online,Net Banking,10,2025
+ORD-00510,22-10-2025,CUST-019,Neil Chawla,East,Patna,Electronics,Wireless Mouse,6,799,0.1,4314.6,2972.28,Online,Cash,10,2025
+ORD-00647,22-10-2025,CUST-002,Diya Patel,Central,Bhopal,Electronics,Wireless Mouse,6,799,0.1,4314.6,2972.28,Store,Net Banking,10,2025
+ORD-00018,23-10-2025,CUST-007,Arjun Das,East,Bhubaneswar,Electronics,USB-C Hub,4,1899,0,7596,5772.96,Store,Net Banking,10,2025
+ORD-00542,23-10-2025,CUST-011,Reyansh Shah,West,Ahmedabad,Electronics,Wireless Mouse,5,799,0.1,3595.5,2476.9,Online,Net Banking,10,2025
+ORD-00207,24-10-2025,CUST-008,Saanvi Gupta,East,Bhubaneswar,Electronics,Keyboard,4,1299,0.1,4676.4,3377.4,Phone,Cash,10,2025
+ORD-00561,25-10-2025,CUST-003,Ishaan Reddy,West,Mumbai,Electronics,Keyboard,4,1299,0,5196,3897,Store,Credit Card,10,2025
+ORD-00732,25-10-2025,CUST-010,Ira Menon,East,Bhubaneswar,Furniture,Office Chair,6,7499,0.1,40494.6,31495.8,Phone,Debit Card,10,2025
+ORD-00891,25-10-2025,CUST-020,Sara Thomas,North,Lucknow,Accessories,Phone Stand,5,399,0.1,1795.5,1077.3,Store,UPI,10,2025
+ORD-00915,25-10-2025,CUST-008,Saanvi Gupta,West,Mumbai,Electronics,Bluetooth Speaker,6,2499,0.05,14244.3,10945.62,Online,Debit Card,10,2025
+ORD-00337,26-10-2025,CUST-005,Vihaan Kumar,Central,Nagpur,Electronics,Bluetooth Speaker,2,2499,0.05,4748.1,3648.54,Phone,Net Banking,10,2025
+ORD-01063,26-10-2025,CUST-013,Aditya Verma,Central,Nagpur,Furniture,Study Table,2,8999,0.2,14398.4,11338.74,Phone,Cash,10,2025
+ORD-00012,27-10-2025,CUST-005,Vihaan Kumar,East,Patna,Accessories,Laptop Bag,1,1799,0.05,1709.05,1223.32,Store,Credit Card,10,2025
+ORD-00385,27-10-2025,CUST-015,Rohan Kulkarni,Central,Indore,Electronics,Bluetooth Speaker,5,2499,0,12495,9746.1,Store,Cash,10,2025
+ORD-00982,27-10-2025,CUST-006,Meera Nair,South,Bengaluru,Accessories,Water Bottle,3,599,0.15,1527.45,934.44,Store,Net Banking,10,2025
+ORD-01013,27-10-2025,CUST-008,Saanvi Gupta,East,Guwahati,Accessories,Webcam,6,3299,0.15,16824.9,12668.16,Online,Credit Card,10,2025
+ORD-01115,27-10-2025,CUST-014,Aadhya Iyer,North,Jaipur,Office Supplies,Pen Set,1,199,0.25,149.25,73.63,Store,UPI,10,2025
+ORD-00183,28-10-2025,CUST-001,Aarav Sharma,South,Chennai,Electronics,Wireless Mouse,1,799,0.25,599.25,375.53,Online,Net Banking,10,2025
+ORD-01135,28-10-2025,CUST-002,Diya Patel,North,Chandigarh,Office Supplies,File Folder,2,149,0,298,178.8,Online,Net Banking,10,2025
+ORD-00187,29-10-2025,CUST-003,Ishaan Reddy,South,Hyderabad,Office Supplies,Printer Paper,3,499,0.05,1422.15,1047.9,Online,UPI,10,2025
+ORD-00418,29-10-2025,CUST-005,Vihaan Kumar,Central,Raipur,Electronics,Keyboard,1,1299,0.2,1039.2,714.45,Online,Credit Card,10,2025
+ORD-00704,29-10-2025,CUST-018,Tara Kapoor,East,Bhubaneswar,Furniture,Office Chair,1,7499,0.05,7124.05,5624.25,Online,Net Banking,10,2025
+ORD-00921,29-10-2025,CUST-006,Meera Nair,Central,Indore,Office Supplies,Printer Paper,4,499,0.15,1696.6,1197.6,Online,Debit Card,10,2025
+ORD-00785,30-10-2025,CUST-013,Aditya Verma,North,Lucknow,Office Supplies,Stapler,6,249,0.1,1344.6,866.52,Online,Cash,10,2025
+ORD-00837,30-10-2025,CUST-011,Reyansh Shah,South,Bengaluru,Electronics,USB-C Hub,3,1899,0.2,4557.6,3190.32,Online,UPI,10,2025
+ORD-00007,31-10-2025,CUST-004,Ananya Singh,East,Guwahati,Furniture,Bookshelf,4,5499,0.05,20896.2,16716.96,Store,Debit Card,10,2025
+ORD-00144,01-11-2025,CUST-008,Saanvi Gupta,West,Mumbai,Electronics,Monitor,3,12499,0.15,31872.45,25122.99,Online,Cash,11,2025
+ORD-00249,01-11-2025,CUST-015,Rohan Kulkarni,West,Mumbai,Furniture,Desk Lamp,6,1499,0,8994,6295.8,Store,Credit Card,11,2025
+ORD-00580,01-11-2025,CUST-016,Kiara Bose,South,Bengaluru,Electronics,Bluetooth Speaker,4,2499,0.05,9496.2,7297.08,Store,Cash,11,2025
+ORD-00784,01-11-2025,CUST-016,Kiara Bose,South,Bengaluru,Furniture,Office Chair,3,7499,0.05,21372.15,16872.75,Store,Net Banking,11,2025
+ORD-01134,01-11-2025,CUST-004,Ananya Singh,North,Lucknow,Electronics,Monitor,5,12499,0.2,49996,38746.9,Online,Net Banking,11,2025
+ORD-01183,01-11-2025,CUST-014,Aadhya Iyer,East,Bhubaneswar,Electronics,Monitor,5,12499,0.15,53120.75,41871.65,Online,Debit Card,11,2025
+ORD-00496,02-11-2025,CUST-007,Arjun Das,North,Delhi,Electronics,Wireless Mouse,2,799,0.2,1278.4,830.96,Store,Cash,11,2025
+ORD-00002,03-11-2025,CUST-003,Ishaan Reddy,West,Mumbai,Office Supplies,Printer Paper,3,499,0.05,1422.15,1047.9,Store,Net Banking,11,2025
+ORD-00040,03-11-2025,CUST-015,Rohan Kulkarni,South,Kochi,Electronics,Monitor,5,12499,0,62495,51245.9,Store,UPI,11,2025
+ORD-00152,03-11-2025,CUST-010,Ira Menon,Central,Nagpur,Office Supplies,Pen Set,1,199,0.2,159.2,83.58,Online,Credit Card,11,2025
+ORD-00506,03-11-2025,CUST-004,Ananya Singh,South,Bengaluru,Electronics,Wireless Mouse,4,799,0.1,2876.4,1981.52,Online,Debit Card,11,2025
+ORD-00953,03-11-2025,CUST-001,Aarav Sharma,West,Mumbai,Office Supplies,Stapler,2,249,0,498,338.64,Online,Cash,11,2025
+ORD-00420,04-11-2025,CUST-015,Rohan Kulkarni,East,Kolkata,Electronics,Keyboard,5,1299,0,6495,4871.25,Store,Credit Card,11,2025
+ORD-00386,05-11-2025,CUST-006,Meera Nair,Central,Nagpur,Accessories,Phone Stand,1,399,0.2,319.2,175.56,Online,Net Banking,11,2025
+ORD-00090,06-11-2025,CUST-010,Ira Menon,Central,Bhopal,Furniture,Bookshelf,4,5499,0,21996,17816.76,Phone,Credit Card,11,2025
+ORD-00128,06-11-2025,CUST-005,Vihaan Kumar,North,Chandigarh,Office Supplies,Notebook Pack,6,299,0.05,1704.3,1076.4,Store,Cash,11,2025
+ORD-00257,06-11-2025,CUST-005,Vihaan Kumar,South,Bengaluru,Accessories,Webcam,1,3299,0,3299,2606.21,Store,Debit Card,11,2025
+ORD-00971,06-11-2025,CUST-009,Kabir Joshi,Central,Indore,Office Supplies,Notebook Pack,1,299,0.15,254.15,149.5,Online,Credit Card,11,2025
+ORD-01167,06-11-2025,CUST-014,Aadhya Iyer,Central,Bhopal,Electronics,Keyboard,4,1299,0.15,4416.6,3117.6,Store,Net Banking,11,2025
+ORD-00078,07-11-2025,CUST-019,Neil Chawla,West,Pune,Accessories,Laptop Bag,4,1799,0.1,6476.4,4533.48,Online,Cash,11,2025
+ORD-00089,07-11-2025,CUST-014,Aadhya Iyer,South,Hyderabad,Office Supplies,Printer Paper,3,499,0.2,1197.6,823.35,Store,UPI,11,2025
+ORD-00416,07-11-2025,CUST-018,Tara Kapoor,North,Delhi,Furniture,Desk Lamp,5,1499,0.1,6745.5,4497,Store,Credit Card,11,2025
+ORD-01148,07-11-2025,CUST-017,Dev Malhotra,East,Guwahati,Office Supplies,Stapler,1,249,0.15,211.65,131.97,Store,Debit Card,11,2025
+ORD-00050,08-11-2025,CUST-019,Neil Chawla,South,Chennai,Accessories,Phone Stand,3,399,0.05,1137.15,706.23,Store,Debit Card,11,2025
+ORD-00539,08-11-2025,CUST-009,Kabir Joshi,West,Pune,Furniture,Desk Lamp,6,1499,0.1,8094.6,5396.4,Online,Cash,11,2025
+ORD-00665,08-11-2025,CUST-001,Aarav Sharma,East,Bhubaneswar,Office Supplies,File Folder,5,149,0.2,596,298,Store,UPI,11,2025
+ORD-00992,08-11-2025,CUST-017,Dev Malhotra,Central,Bhopal,Accessories,Webcam,2,3299,0,6598,5212.42,Online,Cash,11,2025
+ORD-01190,08-11-2025,CUST-014,Aadhya Iyer,West,Ahmedabad,Electronics,USB-C Hub,3,1899,0.05,5412.15,4044.87,Store,Credit Card,11,2025
+ORD-00698,09-11-2025,CUST-014,Aadhya Iyer,West,Mumbai,Furniture,Bookshelf,3,5499,0.1,14847.3,11712.87,Store,UPI,11,2025
+ORD-01189,09-11-2025,CUST-016,Kiara Bose,South,Chennai,Furniture,Office Chair,6,7499,0,44994,35995.2,Online,Net Banking,11,2025
+ORD-01193,09-11-2025,CUST-009,Kabir Joshi,North,Jaipur,Accessories,Water Bottle,5,599,0.2,2396,1407.65,Store,Net Banking,11,2025
+ORD-00001,10-11-2025,CUST-009,Kabir Joshi,North,Chandigarh,Furniture,Desk Lamp,1,1499,0,1499,1049.3,Phone,Cash,11,2025
+ORD-00485,10-11-2025,CUST-003,Ishaan Reddy,North,Delhi,Office Supplies,Stapler,2,249,0,498,338.64,Store,Credit Card,11,2025
+ORD-00641,10-11-2025,CUST-011,Reyansh Shah,West,Pune,Electronics,Bluetooth Speaker,2,2499,0.1,4498.2,3398.64,Online,Cash,11,2025
+ORD-00694,10-11-2025,CUST-009,Kabir Joshi,North,Delhi,Furniture,Desk Lamp,2,1499,0.15,2548.3,1648.9,Store,Credit Card,11,2025
+ORD-00134,11-11-2025,CUST-018,Tara Kapoor,North,Delhi,Accessories,Phone Stand,5,399,0,1995,1276.8,Store,Credit Card,11,2025
+ORD-00508,11-11-2025,CUST-010,Ira Menon,Central,Bhopal,Office Supplies,File Folder,3,149,0,447,268.2,Online,Net Banking,11,2025
+ORD-00890,11-11-2025,CUST-020,Sara Thomas,West,Mumbai,Electronics,Keyboard,6,1299,0.1,7014.6,5066.1,Online,Net Banking,11,2025
+ORD-01051,11-11-2025,CUST-013,Aditya Verma,South,Hyderabad,Electronics,Bluetooth Speaker,5,2499,0.15,10620.75,7871.85,Online,Debit Card,11,2025
+ORD-00099,12-11-2025,CUST-001,Aarav Sharma,West,Ahmedabad,Office Supplies,Stapler,5,249,0.2,996,597.6,Online,Net Banking,11,2025
+ORD-00491,12-11-2025,CUST-003,Ishaan Reddy,Central,Bhopal,Office Supplies,Notebook Pack,1,299,0.05,284.05,179.4,Online,Cash,11,2025
+ORD-00518,12-11-2025,CUST-012,Myra Rao,South,Hyderabad,Furniture,Study Table,4,8999,0.05,34196.2,28076.88,Store,Credit Card,11,2025
+ORD-00884,12-11-2025,CUST-013,Aditya Verma,South,Chennai,Office Supplies,Notebook Pack,5,299,0.2,1196,672.75,Online,Cash,11,2025
+ORD-01122,12-11-2025,CUST-012,Myra Rao,West,Mumbai,Electronics,Keyboard,2,1299,0.05,2468.1,1818.6,Store,Credit Card,11,2025
+ORD-00608,13-11-2025,CUST-002,Diya Patel,Central,Bhopal,Electronics,USB-C Hub,6,1899,0.05,10824.3,8089.74,Phone,Debit Card,11,2025
+ORD-01017,13-11-2025,CUST-013,Aditya Verma,Central,Bhopal,Electronics,USB-C Hub,1,1899,0,1899,1443.24,Online,Debit Card,11,2025
+ORD-00222,14-11-2025,CUST-019,Neil Chawla,South,Hyderabad,Furniture,Bookshelf,6,5499,0,32994,26725.14,Online,UPI,11,2025
+ORD-00811,14-11-2025,CUST-018,Tara Kapoor,South,Kochi,Furniture,Office Chair,1,7499,0.1,6749.1,5249.3,Phone,Cash,11,2025
+ORD-01074,14-11-2025,CUST-017,Dev Malhotra,East,Kolkata,Electronics,USB-C Hub,2,1899,0.15,3228.3,2316.78,Phone,Cash,11,2025
+ORD-01157,14-11-2025,CUST-001,Aarav Sharma,East,Guwahati,Furniture,Bookshelf,3,5499,0.05,15672.15,12537.72,Online,Net Banking,11,2025
+ORD-00296,15-11-2025,CUST-020,Sara Thomas,West,Surat,Office Supplies,File Folder,3,149,0.05,424.65,245.85,Online,Debit Card,11,2025
+ORD-00341,15-11-2025,CUST-007,Arjun Das,West,Pune,Furniture,Desk Lamp,2,1499,0.2,2398.4,1499,Online,Net Banking,11,2025
+ORD-00804,15-11-2025,CUST-012,Myra Rao,North,Jaipur,Electronics,Keyboard,1,1299,0,1299,974.25,Online,Debit Card,11,2025
+ORD-00848,15-11-2025,CUST-009,Kabir Joshi,South,Chennai,Electronics,Bluetooth Speaker,5,2499,0.1,11245.5,8496.6,Online,UPI,11,2025
+ORD-00031,16-11-2025,CUST-015,Rohan Kulkarni,West,Mumbai,Office Supplies,Notebook Pack,1,299,0.05,284.05,179.4,Store,Credit Card,11,2025
+ORD-00150,16-11-2025,CUST-006,Meera Nair,East,Kolkata,Electronics,Wireless Mouse,1,799,0,799,575.28,Online,Net Banking,11,2025
+ORD-00209,16-11-2025,CUST-015,Rohan Kulkarni,North,Delhi,Furniture,Study Table,1,8999,0.1,8099.1,6569.27,Online,Debit Card,11,2025
+ORD-00459,16-11-2025,CUST-013,Aditya Verma,West,Ahmedabad,Office Supplies,Stapler,2,249,0.05,473.1,313.74,Online,Cash,11,2025
+ORD-00063,17-11-2025,CUST-001,Aarav Sharma,East,Bhubaneswar,Accessories,Laptop Bag,5,1799,0.2,7196,4767.35,Online,Cash,11,2025
+ORD-00598,17-11-2025,CUST-015,Rohan Kulkarni,West,Mumbai,Accessories,Water Bottle,3,599,0.25,1347.75,754.74,Phone,UPI,11,2025
+ORD-00755,17-11-2025,CUST-018,Tara Kapoor,West,Ahmedabad,Electronics,Keyboard,1,1299,0.1,1169.1,844.35,Store,Debit Card,11,2025
+ORD-00866,17-11-2025,CUST-001,Aarav Sharma,West,Ahmedabad,Office Supplies,File Folder,4,149,0.15,506.6,268.2,Online,Cash,11,2025
+ORD-00983,17-11-2025,CUST-004,Ananya Singh,East,Bhubaneswar,Electronics,USB-C Hub,4,1899,0,7596,5772.96,Phone,Credit Card,11,2025
+ORD-00106,18-11-2025,CUST-013,Aditya Verma,North,Lucknow,Furniture,Desk Lamp,3,1499,0.1,4047.3,2698.2,Store,Net Banking,11,2025
+ORD-00276,18-11-2025,CUST-002,Diya Patel,West,Surat,Accessories,Webcam,5,3299,0.05,15670.25,12206.3,Store,Credit Card,11,2025
+ORD-00644,18-11-2025,CUST-003,Ishaan Reddy,Central,Indore,Office Supplies,Stapler,5,249,0.1,1120.5,722.1,Store,Net Banking,11,2025
+ORD-00717,18-11-2025,CUST-009,Kabir Joshi,West,Mumbai,Accessories,Water Bottle,1,599,0.1,539.1,341.43,Online,Credit Card,11,2025
+ORD-01021,18-11-2025,CUST-013,Aditya Verma,West,Ahmedabad,Electronics,USB-C Hub,4,1899,0.15,6456.6,4633.56,Online,Debit Card,11,2025
+ORD-00690,19-11-2025,CUST-010,Ira Menon,Central,Nagpur,Accessories,Water Bottle,4,599,0.15,2036.6,1245.92,Store,Credit Card,11,2025
+ORD-01060,20-11-2025,CUST-020,Sara Thomas,Central,Raipur,Accessories,Phone Stand,3,399,0.05,1137.15,706.23,Store,Cash,11,2025
+ORD-00044,21-11-2025,CUST-004,Ananya Singh,Central,Nagpur,Electronics,Bluetooth Speaker,2,2499,0,4998,3898.44,Online,Debit Card,11,2025
+ORD-00241,21-11-2025,CUST-009,Kabir Joshi,West,Surat,Office Supplies,File Folder,5,149,0.15,633.25,335.25,Online,Cash,11,2025
+ORD-00516,21-11-2025,CUST-008,Saanvi Gupta,East,Patna,Office Supplies,Pen Set,1,199,0,199,123.38,Online,UPI,11,2025
+ORD-00572,21-11-2025,CUST-016,Kiara Bose,West,Pune,Accessories,Phone Stand,6,399,0.2,1915.2,1053.36,Store,Cash,11,2025
+ORD-01002,21-11-2025,CUST-012,Myra Rao,Central,Bhopal,Electronics,USB-C Hub,4,1899,0.15,6456.6,4633.56,Online,UPI,11,2025
+ORD-00417,22-11-2025,CUST-011,Reyansh Shah,East,Kolkata,Furniture,Bookshelf,2,5499,0,10998,8908.38,Store,Net Banking,11,2025
+ORD-00666,22-11-2025,CUST-005,Vihaan Kumar,West,Mumbai,Electronics,Monitor,4,12499,0,49996,40996.72,Store,Cash,11,2025
+ORD-00949,22-11-2025,CUST-006,Meera Nair,Central,Nagpur,Office Supplies,Pen Set,6,199,0.1,1074.6,620.88,Online,Net Banking,11,2025
+ORD-00927,23-11-2025,CUST-011,Reyansh Shah,West,Mumbai,Accessories,Webcam,5,3299,0.2,13196,9732.05,Store,UPI,11,2025
+ORD-00107,24-11-2025,CUST-007,Arjun Das,East,Kolkata,Electronics,Bluetooth Speaker,3,2499,0.05,7122.15,5472.81,Phone,Credit Card,11,2025
+ORD-00145,24-11-2025,CUST-005,Vihaan Kumar,West,Mumbai,Electronics,Monitor,5,12499,0.05,59370.25,48121.15,Store,Cash,11,2025
+ORD-00250,24-11-2025,CUST-005,Vihaan Kumar,Central,Raipur,Electronics,Keyboard,4,1299,0.2,4156.8,2857.8,Online,UPI,11,2025
+ORD-00892,24-11-2025,CUST-003,Ishaan Reddy,West,Ahmedabad,Electronics,Wireless Mouse,5,799,0.1,3595.5,2476.9,Phone,Debit Card,11,2025
+ORD-00380,25-11-2025,CUST-015,Rohan Kulkarni,East,Patna,Electronics,Wireless Mouse,5,799,0.1,3595.5,2476.9,Online,Debit Card,11,2025
+ORD-00141,26-11-2025,CUST-016,Kiara Bose,South,Kochi,Accessories,Webcam,1,3299,0.25,2474.25,1781.46,Phone,Debit Card,11,2025
+ORD-00660,26-11-2025,CUST-004,Ananya Singh,North,Chandigarh,Accessories,Webcam,6,3299,0,19794,15637.26,Store,Net Banking,11,2025
+ORD-00742,26-11-2025,CUST-011,Reyansh Shah,South,Chennai,Furniture,Desk Lamp,4,1499,0.15,5096.6,3297.8,Store,Credit Card,11,2025
+ORD-00289,27-11-2025,CUST-019,Neil Chawla,South,Kochi,Accessories,Webcam,4,3299,0.05,12536.2,9765.04,Online,Cash,11,2025
+ORD-01165,27-11-2025,CUST-003,Ishaan Reddy,Central,Raipur,Office Supplies,Notebook Pack,3,299,0.15,762.45,448.5,Phone,Cash,11,2025
+ORD-00729,28-11-2025,CUST-018,Tara Kapoor,North,Chandigarh,Electronics,Keyboard,3,1299,0.15,3312.45,2338.2,Online,Credit Card,11,2025
+ORD-00916,28-11-2025,CUST-014,Aadhya Iyer,West,Ahmedabad,Furniture,Desk Lamp,3,1499,0.1,4047.3,2698.2,Online,Debit Card,11,2025
+ORD-00320,29-11-2025,CUST-011,Reyansh Shah,Central,Nagpur,Furniture,Study Table,6,8999,0,53994,44815.02,Online,Credit Card,11,2025
+ORD-00389,29-11-2025,CUST-006,Meera Nair,Central,Bhopal,Office Supplies,Pen Set,3,199,0.2,477.6,250.74,Phone,Net Banking,11,2025
+ORD-00887,29-11-2025,CUST-005,Vihaan Kumar,North,Chandigarh,Electronics,Wireless Mouse,3,799,0.2,1917.6,1246.44,Online,Cash,11,2025
+ORD-01041,29-11-2025,CUST-012,Myra Rao,Central,Nagpur,Office Supplies,Notebook Pack,6,299,0.05,1704.3,1076.4,Store,UPI,11,2025
+ORD-01092,29-11-2025,CUST-016,Kiara Bose,East,Guwahati,Accessories,Water Bottle,5,599,0.05,2845.25,1856.9,Online,Debit Card,11,2025
+ORD-00167,30-11-2025,CUST-009,Kabir Joshi,Central,Raipur,Electronics,Keyboard,6,1299,0.2,6235.2,4286.7,Phone,UPI,11,2025
+ORD-00388,30-11-2025,CUST-005,Vihaan Kumar,Central,Indore,Electronics,Wireless Mouse,4,799,0,3196,2301.12,Store,UPI,11,2025
+ORD-00455,30-11-2025,CUST-010,Ira Menon,North,Chandigarh,Electronics,USB-C Hub,5,1899,0.05,9020.25,6741.45,Online,Debit Card,11,2025
+ORD-00782,30-11-2025,CUST-007,Arjun Das,East,Bhubaneswar,Electronics,Wireless Mouse,5,799,0,3995,2876.4,Online,Debit Card,11,2025
+ORD-00334,01-12-2025,CUST-018,Tara Kapoor,Central,Nagpur,Electronics,Monitor,3,12499,0.05,35622.15,28872.69,Online,Debit Card,12,2025
+ORD-00708,01-12-2025,CUST-004,Ananya Singh,Central,Indore,Furniture,Office Chair,2,7499,0.05,14248.1,11248.5,Phone,Cash,12,2025
+ORD-01198,01-12-2025,CUST-011,Reyansh Shah,West,Surat,Electronics,Bluetooth Speaker,2,2499,0.05,4748.1,3648.54,Store,Net Banking,12,2025
+ORD-00052,02-12-2025,CUST-018,Tara Kapoor,South,Hyderabad,Office Supplies,Printer Paper,1,499,0.1,449.1,324.35,Store,UPI,12,2025
+ORD-00372,02-12-2025,CUST-011,Reyansh Shah,Central,Indore,Furniture,Office Chair,3,7499,0,22497,17997.6,Online,Credit Card,12,2025
+ORD-00382,02-12-2025,CUST-008,Saanvi Gupta,North,Lucknow,Electronics,Wireless Mouse,6,799,0.1,4314.6,2972.28,Online,Credit Card,12,2025
+ORD-00773,02-12-2025,CUST-012,Myra Rao,East,Patna,Furniture,Bookshelf,3,5499,0.2,13197.6,10063.17,Store,Credit Card,12,2025
+ORD-00963,02-12-2025,CUST-012,Myra Rao,South,Hyderabad,Accessories,Water Bottle,6,599,0,3594,2407.98,Online,Cash,12,2025
+ORD-01163,02-12-2025,CUST-018,Tara Kapoor,West,Pune,Office Supplies,Pen Set,1,199,0.05,189.05,113.43,Store,Credit Card,12,2025
+ORD-00521,03-12-2025,CUST-010,Ira Menon,North,Chandigarh,Accessories,Water Bottle,4,599,0,2396,1605.32,Store,Net Banking,12,2025
+ORD-00820,03-12-2025,CUST-003,Ishaan Reddy,North,Lucknow,Electronics,Bluetooth Speaker,4,2499,0.2,7996.8,5797.68,Online,Debit Card,12,2025
+ORD-01105,03-12-2025,CUST-020,Sara Thomas,South,Chennai,Accessories,Laptop Bag,4,1799,0.05,6836.2,4893.28,Online,Credit Card,12,2025
+ORD-00452,04-12-2025,CUST-018,Tara Kapoor,South,Hyderabad,Office Supplies,Stapler,5,249,0.1,1120.5,722.1,Online,Credit Card,12,2025
+ORD-01166,04-12-2025,CUST-001,Aarav Sharma,North,Chandigarh,Furniture,Office Chair,6,7499,0.2,35995.2,26996.4,Online,UPI,12,2025
+ORD-00350,05-12-2025,CUST-013,Aditya Verma,West,Ahmedabad,Accessories,Phone Stand,4,399,0.15,1356.6,782.04,Store,Net Banking,12,2025
+ORD-00523,05-12-2025,CUST-018,Tara Kapoor,West,Mumbai,Office Supplies,Notebook Pack,6,299,0,1794,1166.1,Store,Debit Card,12,2025
+ORD-00583,05-12-2025,CUST-014,Aadhya Iyer,East,Patna,Office Supplies,Pen Set,2,199,0,398,246.76,Online,Cash,12,2025
+ORD-00315,06-12-2025,CUST-006,Meera Nair,West,Surat,Office Supplies,Stapler,6,249,0,1494,1015.92,Online,Net Banking,12,2025
+ORD-00447,06-12-2025,CUST-009,Kabir Joshi,East,Kolkata,Furniture,Study Table,2,8999,0.25,13498.5,10438.84,Online,Cash,12,2025
+ORD-00738,06-12-2025,CUST-006,Meera Nair,East,Kolkata,Electronics,USB-C Hub,6,1899,0.05,10824.3,8089.74,Online,UPI,12,2025
+ORD-00790,06-12-2025,CUST-006,Meera Nair,Central,Indore,Accessories,Laptop Bag,2,1799,0,3598,2626.54,Store,Debit Card,12,2025
+ORD-01076,07-12-2025,CUST-002,Diya Patel,North,Lucknow,Electronics,Bluetooth Speaker,1,2499,0.05,2374.05,1824.27,Online,Net Banking,12,2025
+ORD-00032,08-12-2025,CUST-003,Ishaan Reddy,Central,Indore,Furniture,Study Table,1,8999,0,8999,7469.17,Store,UPI,12,2025
+ORD-00902,08-12-2025,CUST-012,Myra Rao,East,Guwahati,Furniture,Study Table,2,8999,0.1,16198.2,13138.54,Store,UPI,12,2025
+ORD-00970,08-12-2025,CUST-005,Vihaan Kumar,South,Hyderabad,Accessories,Webcam,3,3299,0.1,8907.3,6828.93,Store,UPI,12,2025
+ORD-01158,08-12-2025,CUST-010,Ira Menon,North,Delhi,Furniture,Office Chair,2,7499,0,14998,11998.4,Store,Credit Card,12,2025
+ORD-01181,08-12-2025,CUST-016,Kiara Bose,East,Bhubaneswar,Electronics,Monitor,4,12499,0.1,44996.4,35997.12,Online,Credit Card,12,2025
+ORD-00479,09-12-2025,CUST-001,Aarav Sharma,West,Pune,Electronics,USB-C Hub,2,1899,0.05,3608.1,2696.58,Store,Debit Card,12,2025
+ORD-00667,09-12-2025,CUST-013,Aditya Verma,South,Bengaluru,Electronics,Monitor,2,12499,0.1,22498.2,17998.56,Store,Cash,12,2025
+ORD-00513,11-12-2025,CUST-002,Diya Patel,Central,Indore,Electronics,Bluetooth Speaker,3,2499,0,7497,5847.66,Online,Debit Card,12,2025
+ORD-00030,12-12-2025,CUST-019,Neil Chawla,West,Mumbai,Electronics,Wireless Mouse,2,799,0,1598,1150.56,Online,Net Banking,12,2025
+ORD-00225,12-12-2025,CUST-013,Aditya Verma,East,Bhubaneswar,Furniture,Office Chair,6,7499,0.15,38244.9,29246.1,Online,Debit Card,12,2025
+ORD-01153,12-12-2025,CUST-004,Ananya Singh,East,Patna,Electronics,Wireless Mouse,3,799,0.15,2037.45,1366.29,Online,UPI,12,2025
+ORD-00195,13-12-2025,CUST-010,Ira Menon,South,Hyderabad,Furniture,Study Table,1,8999,0.2,7199.2,5669.37,Online,Net Banking,12,2025
+ORD-00788,13-12-2025,CUST-016,Kiara Bose,Central,Nagpur,Office Supplies,File Folder,1,149,0.1,134.1,74.5,Online,Cash,12,2025
+ORD-00149,14-12-2025,CUST-004,Ananya Singh,South,Chennai,Electronics,Wireless Mouse,1,799,0.25,599.25,375.53,Online,Credit Card,12,2025
+ORD-00883,14-12-2025,CUST-010,Ira Menon,West,Ahmedabad,Electronics,Monitor,6,12499,0.15,63744.9,50245.98,Phone,UPI,12,2025
+ORD-01149,14-12-2025,CUST-012,Myra Rao,West,Mumbai,Accessories,Laptop Bag,3,1799,0,5397,3939.81,Online,Net Banking,12,2025
+ORD-00035,15-12-2025,CUST-007,Arjun Das,North,Jaipur,Office Supplies,Printer Paper,4,499,0.2,1596.8,1097.8,Online,Debit Card,12,2025
+ORD-00435,15-12-2025,CUST-018,Tara Kapoor,West,Surat,Electronics,USB-C Hub,6,1899,0.15,9684.9,6950.34,Online,Credit Card,12,2025
+ORD-00680,15-12-2025,CUST-016,Kiara Bose,North,Jaipur,Electronics,Monitor,4,12499,0,49996,40996.72,Online,UPI,12,2025
+ORD-00922,15-12-2025,CUST-020,Sara Thomas,North,Jaipur,Furniture,Bookshelf,3,5499,0,16497,13362.57,Phone,Cash,12,2025
+ORD-00977,15-12-2025,CUST-020,Sara Thomas,East,Guwahati,Office Supplies,Pen Set,3,199,0.1,537.3,310.44,Store,Net Banking,12,2025
+ORD-00813,16-12-2025,CUST-016,Kiara Bose,West,Pune,Office Supplies,Notebook Pack,2,299,0.25,448.5,239.2,Online,Net Banking,12,2025
+ORD-00878,17-12-2025,CUST-002,Diya Patel,Central,Bhopal,Electronics,Monitor,5,12499,0.1,56245.5,44996.4,Phone,Debit Card,12,2025
+ORD-00217,18-12-2025,CUST-004,Ananya Singh,West,Mumbai,Electronics,Wireless Mouse,2,799,0.2,1278.4,830.96,Store,Debit Card,12,2025
+ORD-00487,18-12-2025,CUST-003,Ishaan Reddy,East,Kolkata,Accessories,Water Bottle,6,599,0.15,3054.9,1868.88,Store,UPI,12,2025
+ORD-00853,18-12-2025,CUST-002,Diya Patel,East,Guwahati,Electronics,Keyboard,4,1299,0.1,4676.4,3377.4,Store,UPI,12,2025
+ORD-00885,20-12-2025,CUST-009,Kabir Joshi,North,Lucknow,Accessories,Laptop Bag,1,1799,0,1799,1313.27,Online,Credit Card,12,2025
+ORD-00219,21-12-2025,CUST-005,Vihaan Kumar,South,Hyderabad,Accessories,Phone Stand,3,399,0.1,1077.3,646.38,Online,Net Banking,12,2025
+ORD-00271,21-12-2025,CUST-006,Meera Nair,Central,Raipur,Electronics,Bluetooth Speaker,2,2499,0.2,3998.4,2898.84,Online,Net Banking,12,2025
+ORD-00353,21-12-2025,CUST-004,Ananya Singh,North,Chandigarh,Electronics,Wireless Mouse,1,799,0.1,719.1,495.38,Online,Cash,12,2025
+ORD-00549,22-12-2025,CUST-006,Meera Nair,North,Lucknow,Electronics,Monitor,2,12499,0.2,19998.4,15498.76,Online,Debit Card,12,2025
+ORD-00981,22-12-2025,CUST-007,Arjun Das,East,Guwahati,Electronics,Monitor,2,12499,0.05,23748.1,19248.46,Online,Credit Card,12,2025
+ORD-00114,23-12-2025,CUST-005,Vihaan Kumar,North,Delhi,Office Supplies,Printer Paper,2,499,0.05,948.1,698.6,Online,Debit Card,12,2025
+ORD-00284,23-12-2025,CUST-012,Myra Rao,West,Surat,Electronics,Keyboard,1,1299,0.2,1039.2,714.45,Store,UPI,12,2025
+ORD-00292,23-12-2025,CUST-001,Aarav Sharma,West,Pune,Office Supplies,Notebook Pack,2,299,0,598,388.7,Online,Cash,12,2025
+ORD-00317,23-12-2025,CUST-004,Ananya Singh,East,Bhubaneswar,Furniture,Study Table,2,8999,0,17998,14938.34,Online,Cash,12,2025
+ORD-01178,23-12-2025,CUST-011,Reyansh Shah,Central,Bhopal,Electronics,Bluetooth Speaker,1,2499,0,2499,1949.22,Store,Cash,12,2025
+ORD-00066,24-12-2025,CUST-013,Aditya Verma,North,Jaipur,Electronics,Monitor,5,12499,0,62495,51245.9,Online,Net Banking,12,2025
+ORD-01110,24-12-2025,CUST-011,Reyansh Shah,North,Lucknow,Office Supplies,Printer Paper,5,499,0.15,2120.75,1497,Store,Cash,12,2025
+ORD-00780,25-12-2025,CUST-011,Reyansh Shah,North,Jaipur,Accessories,Water Bottle,4,599,0.05,2276.2,1485.52,Online,Credit Card,12,2025
+ORD-01050,25-12-2025,CUST-014,Aadhya Iyer,North,Jaipur,Accessories,Water Bottle,6,599,0.1,3234.6,2048.58,Store,UPI,12,2025
+ORD-01094,25-12-2025,CUST-013,Aditya Verma,South,Chennai,Electronics,Monitor,4,12499,0.05,47496.2,38496.92,Phone,UPI,12,2025
+ORD-00095,26-12-2025,CUST-003,Ishaan Reddy,Central,Indore,Accessories,Phone Stand,1,399,0.15,339.15,195.51,Store,Cash,12,2025
+ORD-00984,26-12-2025,CUST-013,Aditya Verma,South,Chennai,Electronics,Bluetooth Speaker,2,2499,0,4998,3898.44,Store,Cash,12,2025
+ORD-01082,26-12-2025,CUST-013,Aditya Verma,East,Guwahati,Electronics,USB-C Hub,6,1899,0,11394,8659.44,Online,Credit Card,12,2025
+ORD-01098,26-12-2025,CUST-003,Ishaan Reddy,East,Bhubaneswar,Office Supplies,File Folder,3,149,0.05,424.65,245.85,Online,Cash,12,2025
+ORD-01123,26-12-2025,CUST-013,Aditya Verma,West,Ahmedabad,Office Supplies,Notebook Pack,4,299,0,1196,777.4,Phone,Credit Card,12,2025
+ORD-00263,27-12-2025,CUST-002,Diya Patel,South,Bengaluru,Furniture,Bookshelf,2,5499,0.1,9898.2,7808.58,Store,UPI,12,2025
+ORD-00415,27-12-2025,CUST-005,Vihaan Kumar,South,Kochi,Accessories,Water Bottle,3,599,0,1797,1203.99,Store,Debit Card,12,2025
+ORD-00453,27-12-2025,CUST-004,Ananya Singh,Central,Bhopal,Electronics,Keyboard,6,1299,0.2,6235.2,4286.7,Online,Cash,12,2025
+ORD-00541,27-12-2025,CUST-003,Ishaan Reddy,East,Patna,Office Supplies,File Folder,2,149,0.2,238.4,119.2,Store,Net Banking,12,2025
+ORD-00754,27-12-2025,CUST-005,Vihaan Kumar,West,Ahmedabad,Furniture,Office Chair,4,7499,0.2,23996.8,17997.6,Online,Cash,12,2025
+ORD-00874,27-12-2025,CUST-004,Ananya Singh,East,Bhubaneswar,Accessories,Phone Stand,4,399,0.15,1356.6,782.04,Store,Credit Card,12,2025
+ORD-01150,27-12-2025,CUST-004,Ananya Singh,West,Surat,Office Supplies,Pen Set,5,199,0.05,945.25,567.15,Online,Debit Card,12,2025
+ORD-00999,28-12-2025,CUST-006,Meera Nair,North,Jaipur,Electronics,USB-C Hub,3,1899,0.15,4842.45,3475.17,Store,Debit Card,12,2025
+ORD-01020,28-12-2025,CUST-019,Neil Chawla,East,Bhubaneswar,Electronics,Keyboard,4,1299,0.1,4676.4,3377.4,Store,Credit Card,12,2025
+ORD-00287,29-12-2025,CUST-016,Kiara Bose,West,Surat,Office Supplies,Pen Set,1,199,0.1,179.1,103.48,Store,Cash,12,2025
+ORD-00331,29-12-2025,CUST-019,Neil Chawla,North,Lucknow,Electronics,Monitor,3,12499,0,37497,30747.54,Store,UPI,12,2025
+ORD-00646,29-12-2025,CUST-006,Meera Nair,East,Kolkata,Accessories,Webcam,4,3299,0,13196,10424.84,Online,Net Banking,12,2025
+ORD-00672,29-12-2025,CUST-020,Sara Thomas,East,Bhubaneswar,Office Supplies,File Folder,5,149,0,745,447,Store,Debit Card,12,2025
+ORD-00913,29-12-2025,CUST-003,Ishaan Reddy,West,Mumbai,Electronics,Monitor,4,12499,0.05,47496.2,38496.92,Online,UPI,12,2025
+ORD-00929,29-12-2025,CUST-019,Neil Chawla,South,Kochi,Electronics,Wireless Mouse,3,799,0.2,1917.6,1246.44,Online,Cash,12,2025
+ORD-00827,30-12-2025,CUST-010,Ira Menon,North,Delhi,Electronics,Keyboard,5,1299,0.1,5845.5,4221.75,Store,Debit Card,12,2025
+ORD-00550,31-12-2025,CUST-016,Kiara Bose,Central,Raipur,Furniture,Office Chair,1,7499,0.05,7124.05,5624.25,Online,Debit Card,12,2025
+ORD-00670,31-12-2025,CUST-004,Ananya Singh,East,Guwahati,Accessories,Phone Stand,1,399,0.15,339.15,195.51,Store,UPI,12,2025
+ORD-00688,31-12-2025,CUST-014,Aadhya Iyer,North,Delhi,Electronics,Keyboard,6,1299,0,7794,5845.5,Online,Net Banking,12,2025
+ORD-00817,31-12-2025,CUST-001,Aarav Sharma,North,Jaipur,Office Supplies,Notebook Pack,4,299,0,1196,777.4,Online,Credit Card,12,2025
+ORD-01101,31-12-2025,CUST-001,Aarav Sharma,South,Hyderabad,Office Supplies,Printer Paper,6,499,0.2,2395.2,1646.7,Store,Credit Card,12,2025
