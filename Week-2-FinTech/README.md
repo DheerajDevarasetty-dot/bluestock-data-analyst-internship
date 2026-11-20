@@ -1,7 +1,10 @@
-## Week 2 Progress
+# Week 2 - FinTech
 
-Completed:
-- Stock Market Fundamentals
+## Completed Assignments
+
+- Stock Market Summary
 - Financial Statement Analysis
-- REST API and JSON Data Extraction
+- API Data Extraction
 - GitHub Repository Setup
+- Software Architecture Diagram
+- Bluestock FinTech Research Report
